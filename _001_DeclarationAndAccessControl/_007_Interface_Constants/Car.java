@@ -3,6 +3,7 @@ public class Car implements Buyable{
 @Override
 public void buyCar(){
 	//PRICE = 20000.00; not possible to change constants value
-	System.out.println("Car price is: " + PRICE);
+	//doors = 2;
+	System.out.println("Car price is: " + PRICE + " with " + doors + " doors");
 	}
 }
