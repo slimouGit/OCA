@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="OCA">
+    <output-path>$PROJECT_DIR$/out/artifacts/OCA</output-path>
+    <root id="root" />
+  </artifact>
+</component>
