@@ -2,8 +2,20 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_003_Default_Access/cert" />
+      <excludeFolder url="file://$MODULE_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_004_Final_Access/cert" />
+      <excludeFolder url="file://$MODULE_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_005_Abstract_Access_EXERCISE/foot" />
+      <excludeFolder url="file://$MODULE_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_013_public_members_in_different_packages/book" />
+      <excludeFolder url="file://$MODULE_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_013_public_members_in_different_packages/cert" />
+      <excludeFolder url="file://$MODULE_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_014_inherit_public_members_in_different_packages/cert" />
+      <excludeFolder url="file://$MODULE_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_014_inherit_public_members_in_different_packages/notcert" />
+      <excludeFolder url="file://$MODULE_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_016_protectedMembers/childPackage" />
+      <excludeFolder url="file://$MODULE_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_016_protectedMembers/parentPackage" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="OCA" level="project" />
   </component>
 </module>

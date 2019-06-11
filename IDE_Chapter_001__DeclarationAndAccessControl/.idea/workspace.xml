@@ -1,62 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5883f316-fc2e-41ac-843d-3f57ad16ea7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsTestFinder.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_001/HelloArgs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_001/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_002_static_imports/AfterStaticImports.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_002_static_imports/BeforeStaticImports.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_003_Default_Access/Tea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_003_Default_Access/cert/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_004_Final_Access/Tea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_004_Final_Access/cert/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_005_Abstract_Access_EXERCISE/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_005_Abstract_Access_EXERCISE/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_005_Abstract_Access_EXERCISE/foot/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_006_Interface/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_006_Interface/Drivable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_006_Interface/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_007_Interface_Constants/Buyable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_007_Interface_Constants/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_007_Interface_Constants/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_008_Interface_Default_Methods/Buyable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_008_Interface_Default_Methods/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_008_Interface_Default_Methods/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_009_Interface_Static_Methods/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_009_Interface_Static_Methods/Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_009_Interface_Static_Methods/Omniscient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_010_Interface_DefaultVsStatic/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_010_Interface_DefaultVsStatic/Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_010_Interface_DefaultVsStatic/Omniscient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_011_use_members_without_inheritance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_011_use_members_without_inheritance/Moo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_011_use_members_without_inheritance/Zoo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_012_use_members_with_inheritance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_012_use_members_with_inheritance/Moo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_012_use_members_with_inheritance/Zoo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_013_public_members_in_different_packages/book/Goo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_013_public_members_in_different_packages/cert/Sludge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_014_inherit_public_members_in_different_packages/cert/Roo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_014_inherit_public_members_in_different_packages/notcert/Cloo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_015_defaultMembersSamePackage/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_015_defaultMembersSamePackage/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_015_defaultMembersSamePackage/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_016_protectedMembers/childPackage/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_016_protectedMembers/childPackage/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_016_protectedMembers/parentPackage/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_017_localVariablesAndAccessModifiers/Foo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_018_finalMethodCantBeOverwritten/SubClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_018_finalMethodCantBeOverwritten/SuperClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_019_finalMethodArguments/FinalArguments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_020_AbstractAndConcreteClassesAndMethods/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_020_AbstractAndConcreteClassesAndMethods/Mini.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_020_AbstractAndConcreteClassesAndMethods/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-    </list>
+    <list default="true" id="5883f316-fc2e-41ac-843d-3f57ad16ea7a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -167,10 +112,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="47" />
-    <option name="y" value="5" />
-    <option name="width" value="890" />
-    <option name="height" value="780" />
+    <option name="x" value="-19" />
+    <option name="y" value="7" />
+    <option name="width" value="1378" />
+    <option name="height" value="640" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -383,12 +328,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560170784978</updated>
-      <workItem from="1560170787794" duration="6984000" />
+      <workItem from="1560170787794" duration="8121000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6984000" />
+    <option name="totallyTimeSpent" value="8121000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -410,7 +355,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32921174" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39170507" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39170507" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />

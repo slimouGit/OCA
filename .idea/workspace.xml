@@ -2,8 +2,107 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a6a57ec-8c92-4d88-99ea-4d1afff1d253" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsTestFinder.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_021_varArgs/VarArgs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/OCA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/OCA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/META-INF/IDE_Chapter_001__DeclarationAndAccessControl.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_001/HelloArgs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_001/MyClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_002_static_imports/AfterStaticImports.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_002_static_imports/BeforeStaticImports.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_003_Default_Access/Tea.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_003_Default_Access/cert/Beverage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_004_Final_Access/Tea.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_004_Final_Access/cert/Beverage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_005_Abstract_Access_EXERCISE/Apple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_005_Abstract_Access_EXERCISE/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_005_Abstract_Access_EXERCISE/foot/Fruit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_006_Interface/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_006_Interface/Drivable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_006_Interface/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_007_Interface_Constants/Buyable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_007_Interface_Constants/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_007_Interface_Constants/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_008_Interface_Default_Methods/Buyable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_008_Interface_Default_Methods/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_008_Interface_Default_Methods/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_009_Interface_Static_Methods/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_009_Interface_Static_Methods/Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_009_Interface_Static_Methods/Omniscient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_010_Interface_DefaultVsStatic/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_010_Interface_DefaultVsStatic/Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_010_Interface_DefaultVsStatic/Omniscient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_011_use_members_without_inheritance/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_011_use_members_without_inheritance/Moo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_011_use_members_without_inheritance/Zoo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_012_use_members_with_inheritance/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_012_use_members_with_inheritance/Moo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_012_use_members_with_inheritance/Zoo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_013_public_members_in_different_packages/book/Goo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_013_public_members_in_different_packages/cert/Sludge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_014_inherit_public_members_in_different_packages/cert/Roo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_014_inherit_public_members_in_different_packages/notcert/Cloo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/defaultMembersSamePackage/Child.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/defaultMembersSamePackage/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/defaultMembersSamePackage/Parent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/finalMethodCantBeOverwritten/SubClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/finalMethodCantBeOverwritten/SuperClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/localVariablesAndAccessModifiers/Foo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/protectedMembers/childPackage/Child.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/protectedMembers/childPackage/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/protectedMembers/parentPackage/Parent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_001/HelloArgs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_001/MyClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_002_static_imports/AfterStaticImports.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_002_static_imports/BeforeStaticImports.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_003_Default_Access/Tea.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_003_Default_Access/cert/Beverage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_004_Final_Access/Tea.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_004_Final_Access/cert/Beverage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_005_Abstract_Access_EXERCISE/Apple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_005_Abstract_Access_EXERCISE/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_005_Abstract_Access_EXERCISE/foot/Fruit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_006_Interface/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_006_Interface/Drivable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_006_Interface/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_007_Interface_Constants/Buyable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_007_Interface_Constants/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_007_Interface_Constants/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_008_Interface_Default_Methods/Buyable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_008_Interface_Default_Methods/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_008_Interface_Default_Methods/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_009_Interface_Static_Methods/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_009_Interface_Static_Methods/Number.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_009_Interface_Static_Methods/Omniscient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_010_Interface_DefaultVsStatic/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_010_Interface_DefaultVsStatic/Number.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_010_Interface_DefaultVsStatic/Omniscient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_011_use_members_without_inheritance/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_011_use_members_without_inheritance/Moo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_011_use_members_without_inheritance/Zoo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_012_use_members_with_inheritance/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_012_use_members_with_inheritance/Moo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_012_use_members_with_inheritance/Zoo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_013_public_members_in_different_packages/book/Goo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_013_public_members_in_different_packages/cert/Sludge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_014_inherit_public_members_in_different_packages/cert/Roo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_014_inherit_public_members_in_different_packages/notcert/Cloo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_015_defaultMembersSamePackage/Child.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_015_defaultMembersSamePackage/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_015_defaultMembersSamePackage/Parent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_016_protectedMembers/childPackage/Child.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_016_protectedMembers/childPackage/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_016_protectedMembers/parentPackage/Parent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_017_localVariablesAndAccessModifiers/Foo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_018_finalMethodCantBeOverwritten/SubClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_018_finalMethodCantBeOverwritten/SuperClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_019_finalMethodArguments/FinalArguments.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_020_AbstractAndConcreteClassesAndMethods/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_020_AbstractAndConcreteClassesAndMethods/Mini.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_020_AbstractAndConcreteClassesAndMethods/Vehicle.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,25 +115,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_001_DeclarationAndAccessControl/_006_Interface/Main.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_001_DeclarationAndAccessControl/_005_Abstract_Access_EXERCISE/Main.java">
+        <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_006_Interface/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            <state relative-caret-position="119">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,28 +140,29 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/dictionaries/salim.xml" />
-        <option value="$PROJECT_DIR$/.idea/jsTestFinder.xml" />
-        <option value="$PROJECT_DIR$/.idea/artifacts/OCA.xml" />
+        <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_021_var-arg_type/VarArgs.java" />
+        <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_021_var-arg_type/Test.java" />
+        <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_021_varArgs/VarArgs.java" />
+        <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_005_Abstract_Access_EXERCISE/lunch/Fruit.java" />
+        <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_005_Abstract_Access_EXERCISE/Apple.java" />
+        <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_013_public_members_in_different_packages/Goo/Goo.java" />
+        <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_014_inherit_public_members_in_different_packages/Cloo/Cloo.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="-15" />
+    <option name="x" value="-112" />
+    <option name="y" value="107" />
     <option name="width" value="1378" />
-    <option name="height" value="780" />
+    <option name="height" value="640" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -75,38 +173,71 @@
             <path>
               <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
               <item name="OCA" type="462c0819:PsiDirectoryNode" />
-              <item name="_001_DeclarationAndAccessControl" type="462c0819:PsiDirectoryNode" />
+              <item name="IDE_Chapter_001__DeclarationAndAccessControl" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
               <item name="OCA" type="462c0819:PsiDirectoryNode" />
-              <item name="_001_DeclarationAndAccessControl" type="462c0819:PsiDirectoryNode" />
-              <item name="_005_Abstract_Access_EXERCISE" type="462c0819:PsiDirectoryNode" />
+              <item name="IDE_Chapter_001__DeclarationAndAccessControl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
               <item name="OCA" type="462c0819:PsiDirectoryNode" />
-              <item name="_001_DeclarationAndAccessControl" type="462c0819:PsiDirectoryNode" />
+              <item name="IDE_Chapter_001__DeclarationAndAccessControl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_006_Interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OCA" type="462c0819:PsiDirectoryNode" />
+              <item name="IDE_Chapter_001__DeclarationAndAccessControl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_013_public_members_in_different_packages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OCA" type="462c0819:PsiDirectoryNode" />
+              <item name="IDE_Chapter_001__DeclarationAndAccessControl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_014_inherit_public_members_in_different_packages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OCA" type="462c0819:PsiDirectoryNode" />
+              <item name="IDE_Chapter_001__DeclarationAndAccessControl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_021_varArgs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_021_var-arg_type" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\git_repo\OCA\IDE_Chapter_001__DeclarationAndAccessControl\src\_004_Final_Access\Beverage" />
+      <recent name="F:\git_repo\OCA\IDE_Chapter_001__DeclarationAndAccessControl\src\_003_Default_Access\Beverage" />
+      <recent name="F:\git_repo\OCA\IDE_Chapter_001__DeclarationAndAccessControl\src\_014_inherit_public_members_in_different_packages\Cloo" />
+      <recent name="F:\git_repo\OCA\IDE_Chapter_001__DeclarationAndAccessControl\src\_014_inherit_public_members_in_different_packages\Roo" />
+      <recent name="F:\git_repo\OCA\IDE_Chapter_001__DeclarationAndAccessControl\src\_013_public_members_in_different_packages\Sludge" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\git_repo\OCA\IDE_Chapter_001__DeclarationAndAccessControl\src\_021_var-arg_type" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -120,9 +251,78 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cloo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_014_inherit_public_members_in_different_packages.Cloo.Cloo" />
+      <module name="OCA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_014_inherit_public_members_in_different_packages.Cloo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Goo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_013_public_members_in_different_packages.Goo.Goo" />
+      <module name="OCA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_013_public_members_in_different_packages.Goo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Goo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_013_public_members_in_different_packages.book.Goo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_013_public_members_in_different_packages.book.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_016_protectedMembers.child.Main" />
+      <module name="OCA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_016_protectedMembers.child.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_006_Interface.Main" />
+      <module name="OCA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_006_Interface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -130,6 +330,7 @@
     <configuration name="OCA" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.sun.java.util.jar.pack.Driver" />
       <module name="OCA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -165,6 +366,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.OCA" />
+      <item itemvalue="Application.Goo" />
+      <item itemvalue="Application.Goo (1)" />
+      <item itemvalue="Application.Cloo" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Cloo" />
+        <item itemvalue="Application.Goo (1)" />
+        <item itemvalue="Application.Goo" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -180,16 +398,20 @@
       <workItem from="1559972808041" duration="347000" />
       <workItem from="1560159640434" duration="610000" />
       <workItem from="1560169966184" duration="428000" />
+      <workItem from="1560273050535" duration="999000" />
+      <workItem from="1560274197510" duration="2336000" />
+      <workItem from="1560276662097" duration="1343000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1407000" />
+    <option name="totallyTimeSpent" value="6085000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25945538" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26928896" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -198,8 +420,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32872504" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32872504" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39938557" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -208,7 +430,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32872504" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -224,24 +446,123 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_001_DeclarationAndAccessControl/_006_Interface/Main.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/_001_DeclarationAndAccessControl/_006_Interface/Main.class" />
+    <entry file="file://$PROJECT_DIR$/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/_001_DeclarationAndAccessControl/_005_Abstract_Access_EXERCISE/Main.java" />
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_020_AbstractAndConcreteClassesAndMethods/Mini.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_020_AbstractAndConcreteClassesAndMethods/Car.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_001_DeclarationAndAccessControl/_005_Abstract_Access_EXERCISE/Main.java">
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_020_AbstractAndConcreteClassesAndMethods/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_005_Abstract_Access_EXERCISE/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/out/production/IDE_Chapter_001__DeclarationAndAccessControl/protectedMembers/parentPackage/Parent.class" />
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_008_Interface_Default_Methods/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_019_finalMethodArguments/FinalArguments.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_021_var-arg_type/VarArgs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_021_var-arg_type/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_007_Interface_Constants/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_005_Abstract_Access_EXERCISE/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_005_Abstract_Access_EXERCISE/lunch/Fruit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_021_varArgs/VarArgs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_013_public_members_in_different_packages/Goo/Goo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_013_public_members_in_different_packages/Sludge/Sludge.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_014_inherit_public_members_in_different_packages/Cloo/Cloo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_014_inherit_public_members_in_different_packages/Roo/Roo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_003_Default_Access/Beverage/Beverage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_003_Default_Access/Tea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_004_Final_Access/Beverage/Beverage.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_006_Interface/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -256,7 +577,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -298,6 +618,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
+          <last-edited>OCA</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -321,6 +642,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>OCA</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
