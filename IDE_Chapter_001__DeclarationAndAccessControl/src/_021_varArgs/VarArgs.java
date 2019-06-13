@@ -6,11 +6,17 @@ package _021_varArgs;
  */
 public class VarArgs {
     public static void main(String[] args){
-        giveMeArgumentsFillMyParams("Argument", 2,1,3,4,5);
+        foo("3 Argumente", 1,2,42);
+        foo("5 Argumente", 1,2,3,4,5);
     }
 
-    public static void giveMeArgumentsFillMyParams(String parameter, int ... x){
-        System.out.println(x.length);
-        System.out.println(parameter);
+    private static void foo(String s, int ... x) {
+        System.out.println("");
+        System.out.println(s);
+        for(int i:x){
+            System.out.print(i + " ");
+        }
     }
+
+  
 }
