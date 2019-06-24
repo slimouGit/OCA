@@ -8,7 +8,7 @@ public class Shuttle extends Rocket {
 
     void go() {
         blasOff();
-//        Rocket.blastOff();
+//        class__.blastOff();
     }
 
     private void blasOff() {
