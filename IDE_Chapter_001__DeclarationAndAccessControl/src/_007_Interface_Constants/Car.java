@@ -8,4 +8,9 @@ public class Car implements Buyable{
         //doors = 2;
         System.out.println("Car price is: " + PRICE + " with " + doors + " doors");
     }
+
+    @Override
+    public void sellCar() {
+        
+    }
 }

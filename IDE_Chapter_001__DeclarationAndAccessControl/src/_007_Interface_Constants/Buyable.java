@@ -1,6 +1,6 @@
 package _007_Interface_Constants;
 
-public interface Buyable {
+public interface Buyable extends Sellable {
     //Variables in interface allways
     //public static final
     double PRICE = 42000.00;
