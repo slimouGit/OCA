@@ -1,6 +1,9 @@
 package _024_Test._13;
 
 
+import java.util.HashMap;
+import java.util.Map;
+
 class Test {
 
     public static void main(String[] args) {
@@ -10,13 +13,19 @@ class Test {
                 System.out.println(item.getStatement());
             }
         }
-        System.out.println("-----------------------------------");
+        System.out.println("----------------------------------");
         System.out.println("wrong statements:");
         for (Statement item : Statement.values()) {
             if (!item.isTruthfull()) {
                 System.out.println(item.getStatement());
             }
         }
+
+        Map statements = new HashMap<String, Boolean>();
+        for (Statement item : Statement.values()) {
+            statements.put(item.getStatement(), item.isTruthfull());
+        }
+        
     }
 
     public enum Statement {
