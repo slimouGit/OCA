@@ -25,7 +25,7 @@ class Test {
         for (Statement item : Statement.values()) {
             statements.put(item.getStatement(), item.isTruthfull());
         }
-        
+
     }
 
     public enum Statement {
