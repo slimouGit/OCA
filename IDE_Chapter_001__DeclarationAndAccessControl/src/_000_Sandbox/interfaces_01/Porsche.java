@@ -19,11 +19,6 @@ public class Porsche implements Car {
         System.out.println("I stop driving my car");
     }
 
-    public static void main(String[] args){
-        new Porsche().drive();
-        new Porsche().stopCar();
 
-        new Porsche().parkingCar(); //is implimentated as default methos
-    }
 
 }
