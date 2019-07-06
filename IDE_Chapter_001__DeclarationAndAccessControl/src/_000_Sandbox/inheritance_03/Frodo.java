@@ -1,7 +1,7 @@
 package _000_Sandbox.inheritance_03;
 
 
-public class Frodo extends Hobbit{
+public class Frodo extends Hobbit {
     public static void main(String[] args) {
         int myGold = 40;
         /**
@@ -13,16 +13,16 @@ public class Frodo extends Hobbit{
          */
 
 
-
+        //get access without inheritance
         Hobbit hobbit = new Hobbit();
         System.out.println("Hobbit: " + hobbit.countGold(myGold, hobbit.hobbitGold));
-
 
 
         System.out.println("Frodo: " + new Frodo().hobbitGold());
     }
 
-    int hobbitGold(){
+    int hobbitGold() {
+        //get access via inheritance
         return countGold(40, hobbitGold);
     }
 }
