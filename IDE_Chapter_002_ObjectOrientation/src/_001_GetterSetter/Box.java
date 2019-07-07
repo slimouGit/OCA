@@ -1,4 +1,4 @@
-package _001_GetrerSetter;
+package _001_GetterSetter;
 
 public class Box {
     private int size;
