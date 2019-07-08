@@ -6,7 +6,7 @@ public class Main {
     public int right = 8;
 
     public void setLeft(int leftNum){
-        left = leftNum;
+        left = leftNum ;
         right = leftNum/3;
     }
 
