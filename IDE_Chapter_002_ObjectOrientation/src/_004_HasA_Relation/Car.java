@@ -6,5 +6,6 @@ public class Car extends Vehicle {
 
     public void tut(){
         wheel.honk();
+        new SteeringWheel().honk();
     }
 }
