@@ -6,10 +6,12 @@ public class Main {
         child.tellingWW2Stories();
         child.myRevolteTimeIn68();
         child.tellMeYourStories();
+        child.iAmTheRealHeadOfFamily();
         System.out.println("--------------------------------");
         StepDaughter stepDaughter = new StepDaughter();
         stepDaughter.tellingWW2Stories();
         stepDaughter.myRevolteTimeIn68();
         stepDaughter.wanneBePartOfFamily();
+        stepDaughter.iAmTheRealHeadOfFamily();
     }
 }
