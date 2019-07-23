@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="072d0934-4039-4683-a3be-21a4749cd35a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_009_OverriddenMethods_withObjects/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_009_OverriddenMethods_withObjects/Horse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_009_OverriddenMethods_withObjects/TestAnimals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_002_ObjectOrientation/_006_OverriddenMethods/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_002_ObjectOrientation/_006_OverriddenMethods/Horse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_002_ObjectOrientation/_006_OverriddenMethods/Main.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__PolymorphismOverloadedAndOverridden/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__PolymorphismOverloadedAndOverridden/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__PolymorphismOverloadedAndOverridden/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,28 +19,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_009_OverriddenMethods_withObjects/Animal.java">
+        <entry file="file://$PROJECT_DIR$/src/__PolymorphismOverloadedAndOverridden/Animal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+            <state relative-caret-position="68">
+              <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="55" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_009_OverriddenMethods_withObjects/Horse.java">
+        <entry file="file://$PROJECT_DIR$/src/__PolymorphismOverloadedAndOverridden/Horse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+            <state relative-caret-position="136">
+              <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_009_OverriddenMethods_withObjects/TestAnimals.java">
+        <entry file="file://$PROJECT_DIR$/src/__PolymorphismOverloadedAndOverridden/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+            <state relative-caret-position="153">
+              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -65,9 +61,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/_000_Sandbox/Test.java" />
-        <option value="$PROJECT_DIR$/src/_001_GetrerSetter/Box.java" />
-        <option value="$PROJECT_DIR$/src/_001_GetterSetter/Box.java" />
         <option value="$PROJECT_DIR$/src/_000_Sandbox/NoEncapsulation/Main.java" />
         <option value="$PROJECT_DIR$/src/_002_Inheritance/GameShape.java" />
         <option value="$PROJECT_DIR$/src/_002_Inheritance/PlayerPiece.java" />
@@ -116,6 +109,9 @@
         <option value="$PROJECT_DIR$/src/_009_OverriddenMethods_withObjects/Horse.java" />
         <option value="$PROJECT_DIR$/src/_009_OverriddenMethods_withObjects/Animal.java" />
         <option value="$PROJECT_DIR$/src/_009_OverriddenMethods_withObjects/TestAnimals.java" />
+        <option value="$PROJECT_DIR$/src/__PolymorphismOverloadedAndOverridden/Animal.java" />
+        <option value="$PROJECT_DIR$/src/__PolymorphismOverloadedAndOverridden/Horse.java" />
+        <option value="$PROJECT_DIR$/src/__PolymorphismOverloadedAndOverridden/Main.java" />
       </list>
     </option>
   </component>
@@ -161,19 +157,13 @@
               <item name="IDE_Chapter_002_ObjectOrientation" type="b2602c69:ProjectViewProjectNode" />
               <item name="IDE_Chapter_002_ObjectOrientation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_006_OverriddenMethods_withPrimitives" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IDE_Chapter_002_ObjectOrientation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IDE_Chapter_002_ObjectOrientation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_007_InvokingSupertypeVersion" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IDE_Chapter_002_ObjectOrientation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IDE_Chapter_002_ObjectOrientation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_009_OverriddenMethods_withObjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDE_Chapter_002_ObjectOrientation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IDE_Chapter_002_ObjectOrientation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="__PolymorphismOverloadedAndOverridden" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -206,20 +196,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestAnimals">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_000_Sandbox.Polymorphism_Animals.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="__PolymorphismOverloadedAndOverridden.Main" />
       <module name="IDE_Chapter_002_ObjectOrientation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_000_Sandbox.Polymorphism_Animals.*" />
+          <option name="PATTERN" value="__PolymorphismOverloadedAndOverridden.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -330,11 +320,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.TestAnimals" />
         <item itemvalue="Application.TestAdder" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -360,18 +350,18 @@
       <workItem from="1563294779713" duration="717000" />
       <workItem from="1563550804376" duration="697000" />
       <workItem from="1563811593266" duration="3106000" />
-      <workItem from="1563878798610" duration="1998000" />
+      <workItem from="1563878798610" duration="2462000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26047000" />
+    <option name="totallyTimeSpent" value="26511000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7012384" visible="true" weight="0.21002132" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7012384" visible="true" weight="0.21002132" />
       <window_info id="Structure" order="1" sideWeight="0.2987616" side_tool="true" visible="true" weight="0.21002132" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -381,7 +371,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32962963" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32917964" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32917964" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.46936655" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -412,21 +402,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_001_GetterSetter/Box.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/NoEncapsulation/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -724,6 +699,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/_009_OverriddenMethods_withObjects/TestAnimals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/_009_OverriddenMethods_withObjects/Horse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -738,10 +720,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_009_OverriddenMethods_withObjects/TestAnimals.java">
+    <entry file="file://$PROJECT_DIR$/src/__PolymorphismOverloadedAndOverridden/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+        <state relative-caret-position="68">
+          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/__PolymorphismOverloadedAndOverridden/Horse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/__PolymorphismOverloadedAndOverridden/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
         </state>
       </provider>
     </entry>
