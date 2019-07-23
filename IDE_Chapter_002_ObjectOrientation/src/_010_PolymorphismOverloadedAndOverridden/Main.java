@@ -1,4 +1,4 @@
-package __PolymorphismOverloadedAndOverridden;
+package _010_PolymorphismOverloadedAndOverridden;
 
 public class Main {
     public static void main(String[] args){
