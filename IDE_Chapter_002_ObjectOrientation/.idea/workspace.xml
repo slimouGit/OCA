@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="072d0934-4039-4683-a3be-21a4749cd35a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_008_OverloadingMethods/Adder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_008_OverloadingMethods/TestAdder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_009_OverriddenMethods_withObjects/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_009_OverriddenMethods_withObjects/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_009_OverriddenMethods_withObjects/TestAnimals.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_007_InvokingSupertypeVersion/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_007_InvokingSupertypeVersion/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_002_ObjectOrientation/_006_OverriddenMethods/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_002_ObjectOrientation/_006_OverriddenMethods/Horse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_002_ObjectOrientation/_006_OverriddenMethods/Main.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,19 +23,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_008_OverloadingMethods/Adder.java">
+        <entry file="file://$PROJECT_DIR$/src/_009_OverriddenMethods_withObjects/Animal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            <state relative-caret-position="153">
+              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_009_OverriddenMethods_withObjects/Horse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_008_OverloadingMethods/TestAdder.java">
+        <entry file="file://$PROJECT_DIR$/src/_009_OverriddenMethods_withObjects/TestAnimals.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+            <state relative-caret-position="306">
+              <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -53,8 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/_001_Sandbox/Test.java" />
         <option value="$PROJECT_DIR$/src/_000_Sandbox/Test.java" />
         <option value="$PROJECT_DIR$/src/_001_GetrerSetter/Box.java" />
         <option value="$PROJECT_DIR$/src/_001_GetterSetter/Box.java" />
@@ -103,6 +113,9 @@
         <option value="$PROJECT_DIR$/src/_008_OverloadingMethods.java" />
         <option value="$PROJECT_DIR$/src/_008_OverloadingMethods/Adder.java" />
         <option value="$PROJECT_DIR$/src/_008_OverloadingMethods/TestAdder.java" />
+        <option value="$PROJECT_DIR$/src/_009_OverriddenMethods_withObjects/Horse.java" />
+        <option value="$PROJECT_DIR$/src/_009_OverriddenMethods_withObjects/Animal.java" />
+        <option value="$PROJECT_DIR$/src/_009_OverriddenMethods_withObjects/TestAnimals.java" />
       </list>
     </option>
   </component>
@@ -148,7 +161,7 @@
               <item name="IDE_Chapter_002_ObjectOrientation" type="b2602c69:ProjectViewProjectNode" />
               <item name="IDE_Chapter_002_ObjectOrientation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_006_OverriddenMethods" type="462c0819:PsiDirectoryNode" />
+              <item name="_006_OverriddenMethods_withPrimitives" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IDE_Chapter_002_ObjectOrientation" type="b2602c69:ProjectViewProjectNode" />
@@ -160,7 +173,7 @@
               <item name="IDE_Chapter_002_ObjectOrientation" type="b2602c69:ProjectViewProjectNode" />
               <item name="IDE_Chapter_002_ObjectOrientation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_008_OverloadingMethods" type="462c0819:PsiDirectoryNode" />
+              <item name="_009_OverriddenMethods_withObjects" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -193,7 +206,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestAdder">
+  <component name="RunManager" selected="Application.TestAnimals">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -221,20 +234,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="_007_InvokingSupertypeVersion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_005_Polymorphism_01.Main" />
-      <module name="IDE_Chapter_002_ObjectOrientation" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_005_Polymorphism_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -284,6 +283,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestAnimals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_009_OverriddenMethods_withObjects.TestAnimals" />
+      <module name="IDE_Chapter_002_ObjectOrientation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_009_OverriddenMethods_withObjects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -317,11 +330,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestAnimals" />
         <item itemvalue="Application.TestAdder" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -347,19 +360,19 @@
       <workItem from="1563294779713" duration="717000" />
       <workItem from="1563550804376" duration="697000" />
       <workItem from="1563811593266" duration="3106000" />
-      <workItem from="1563878798610" duration="929000" />
+      <workItem from="1563878798610" duration="1998000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24978000" />
+    <option name="totallyTimeSpent" value="26047000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.701973" visible="true" weight="0.21002132" />
-      <window_info id="Structure" order="1" sideWeight="0.298027" side_tool="true" visible="true" weight="0.21002132" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7012384" visible="true" weight="0.21002132" />
+      <window_info id="Structure" order="1" sideWeight="0.2987616" side_tool="true" visible="true" weight="0.21002132" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -368,8 +381,8 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32962963" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32962963" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.47037038" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32917964" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.46936655" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -399,13 +412,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/Test.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -634,14 +640,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_006_OverriddenMethods/Animal.java">
+    <entry file="file://$PROJECT_DIR$/src/_006_OverriddenMethods_withPrimitives/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_006_OverriddenMethods/Horse.java">
+    <entry file="file://$PROJECT_DIR$/src/_006_OverriddenMethods_withPrimitives/Horse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
@@ -655,7 +661,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_006_OverriddenMethods/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/_006_OverriddenMethods_withPrimitives/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
@@ -713,8 +719,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_008_OverloadingMethods/TestAdder.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="50" lean-forward="true" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_009_OverriddenMethods_withObjects/Horse.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_009_OverriddenMethods_withObjects/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_009_OverriddenMethods_withObjects/TestAnimals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
         </state>
       </provider>
     </entry>
