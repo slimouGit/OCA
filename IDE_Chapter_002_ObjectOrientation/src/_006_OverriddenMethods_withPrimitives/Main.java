@@ -1,4 +1,4 @@
-package _006_OverriddenMethods;
+package _006_OverriddenMethods_withPrimitives;
 
 public class Main {
     public static void main(String[] args){
