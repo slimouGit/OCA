@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="072d0934-4039-4683-a3be-21a4749cd35a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/_009_AbstractClassesAndMultipleInterfaces/Ball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/_009_AbstractClassesAndMultipleInterfaces/BeachBall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/_009_AbstractClassesAndMultipleInterfaces/Customizable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/_009_AbstractClassesAndMultipleInterfaces/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/_009_AbstractClassesAndMultipleInterfaces/Moveable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/_009_AbstractClassesAndMultipleInterfaces/Pumpable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/_009_AbstractClassesAndMultipleInterfaces/Useable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_013_MultipleInheritance/I1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_013_MultipleInheritance/I2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_013_MultipleInheritance/MultiInt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IDE_Chapter_001__DeclarationAndAccessControl/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_001__DeclarationAndAccessControl/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -25,64 +21,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_009_AbstractClassesAndMultipleInterfaces/Moveable.java">
+        <entry file="file://$PROJECT_DIR$/src/_013_MultipleInheritance/I1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+              <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="5" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_009_AbstractClassesAndMultipleInterfaces/Pumpable.java">
+        <entry file="file://$PROJECT_DIR$/src/_013_MultipleInheritance/I2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_009_AbstractClassesAndMultipleInterfaces/Useable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_009_AbstractClassesAndMultipleInterfaces/Ball.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_009_AbstractClassesAndMultipleInterfaces/Customizable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="55" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_009_AbstractClassesAndMultipleInterfaces/BeachBall.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="73" selection-start-line="25" selection-start-column="73" selection-end-line="25" selection-end-column="73" />
+            <state relative-caret-position="136">
+              <caret line="8" column="56" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_009_AbstractClassesAndMultipleInterfaces/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/_013_MultipleInheritance/MultiInt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            <state relative-caret-position="170">
+              <caret line="10" column="77" selection-start-line="10" selection-start-column="77" selection-end-line="10" selection-end-column="77" />
             </state>
           </provider>
         </entry>
@@ -103,9 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/_000_Sandbox/Polymorphism_Animals/Elefant.java" />
-        <option value="$PROJECT_DIR$/src/_000_Sandbox/Polymorphism_Animals/WildBoar.java" />
-        <option value="$PROJECT_DIR$/src/_000_Sandbox/Polymorphism_Animals/Animal.java" />
         <option value="$PROJECT_DIR$/src/_000_Sandbox/Polymorphism_Animals/interfaces/Caressable.java" />
         <option value="$PROJECT_DIR$/src/_000_Sandbox/Polymorphism_Animals/interfaces/Huntable.java" />
         <option value="$PROJECT_DIR$/src/_000_Sandbox/Polymorphism_Animals/Main.java" />
@@ -150,10 +107,13 @@
         <option value="$PROJECT_DIR$/src/_000_Sandbox/_009_AbstractClassesAndMultipleInterfaces/Moveable.java" />
         <option value="$PROJECT_DIR$/src/_000_Sandbox/_009_AbstractClassesAndMultipleInterfaces/Pumpable.java" />
         <option value="$PROJECT_DIR$/src/_000_Sandbox/_009_AbstractClassesAndMultipleInterfaces/Useable.java" />
-        <option value="$PROJECT_DIR$/src/_000_Sandbox/_009_AbstractClassesAndMultipleInterfaces/Customizable.java" />
         <option value="$PROJECT_DIR$/src/_000_Sandbox/_009_AbstractClassesAndMultipleInterfaces/BeachBall.java" />
         <option value="$PROJECT_DIR$/src/_000_Sandbox/_009_AbstractClassesAndMultipleInterfaces/Ball.java" />
         <option value="$PROJECT_DIR$/src/_000_Sandbox/_009_AbstractClassesAndMultipleInterfaces/Main.java" />
+        <option value="$PROJECT_DIR$/src/_000_Sandbox/_009_AbstractClassesAndMultipleInterfaces/Customizable.java" />
+        <option value="$PROJECT_DIR$/src/_013_MultipleInheritance/I1.java" />
+        <option value="$PROJECT_DIR$/src/_013_MultipleInheritance/I2.java" />
+        <option value="$PROJECT_DIR$/src/_013_MultipleInheritance/MultiInt.java" />
       </list>
     </option>
   </component>
@@ -195,13 +155,7 @@
               <item name="IDE_Chapter_002_ObjectOrientation" type="b2602c69:ProjectViewProjectNode" />
               <item name="IDE_Chapter_002_ObjectOrientation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_008_CastingTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IDE_Chapter_002_ObjectOrientation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IDE_Chapter_002_ObjectOrientation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_009_AbstractClassesAndMultipleInterfaces" type="462c0819:PsiDirectoryNode" />
+              <item name="_013_MultipleInheritance" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -235,7 +189,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.MultiInt">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -249,20 +203,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="_000_Sandbox._004_Polymorphism_Animals.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_012_UpCasting.Main" />
-      <module name="IDE_Chapter_002_ObjectOrientation" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_012_UpCasting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -354,6 +294,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MultiInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_013_MultipleInheritance.MultiInt" />
+      <module name="IDE_Chapter_002_ObjectOrientation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_013_MultipleInheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -387,11 +341,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MultiInt" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -418,18 +372,18 @@
       <workItem from="1563550804376" duration="697000" />
       <workItem from="1563811593266" duration="3106000" />
       <workItem from="1563878798610" duration="8268000" />
-      <workItem from="1563943527560" duration="2198000" />
+      <workItem from="1563943527560" duration="3185000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34515000" />
+    <option name="totallyTimeSpent" value="35502000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7012384" visible="true" weight="0.26972282" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7012384" visible="true" weight="0.26972282" />
       <window_info id="Structure" order="1" sideWeight="0.2987616" side_tool="true" weight="0.21002132" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -439,7 +393,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32962963" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32917964" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32917964" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.33956388" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -447,7 +401,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32962963" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32917964" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
@@ -470,27 +424,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/_006_OverriddenMethods_withPrimitives/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_002_InheritMethodsOrNot/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_002_InheritMethodsOrNot/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_007_InvokingSupertypeVersion/Superclass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -780,17 +713,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_009_AbstractClassesAndMultipleInterfaces/Customizable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="55" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_009_AbstractClassesAndMultipleInterfaces/Useable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_009_AbstractClassesAndMultipleInterfaces/Ball.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_009_AbstractClassesAndMultipleInterfaces/Customizable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
         </state>
       </provider>
     </entry>
@@ -801,17 +741,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_009_AbstractClassesAndMultipleInterfaces/Ball.java">
+    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_009_AbstractClassesAndMultipleInterfaces/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="45" />
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_009_AbstractClassesAndMultipleInterfaces/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/_013_MultipleInheritance/I1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        <state relative-caret-position="51">
+          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_013_MultipleInheritance/I2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="56" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_013_MultipleInheritance/MultiInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="77" selection-start-line="10" selection-start-column="77" selection-end-line="10" selection-end-column="77" />
         </state>
       </provider>
     </entry>
