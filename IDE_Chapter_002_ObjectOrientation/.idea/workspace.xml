@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="072d0934-4039-4683-a3be-21a4749cd35a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_014_Contructor/Bar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_014_Contructor/UseBar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_001__DeclarationAndAccessControl/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_001__DeclarationAndAccessControl/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_014_Contructor/UseBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_014_Contructor/UseBar.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/_014_Contructor/UseBar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            <state relative-caret-position="136">
+              <caret line="8" column="62" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -364,12 +361,12 @@
       <workItem from="1563878798610" duration="8268000" />
       <workItem from="1563943527560" duration="3185000" />
       <workItem from="1563964910481" duration="632000" />
-      <workItem from="1564044332563" duration="3031000" />
+      <workItem from="1564044332563" duration="3269000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39165000" />
+    <option name="totallyTimeSpent" value="39403000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -756,8 +753,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_014_Contructor/UseBar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        <state relative-caret-position="136">
+          <caret line="8" column="62" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
         </state>
       </provider>
     </entry>
