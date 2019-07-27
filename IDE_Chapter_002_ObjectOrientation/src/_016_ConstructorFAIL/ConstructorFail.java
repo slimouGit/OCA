@@ -12,7 +12,7 @@ public class ConstructorFail {
     public ConstructorFail(String s) {
         this();
     }
-     
+
      **/
 
     //ITS LIKE THE FOLLOWING CODE
