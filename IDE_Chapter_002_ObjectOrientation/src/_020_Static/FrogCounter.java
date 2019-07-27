@@ -23,7 +23,7 @@ public class FrogCounter {
         //instance of class is to be created (+ Frog)
         //method is called (+ Frog)
         new FrogCounter().increaseFrogs();
-        System.out.println("Amount of frogs: " + frogCount);
+        System.out.println("Amount of frogs: " + frogCount); // 2 more frogs
 
         new FrogCounter().increaseFrogs();
         System.out.println("Amount of frogs: " + frogCount);
