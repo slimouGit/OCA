@@ -27,6 +27,6 @@ public class Bar {
         //possible access by creating an object
         Bar b2 = new Bar();
         b2.go();
-        
+
     }
 }
