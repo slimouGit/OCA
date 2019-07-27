@@ -17,11 +17,16 @@ public class Bar {
 
     //STATIC METHOD
     public static void main(String[] args){
-        //access to static method from static method possible
+        //access static methods by dot operator -> dot operator can be used
+        Bar.goWeiterWeg();
+
+        //access to static method from static method possible -> dot operator is not needed
         goWeiterWeg();
+
 
         //possible access by creating an object
         Bar b2 = new Bar();
         b2.go();
+        
     }
 }
