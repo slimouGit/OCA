@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="072d0934-4039-4683-a3be-21a4749cd35a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_017_InitialitionBlocks/SmallInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_018_MultipleInits/Init.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,11 +17,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_017_InitialitionBlocks/SmallInit.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/_018_MultipleInits/Init.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -41,7 +51,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/_006_OverriddenMethods/Main.java" />
         <option value="$PROJECT_DIR$/src/_000_Sandbox/InheritMethodsOrNot/Dog.java" />
         <option value="$PROJECT_DIR$/src/_000_Sandbox/InheritMethodsOrNot/Animal.java" />
         <option value="$PROJECT_DIR$/src/_000_Sandbox/InheritMethodsOrNot/Main.java" />
@@ -92,6 +101,7 @@
         <option value="$PROJECT_DIR$/src/_015_OverloadedConstructor/Animal.java" />
         <option value="$PROJECT_DIR$/src/_016_ConstructorFAIL/ConstructorFail.java" />
         <option value="$PROJECT_DIR$/src/_017_InitialitionBlocks/SmallInit.java" />
+        <option value="$PROJECT_DIR$/src/_018_MultipleInits/Init.java" />
       </list>
     </option>
   </component>
@@ -141,6 +151,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_017_InitialitionBlocks" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="IDE_Chapter_002_ObjectOrientation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IDE_Chapter_002_ObjectOrientation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_018_MultipleInits" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -173,7 +189,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SmallInit">
+  <component name="RunManager" selected="Application.Init">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -194,13 +210,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_000_Sandbox._009_AbstractClassesAndMultipleInterfaces.Main" />
+    <configuration name="Init" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_018_MultipleInits.Init" />
       <module name="IDE_Chapter_002_ObjectOrientation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_000_Sandbox._009_AbstractClassesAndMultipleInterfaces.*" />
+          <option name="PATTERN" value="_018_MultipleInits.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -325,11 +341,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Init" />
         <item itemvalue="Application.SmallInit" />
         <item itemvalue="Application.Animal" />
         <item itemvalue="Application.UseBar" />
         <item itemvalue="Application.MultiInt" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -359,18 +375,18 @@
       <workItem from="1563943527560" duration="3185000" />
       <workItem from="1563964910481" duration="632000" />
       <workItem from="1564044332563" duration="5891000" />
-      <workItem from="1564215942360" duration="878000" />
+      <workItem from="1564215942360" duration="1776000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42903000" />
+    <option name="totallyTimeSpent" value="43801000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7012384" visible="true" weight="0.2782516" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7012384" visible="true" weight="0.2782516" />
       <window_info id="Structure" order="1" sideWeight="0.2987616" side_tool="true" weight="0.21002132" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -380,7 +396,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32962963" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32917964" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32917964" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.33956388" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -467,13 +483,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/_008_OverloadingMethods/TestAdder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="50" lean-forward="true" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_009_OverriddenMethods_withObjects/TestAnimals.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -813,8 +822,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_017_InitialitionBlocks/SmallInit.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_018_MultipleInits/Init.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
         </state>
       </provider>
     </entry>
