@@ -1,4 +1,4 @@
-package _011_StaticNonStaticAccess;
+package _000_Sandbox._011_StaticNonStaticAccess;
 
 public class StaticTest {
     int nonStaticVar = 42;

@@ -284,12 +284,12 @@
       </method>
     </configuration>
     <configuration name="StaticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_011_StaticNonStaticAccess.StaticTest" />
+      <option name="MAIN_CLASS_NAME" value="_000_Sandbox._011_StaticNonStaticAccess.StaticTest" />
       <module name="IDE_Chapter_002_ObjectOrientation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_011_StaticNonStaticAccess.*" />
+          <option name="PATTERN" value="_000_Sandbox._011_StaticNonStaticAccess.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
