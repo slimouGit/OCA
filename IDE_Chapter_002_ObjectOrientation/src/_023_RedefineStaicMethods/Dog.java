@@ -16,5 +16,6 @@ public class Dog extends Animal {
 
         Dog.doStuff();
         Animal.doStuff();
+
     }
 }

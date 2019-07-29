@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="072d0934-4039-4683-a3be-21a4749cd35a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_023_RedefineStaicMethods/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_023_RedefineStaicMethods/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_011_StaticNonStaticAccess/StaticTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_002_ObjectOrientation/_023_RedefineStaicMethods/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDE_Chapter_002_ObjectOrientation/_023_RedefineStaicMethods/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_023_RedefineStaicMethods/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_023_RedefineStaicMethods/Dog.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,20 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_023_RedefineStaicMethods/Animal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_023_RedefineStaicMethods/Dog.java">
+        <entry file="file://$PROJECT_DIR$/src/_011_StaticNonStaticAccess/StaticTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+            <state relative-caret-position="-182">
+              <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -51,8 +44,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/__PolymorphismOverloadedAndOverridden/Animal.java" />
-        <option value="$PROJECT_DIR$/src/__PolymorphismOverloadedAndOverridden/Horse.java" />
         <option value="$PROJECT_DIR$/src/__PolymorphismOverloadedAndOverridden/Main.java" />
         <option value="$PROJECT_DIR$/src/_000_Sandbox/OverloadedOverriddenMethods/StandardCan.java" />
         <option value="$PROJECT_DIR$/src/_000_Sandbox/OverloadedOverriddenMethods/StandardBottle.java" />
@@ -102,6 +93,8 @@
         <option value="$PROJECT_DIR$/src/_022_StaticInterface/DontBoilFrogs.java" />
         <option value="$PROJECT_DIR$/src/_023_RedefineStaicMethods/Animal.java" />
         <option value="$PROJECT_DIR$/src/_023_RedefineStaicMethods/Dog.java" />
+        <option value="$PROJECT_DIR$/src/_011_StaticNonStaticAccess/ExternClass.java" />
+        <option value="$PROJECT_DIR$/src/_011_StaticNonStaticAccess/StaticTest.java" />
       </list>
     </option>
   </component>
@@ -125,8 +118,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -144,6 +135,12 @@
               <item name="IDE_Chapter_002_ObjectOrientation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_000_Sandbox" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDE_Chapter_002_ObjectOrientation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IDE_Chapter_002_ObjectOrientation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_011_StaticNonStaticAccess" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IDE_Chapter_002_ObjectOrientation" type="b2602c69:ProjectViewProjectNode" />
@@ -179,6 +176,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -207,23 +206,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Dog">
+  <component name="RunManager" selected="Application.StaticTest">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AccessInstantVarFromStaticMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_021_AccessInstanceVarFromStaticMethod.AccessInstantVarFromStaticMethod" />
-      <module name="IDE_Chapter_002_ObjectOrientation" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_021_AccessInstanceVarFromStaticMethod.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -271,20 +256,6 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_000_Sandbox._005_OverloadedOverriddenMethods.Main" />
-      <module name="IDE_Chapter_002_ObjectOrientation" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_000_Sandbox._005_OverloadedOverriddenMethods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_000_Sandbox._008_CastingTest.Main" />
       <module name="IDE_Chapter_002_ObjectOrientation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -305,6 +276,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="_000_Sandbox.Inheritance_chain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_011_StaticNonStaticAccess.StaticTest" />
+      <module name="IDE_Chapter_002_ObjectOrientation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_011_StaticNonStaticAccess.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -359,11 +344,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StaticTest" />
         <item itemvalue="Application.Dog" />
         <item itemvalue="Application.Bar" />
         <item itemvalue="Application.DontBoilFrogs" />
         <item itemvalue="Application.TestFrog" />
-        <item itemvalue="Application.AccessInstantVarFromStaticMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -393,18 +378,19 @@
       <workItem from="1563943527560" duration="3185000" />
       <workItem from="1563964910481" duration="632000" />
       <workItem from="1564044332563" duration="5891000" />
-      <workItem from="1564215942360" duration="8956000" />
+      <workItem from="1564215942360" duration="9144000" />
+      <workItem from="1564382521736" duration="3560000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50981000" />
+    <option name="totallyTimeSpent" value="54729000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7012384" visible="true" weight="0.2782516" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7012384" visible="true" weight="0.28144988" />
       <window_info id="Structure" order="1" sideWeight="0.2987616" side_tool="true" weight="0.21002132" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -414,7 +400,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32962963" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.17860852" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2024922" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.33956388" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -537,20 +523,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_001_Inheritance_chain/Child.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_011_Casting/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/Casting_missmatches/Cat.java" />
     <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_006_Casting_missmatches/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -846,13 +818,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_010_StaticAccessTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_010_StaticAccessTests.java" />
     <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_010_StaticAccessTests/Bar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
@@ -874,6 +840,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/_023_RedefineStaicMethods/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/_023_RedefineStaicMethods/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -881,10 +854,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_023_RedefineStaicMethods/Dog.java">
+    <entry file="file://$PROJECT_DIR$/src/_011_StaticNonStaticAccess/ExternClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        <state relative-caret-position="119">
+          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_011_StaticNonStaticAccess/StaticTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-182">
+          <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
         </state>
       </provider>
     </entry>
