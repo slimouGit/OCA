@@ -7,8 +7,12 @@ public class Main {
         Animal a1 = d;
         Animal a2 = (Animal) d;
 
+        Animal a3 = new Animal();
+
         a1.makeNoise();
 
         a2.makeNoise();
+
+        a3.makeNoise();
     }
 }
