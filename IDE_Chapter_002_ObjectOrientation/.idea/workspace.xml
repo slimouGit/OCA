@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="072d0934-4039-4683-a3be-21a4749cd35a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_011_StaticNonStaticAccess/StaticTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_024_Test/_07/Locomotive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_001__DeclarationAndAccessControl/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_001__DeclarationAndAccessControl/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_002_ObjectOrientation/_023_RedefineStaicMethods/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDE_Chapter_002_ObjectOrientation/_023_RedefineStaicMethods/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_023_RedefineStaicMethods/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_023_RedefineStaicMethods/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_002_ObjectOrientation/_011_StaticNonStaticAccess/StaticTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_002_ObjectOrientation/_012_UpCasting/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDE_Chapter_002_ObjectOrientation/_012_UpCasting/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_024_Test/_06/Chrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_024_Test/_06/Chrome.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,10 +22,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_011_StaticNonStaticAccess/StaticTest.java">
+        <entry file="file://$PROJECT_DIR$/src/_024_Test/_07/Locomotive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-182">
-              <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+            <state relative-caret-position="221">
+              <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -44,22 +46,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/__PolymorphismOverloadedAndOverridden/Main.java" />
-        <option value="$PROJECT_DIR$/src/_000_Sandbox/OverloadedOverriddenMethods/StandardCan.java" />
-        <option value="$PROJECT_DIR$/src/_000_Sandbox/OverloadedOverriddenMethods/StandardBottle.java" />
-        <option value="$PROJECT_DIR$/src/_000_Sandbox/OverloadedOverriddenMethods/Main.java" />
-        <option value="$PROJECT_DIR$/src/_000_Sandbox/OverloadedOverriddenMethods/BigBottle.java" />
-        <option value="$PROJECT_DIR$/src/_011_Casting/Animal.java" />
-        <option value="$PROJECT_DIR$/src/_011_Casting/Dog.java" />
-        <option value="$PROJECT_DIR$/src/_011_Casting/Main.java" />
-        <option value="$PROJECT_DIR$/src/_000_Sandbox/Casting_missmatches/Animal.java" />
-        <option value="$PROJECT_DIR$/src/_000_Sandbox/Casting_missmatches/Cat.java" />
-        <option value="$PROJECT_DIR$/src/_000_Sandbox/_007_Casting_missmatches/Animal.java" />
-        <option value="$PROJECT_DIR$/src/_000_Sandbox/_007_Casting_missmatches/Cat.java" />
-        <option value="$PROJECT_DIR$/src/_000_Sandbox/_007_Casting_missmatches/Main.java" />
-        <option value="$PROJECT_DIR$/src/_012_UpCasting/Animal.java" />
-        <option value="$PROJECT_DIR$/src/_012_UpCasting/Main.java" />
-        <option value="$PROJECT_DIR$/src/_012_UpCasting/Dog.java" />
         <option value="$PROJECT_DIR$/src/_000_Sandbox/_008_CastingTest/Animal.java" />
         <option value="$PROJECT_DIR$/src/_000_Sandbox/_007_CastingTest/Dog.java" />
         <option value="$PROJECT_DIR$/src/_000_Sandbox/_008_CastingTest/Dog.java" />
@@ -95,6 +81,22 @@
         <option value="$PROJECT_DIR$/src/_023_RedefineStaicMethods/Dog.java" />
         <option value="$PROJECT_DIR$/src/_011_StaticNonStaticAccess/ExternClass.java" />
         <option value="$PROJECT_DIR$/src/_011_StaticNonStaticAccess/StaticTest.java" />
+        <option value="$PROJECT_DIR$/src/_012_UpCasting/Main.java" />
+        <option value="$PROJECT_DIR$/src/_024_Test/_02/Bottom2.java" />
+        <option value="$PROJECT_DIR$/src/_024_Test/_02/Top.java" />
+        <option value="$PROJECT_DIR$/src/_024_Test/_03/Clidlet.java" />
+        <option value="$PROJECT_DIR$/src/_024_Test/_03/Cliddex.java" />
+        <option value="$PROJECT_DIR$/src/_024_Test/_01/readme" />
+        <option value="$PROJECT_DIR$/src/_024_Test/_05/Raptor.java" />
+        <option value="$PROJECT_DIR$/src/_024_Test/_05/Bird.java" />
+        <option value="$PROJECT_DIR$/src/_024_Test/_05/Hawk.java" />
+        <option value="$PROJECT_DIR$/src/_024_Test/Extended_Experiments/Animal.java" />
+        <option value="$PROJECT_DIR$/src/_024_Test/Extended_Experiments/Dog.java" />
+        <option value="$PROJECT_DIR$/src/_024_Test/_05/Extended_Experiments/Dog.java" />
+        <option value="$PROJECT_DIR$/src/_024_Test/_06/X.java" />
+        <option value="$PROJECT_DIR$/src/_024_Test/_06/Y.java" />
+        <option value="$PROJECT_DIR$/src/_024_Test/_06/Chrome.java" />
+        <option value="$PROJECT_DIR$/src/_024_Test/_07/Locomotive.java" />
       </list>
     </option>
   </component>
@@ -106,9 +108,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="70" />
-    <option name="y" value="37" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="312" />
+    <option name="y" value="75" />
     <option name="width" value="1378" />
     <option name="height" value="943" />
   </component>
@@ -140,58 +142,29 @@
               <item name="IDE_Chapter_002_ObjectOrientation" type="b2602c69:ProjectViewProjectNode" />
               <item name="IDE_Chapter_002_ObjectOrientation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_011_StaticNonStaticAccess" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IDE_Chapter_002_ObjectOrientation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IDE_Chapter_002_ObjectOrientation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_020_Static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IDE_Chapter_002_ObjectOrientation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IDE_Chapter_002_ObjectOrientation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_021_AccessInstanceVarFromStaticMethod" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IDE_Chapter_002_ObjectOrientation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IDE_Chapter_002_ObjectOrientation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_021_AccessWithDotOperator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IDE_Chapter_002_ObjectOrientation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IDE_Chapter_002_ObjectOrientation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_022_StaticInterface" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IDE_Chapter_002_ObjectOrientation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IDE_Chapter_002_ObjectOrientation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_023_RedefineStaicMethods" type="462c0819:PsiDirectoryNode" />
+              <item name="_07" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Angular/Angular_ToDo/MyToDo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/_024_Test/_04" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\git_repo\OCA\IDE_Chapter_002_ObjectOrientation\src\_024_Test\_04" />
+      <recent name="F:\git_repo\OCA\IDE_Chapter_003_ObjectOrientation\src" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="_000_Sandbox._007_Casting_missmatches" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\git_repo\OCA\IDE_Chapter_003_ObjectOrientation\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -206,20 +179,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StaticTest">
+  <component name="RunManager" selected="Application.Locomotive">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_000_Sandbox._010_StaticAccessTests.Bar" />
+    <configuration name="Chrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_024_Test._06.Chrome" />
       <module name="IDE_Chapter_002_ObjectOrientation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_000_Sandbox._010_StaticAccessTests.*" />
+          <option name="PATTERN" value="_024_Test._06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,13 +200,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_023_RedefineStaicMethods.Dog" />
+    <configuration name="Clidlet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_024_Test._03.Clidlet" />
       <module name="IDE_Chapter_002_ObjectOrientation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_023_RedefineStaicMethods.*" />
+          <option name="PATTERN" value="_024_Test._03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -241,13 +214,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DontBoilFrogs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_022_StaticInterface.DontBoilFrogs" />
+    <configuration name="Hawk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_024_Test._05.Hawk" />
       <module name="IDE_Chapter_002_ObjectOrientation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_022_StaticInterface.*" />
+          <option name="PATTERN" value="_024_Test._05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -255,13 +228,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_000_Sandbox._008_CastingTest.Main" />
+    <configuration name="Locomotive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_024_Test._07.Locomotive" />
       <module name="IDE_Chapter_002_ObjectOrientation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_000_Sandbox._008_CastingTest.*" />
+          <option name="PATTERN" value="_024_Test._07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -269,41 +242,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_000_Sandbox.Inheritance_chain.Main" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_012_UpCasting.Main" />
       <module name="IDE_Chapter_002_ObjectOrientation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_000_Sandbox.Inheritance_chain.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StaticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_000_Sandbox._011_StaticNonStaticAccess.StaticTest" />
-      <module name="IDE_Chapter_002_ObjectOrientation" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_000_Sandbox._011_StaticNonStaticAccess.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestFrog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_021_AccessWithDotOperator.TestFrog" />
-      <module name="IDE_Chapter_002_ObjectOrientation" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_021_AccessWithDotOperator.*" />
+          <option name="PATTERN" value="_012_UpCasting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -344,11 +289,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StaticTest" />
-        <item itemvalue="Application.Dog" />
-        <item itemvalue="Application.Bar" />
-        <item itemvalue="Application.DontBoilFrogs" />
-        <item itemvalue="Application.TestFrog" />
+        <item itemvalue="Application.Locomotive" />
+        <item itemvalue="Application.Chrome" />
+        <item itemvalue="Application.Clidlet" />
+        <item itemvalue="Application.Hawk" />
+        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -380,17 +325,26 @@
       <workItem from="1564044332563" duration="5891000" />
       <workItem from="1564215942360" duration="9144000" />
       <workItem from="1564382521736" duration="3560000" />
+      <workItem from="1564463023110" duration="2624000" />
+      <workItem from="1564553150762" duration="1853000" />
+      <workItem from="1565200215712" duration="597000" />
+      <workItem from="1566653116872" duration="6679000" />
+      <workItem from="1566724978112" duration="937000" />
+      <workItem from="1566835888409" duration="573000" />
+      <workItem from="1567011936385" duration="931000" />
+      <workItem from="1567184487304" duration="922000" />
+      <workItem from="1567262471136" duration="1190000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54729000" />
+    <option name="totallyTimeSpent" value="71035000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="312" y="75" width="1378" height="943" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7012384" visible="true" weight="0.28144988" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7012384" visible="true" weight="0.4256449" />
       <window_info id="Structure" order="1" sideWeight="0.2987616" side_tool="true" weight="0.21002132" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -400,12 +354,12 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32962963" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2024922" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.33956388" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29135802" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.33950618" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32962963" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32917964" />
@@ -421,6 +375,7 @@
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32928678" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -508,6 +463,11 @@
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/IDE_Chapter_002_ObjectOrientation$Clidlet.ic" NAME="Clidlet Coverage Results" MODIFIED="1566657535026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>_024_Test._03.*</FILTER>
+    </SUITE>
+  </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
       <expression>
@@ -523,126 +483,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/Casting_missmatches/Cat.java" />
-    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_006_Casting_missmatches/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_006_Casting_missmatches/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_012_UpCasting/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_012_UpCasting/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_012_UpCasting/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_006_Casting_missmatches/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="79" selection-start-line="6" selection-start-column="79" selection-end-line="6" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_004_Polymorphism_Animals/interfaces/Caressable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="62" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_004_Polymorphism_Animals/interfaces/Huntable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="73" selection-start-line="6" selection-start-column="73" selection-end-line="6" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_004_Polymorphism_Animals/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_004_Polymorphism_Animals/Elefant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_004_Polymorphism_Animals/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_004_Polymorphism_Animals/WildAnimal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_004_Polymorphism_Animals/WildBoar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_004_Polymorphism_Animals/ZooAnimal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_004_HasA_Relation/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_004_HasA_Relation/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_004_HasA_Relation/SteeringWheel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_004_HasA_Relation/Vehicle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -769,31 +609,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_017_InitialitionBlocks/SmallInit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_019_InitError/InitError.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_018_MultipleInits/Init.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_020_Static/FrogCounter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="170" selection-start-line="35" selection-start-column="170" selection-end-line="35" selection-end-column="170" />
         </state>
       </provider>
     </entry>
@@ -854,17 +673,148 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_011_StaticNonStaticAccess/ExternClass.java">
+    <entry file="file://$PROJECT_DIR$/src/_011_StaticNonStaticAccess/ExternClass.java" />
+    <entry file="file://$PROJECT_DIR$/src/_011_StaticNonStaticAccess/StaticTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_011_StaticNonStaticAccess/StaticTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+        <state relative-caret-position="102">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_011_StaticNonStaticAccess/StaticTest.java">
+    <entry file="file://$PROJECT_DIR$/src/_012_UpCasting/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-182">
-          <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_012_UpCasting/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_024_Test/_04/readme">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_024_Test/_01/readme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" selection-start-column="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_020_Static/FrogCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="170" selection-start-line="35" selection-start-column="170" selection-end-line="35" selection-end-column="170" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_019_InitError/InitError.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-80">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_017_InitialitionBlocks/SmallInit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_024_Test/_02/Top.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_024_Test/_02/Bottom2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_024_Test/_03/Cliddex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_024_Test/_03/Clidlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_024_Test/_05/Bird.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_024_Test/_05/Raptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_024_Test/_05/Hawk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="112" selection-start-line="23" selection-start-column="112" selection-end-line="23" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_024_Test/_05/Extended_Experiments/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="8" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_024_Test/_05/Extended_Experiments/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_024_Test/_06/X.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_024_Test/_06/Y.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_024_Test/_06/Chrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_024_Test/_07/Locomotive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
         </state>
       </provider>
     </entry>

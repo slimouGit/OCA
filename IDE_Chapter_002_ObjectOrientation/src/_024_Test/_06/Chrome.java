@@ -14,6 +14,5 @@ public class Chrome {
 
         //Casting x2 to be of type y
         ((Y)x2).do2();
-
     }
 }
