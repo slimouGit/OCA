@@ -10,6 +10,7 @@ public class DogShow {
 
         ((Dog) new Dog()).bark(); //NOT NECCESSARY TO CAST
         ((Dog) new Hound()).bark(); //POSSIBLE CAUSE DOG HAS BARKI METHOD TOO => OVERRIDED
+        //((Hount) new Dog()).bark(); //DOWNCASTING NOT POSSIBLE
 
 //        ((Dog) new Hound()).sniff(); CLASS DOG HAS NO SNIFF METHOD
 
