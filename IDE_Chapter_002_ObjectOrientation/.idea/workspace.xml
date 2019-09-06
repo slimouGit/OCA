@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="072d0934-4039-4683-a3be-21a4749cd35a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_024_Test/_11/Alpha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_024_Test/_11/SubAlpha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_024_Test/_11/SubSubAlpha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_024_Test/_12/Building.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_024_Test/_12/House.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IDE_Chapter_001__DeclarationAndAccessControl/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_001__DeclarationAndAccessControl/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_024_Test/_10/Tenor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_024_Test/_10/Tenor.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,28 +19,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_024_Test/_11/Alpha.java">
+        <entry file="file://$PROJECT_DIR$/src/_024_Test/_12/Building.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_024_Test/_11/SubAlpha.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+            <state relative-caret-position="119">
+              <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_024_Test/_11/SubSubAlpha.java">
+        <entry file="file://$PROJECT_DIR$/src/_024_Test/_12/House.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+            <state relative-caret-position="85">
+              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -64,8 +53,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/_000_Sandbox/_009_AbstractClassesAndMultipleInterfaces/Customizable.java" />
-        <option value="$PROJECT_DIR$/src/_013_MultipleInheritance/I1.java" />
         <option value="$PROJECT_DIR$/src/_013_MultipleInheritance/I2.java" />
         <option value="$PROJECT_DIR$/src/_013_MultipleInheritance/MultiInt.java" />
         <option value="$PROJECT_DIR$/src/_014_Contructor/Bar.java" />
@@ -115,6 +102,8 @@
         <option value="$PROJECT_DIR$/src/_024_Test/_11/Alpha.java" />
         <option value="$PROJECT_DIR$/src/_024_Test/_11/SubAlpha.java" />
         <option value="$PROJECT_DIR$/src/_024_Test/_11/SubSubAlpha.java" />
+        <option value="$PROJECT_DIR$/src/_024_Test/_12/Building.java" />
+        <option value="$PROJECT_DIR$/src/_024_Test/_12/House.java" />
       </list>
     </option>
   </component>
@@ -138,7 +127,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -161,25 +149,14 @@
               <item name="IDE_Chapter_002_ObjectOrientation" type="b2602c69:ProjectViewProjectNode" />
               <item name="IDE_Chapter_002_ObjectOrientation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_09" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IDE_Chapter_002_ObjectOrientation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IDE_Chapter_002_ObjectOrientation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_10" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IDE_Chapter_002_ObjectOrientation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IDE_Chapter_002_ObjectOrientation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_11" type="462c0819:PsiDirectoryNode" />
+              <item name="_12" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -210,7 +187,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SubSubAlpha">
+  <component name="RunManager" selected="Application.House">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -231,13 +208,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Locomotive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_024_Test._07.Locomotive" />
+    <configuration name="House" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_024_Test._12.House" />
       <module name="IDE_Chapter_002_ObjectOrientation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_024_Test._07.*" />
+          <option name="PATTERN" value="_024_Test._12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -320,11 +297,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.House" />
         <item itemvalue="Application.SubSubAlpha" />
         <item itemvalue="Application.Tenor" />
         <item itemvalue="Application.Redwood" />
         <item itemvalue="Application.DogShow" />
-        <item itemvalue="Application.Locomotive" />
       </list>
     </recent_temporary>
   </component>
@@ -366,17 +343,17 @@
       <workItem from="1567184487304" duration="922000" />
       <workItem from="1567262471136" duration="5069000" />
       <workItem from="1567320784304" duration="3198000" />
+      <workItem from="1567783414693" duration="1032000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78112000" />
+    <option name="totallyTimeSpent" value="79144000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="293" y="122" width="1378" height="943" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7012384" visible="true" weight="0.43247345" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7012384" visible="true" weight="0.43930197" />
       <window_info id="Structure" order="1" sideWeight="0.2987616" side_tool="true" weight="0.21002132" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -387,7 +364,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32962963" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.29135802" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.33950618" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.33950618" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -515,20 +492,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/_013_MultipleInheritance/MultiInt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="69" selection-start-line="10" selection-start-column="69" selection-end-line="10" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_014_Contructor/UseBar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="62" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_014_Contructor/Bar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -829,13 +792,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_024_Test/_11/Alpha.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_024_Test/_11/SubAlpha.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -843,10 +799,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/_024_Test/_11/Alpha.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/_024_Test/_11/SubSubAlpha.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_024_Test/_12/Building.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_024_Test/_12/House.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
