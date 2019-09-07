@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="072d0934-4039-4683-a3be-21a4749cd35a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_024_Test/_13/Mammal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_024_Test/_13/Zebra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_024_Test/_13/ZooKeeper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_024_Test/_14/DontBoilFrogs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_024_Test/_14/FrogBoilable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IDE_Chapter_001__DeclarationAndAccessControl/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_001__DeclarationAndAccessControl/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,28 +19,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_024_Test/_13/Mammal.java">
+        <entry file="file://$PROJECT_DIR$/src/_024_Test/_14/FrogBoilable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_024_Test/_13/Zebra.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="51">
+              <caret line="3" column="10" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_024_Test/_13/ZooKeeper.java">
+        <entry file="file://$PROJECT_DIR$/src/_024_Test/_14/DontBoilFrogs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
+            <state relative-caret-position="340">
+              <caret line="20" column="60" selection-start-line="20" selection-start-column="60" selection-end-line="20" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -64,8 +53,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/_015_OverloadedConstructor/Animal.java" />
-        <option value="$PROJECT_DIR$/src/_016_ConstructorFAIL/ConstructorFail.java" />
         <option value="$PROJECT_DIR$/src/_017_InitialitionBlocks/SmallInit.java" />
         <option value="$PROJECT_DIR$/src/_019_InitError/InitError.java" />
         <option value="$PROJECT_DIR$/src/_018_MultipleInits/Init.java" />
@@ -115,6 +102,8 @@
         <option value="$PROJECT_DIR$/src/_024_Test/_13/Mammal.java" />
         <option value="$PROJECT_DIR$/src/_024_Test/_13/Zebra.java" />
         <option value="$PROJECT_DIR$/src/_024_Test/_13/ZooKeeper.java" />
+        <option value="$PROJECT_DIR$/src/_024_Test/_14/FrogBoilable.java" />
+        <option value="$PROJECT_DIR$/src/_024_Test/_14/DontBoilFrogs.java" />
       </list>
     </option>
   </component>
@@ -168,6 +157,12 @@
               <item name="IDE_Chapter_002_ObjectOrientation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_13" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDE_Chapter_002_ObjectOrientation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IDE_Chapter_002_ObjectOrientation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_14" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -361,18 +356,18 @@
       <workItem from="1567262471136" duration="5069000" />
       <workItem from="1567320784304" duration="3198000" />
       <workItem from="1567783414693" duration="1737000" />
-      <workItem from="1567838458894" duration="1157000" />
+      <workItem from="1567838458894" duration="2180000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81006000" />
+    <option name="totallyTimeSpent" value="82029000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="244" y="57" width="1378" height="943" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7012384" visible="true" weight="0.4461305" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7012384" visible="true" weight="0.4461305" />
       <window_info id="Structure" order="1" sideWeight="0.2987616" side_tool="true" weight="0.21002132" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -383,7 +378,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32962963" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.29135802" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.33950618" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.33950618" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -511,20 +506,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/_018_MultipleInits/Init.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_021_AccessInstanceVarFromStaticMethod/AccessInstantVarFromStaticMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_021_AccessWithDotOperator/Frog.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -843,6 +824,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_024_Test/_14/FrogBoilable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_024_Test/_14/DontBoilFrogs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="60" selection-start-line="20" selection-start-column="60" selection-end-line="20" selection-end-column="60" />
         </state>
       </provider>
     </entry>
