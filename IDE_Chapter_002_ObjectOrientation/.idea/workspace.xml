@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="072d0934-4039-4683-a3be-21a4749cd35a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/_012_Inheritance_ConstuctorsBehaviour/FamiliyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/_012_Inheritance_ConstuctorsBehaviour/Mother.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/_012_Inheritance_ConstuctorsBehaviour/Son_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/_012_Inheritance_ConstuctorsBehaviour/Son_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/_012_Inheritance_ConstuctorsBehaviour/Vather.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/artifacts/OCA.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/artifacts/OCA.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IDE_Chapter_001__DeclarationAndAccessControl/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_001__DeclarationAndAccessControl/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_000_Sandbox/_012_Inheritance_ConstuctorsBehaviour/FamiliyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_000_Sandbox/_012_Inheritance_ConstuctorsBehaviour/FamiliyTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/out/production/IDE_Chapter_003_Assignments/Main.class" beforeDir="false" />
     </list>
@@ -28,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_012_Inheritance_ConstuctorsBehaviour/Mother.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -64,11 +59,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_012_Inheritance_ConstuctorsBehaviour/FamiliyTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="80" selection-start-line="14" selection-start-column="80" selection-end-line="14" selection-end-column="80" />
+            <state relative-caret-position="85">
+              <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
             </state>
           </provider>
         </entry>
@@ -392,12 +387,12 @@
       <workItem from="1567783414693" duration="1737000" />
       <workItem from="1567838458894" duration="7350000" />
       <workItem from="1567871114483" duration="985000" />
-      <workItem from="1567930873395" duration="1867000" />
+      <workItem from="1567930873395" duration="2151000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90051000" />
+    <option name="totallyTimeSpent" value="90335000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="245" y="59" width="1378" height="943" extended-state="0" />
@@ -854,13 +849,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_012_Inheritance_ConstuctorsBehaviour/FamiliyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="80" selection-start-line="14" selection-start-column="80" selection-end-line="14" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_012_Inheritance_ConstuctorsBehaviour/Son_2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -875,6 +863,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_012_Inheritance_ConstuctorsBehaviour/Mother.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_012_Inheritance_ConstuctorsBehaviour/Vather.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -882,10 +877,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_012_Inheritance_ConstuctorsBehaviour/Mother.java">
+    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_012_Inheritance_ConstuctorsBehaviour/FamiliyTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        <state relative-caret-position="85">
+          <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
         </state>
       </provider>
     </entry>
