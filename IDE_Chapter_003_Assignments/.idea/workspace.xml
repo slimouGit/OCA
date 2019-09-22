@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="332f1d24-3d70-4e67-be1e-98fca7ad363c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/_002_Casting_long2byte/Long2Byte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_002_Float/Float.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/artifacts/OCA.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/artifacts/OCA.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IDE_Chapter_001__DeclarationAndAccessControl/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_001__DeclarationAndAccessControl/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,11 +49,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_002_Casting_long2byte/Long2Byte.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
               <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/_002_Float/Float.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -80,6 +88,7 @@
         <option value="$PROJECT_DIR$/src/_000_Sandbox/_001_NumericAssignments/NumericAssignments.java" />
         <option value="$PROJECT_DIR$/src/_001_Casting_implicit_explicit/Casting.java" />
         <option value="$PROJECT_DIR$/src/_000_Sandbox/_002_Casting_long2byte/Long2Byte.java" />
+        <option value="$PROJECT_DIR$/src/_002_Float/Float.java" />
       </list>
     </option>
   </component>
@@ -132,6 +141,12 @@
               <item name="IDE_Chapter_003_Assignments" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_001_Casting_implicit_explicit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDE_Chapter_003_Assignments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IDE_Chapter_003_Assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_002_Float" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -298,18 +313,18 @@
       <workItem from="1568533895280" duration="1195000" />
       <workItem from="1568825946993" duration="1702000" />
       <workItem from="1569044469458" duration="596000" />
-      <workItem from="1569137555692" duration="2073000" />
+      <workItem from="1569137555692" duration="2859000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10585000" />
+    <option name="totallyTimeSpent" value="11371000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="340" y="45" width="1378" height="943" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28983307" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28983307" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -318,7 +333,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32962963" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32962963" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32962963" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -370,6 +385,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_002_Float/Float.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
         </state>
       </provider>
     </entry>
