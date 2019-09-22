@@ -10,5 +10,9 @@ public class Float {
 
         //Double values need not to be casted
         double e = 42.22;
+
+        //you can do, but you dont need to do
+        double f = 42.22d;
+
     }
 }
