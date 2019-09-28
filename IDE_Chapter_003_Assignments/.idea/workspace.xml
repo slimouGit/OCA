@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="332f1d24-3d70-4e67-be1e-98fca7ad363c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/_002_ArraysInitialition/ArrayInitialisation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_006_LocalVariablesHasToBeDeclared/Birthday.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,11 +26,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_002_ArraysInitialition/ArrayInitialisation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="43" lean-forward="true" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+            <state relative-caret-position="323">
+              <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/_006_LocalVariablesHasToBeDeclared/Birthday.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="102" selection-start-line="10" selection-start-column="102" selection-end-line="10" selection-end-column="102" />
             </state>
           </provider>
         </entry>
@@ -63,6 +72,7 @@
         <option value="$PROJECT_DIR$/src/_004_InheritanceAssignments/Main.java" />
         <option value="$PROJECT_DIR$/src/_005_PrimitiveInstanceVariables/PrimitiveInstanceVariables.java" />
         <option value="$PROJECT_DIR$/src/_000_Sandbox/_002_ArraysInitialition/ArrayInitialisation.java" />
+        <option value="$PROJECT_DIR$/src/_006_LocalVariablesHasToBeDeclared/Birthday.java" />
       </list>
     </option>
   </component>
@@ -100,13 +110,6 @@
               <item name="IDE_Chapter_003_Assignments" type="b2602c69:ProjectViewProjectNode" />
               <item name="IDE_Chapter_003_Assignments" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_000_Sandbox" type="462c0819:PsiDirectoryNode" />
-              <item name="_002_ArraysInitialition" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IDE_Chapter_003_Assignments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IDE_Chapter_003_Assignments" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_001_Casting_implicit_explicit" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -119,7 +122,7 @@
               <item name="IDE_Chapter_003_Assignments" type="b2602c69:ProjectViewProjectNode" />
               <item name="IDE_Chapter_003_Assignments" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_005_PrimitiveInstanceVariables" type="462c0819:PsiDirectoryNode" />
+              <item name="_006_LocalVariablesHasToBeDeclared" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -146,7 +149,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayInitialisation">
+  <component name="RunManager" selected="Application.Birthday">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -167,13 +170,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Casting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_001_Casting_implicit_explicit.Casting" />
+    <configuration name="Birthday" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_006_LocalVariablesHasToBeDeclared.Birthday" />
       <module name="IDE_Chapter_003_Assignments" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_001_Casting_implicit_explicit.*" />
+          <option name="PATTERN" value="_006_LocalVariablesHasToBeDeclared.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -255,19 +258,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Casting" />
       <item itemvalue="Application.Long2Byte" />
       <item itemvalue="Application.CopiedValue" />
       <item itemvalue="Application.PrimitiveInstanceVariables" />
       <item itemvalue="Application.ArrayInitialisation" />
+      <item itemvalue="Application.Birthday" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Birthday" />
         <item itemvalue="Application.ArrayInitialisation" />
         <item itemvalue="Application.PrimitiveInstanceVariables" />
         <item itemvalue="Application.CopiedValue" />
         <item itemvalue="Application.Long2Byte" />
-        <item itemvalue="Application.Casting" />
       </list>
     </recent_temporary>
   </component>
@@ -292,12 +295,12 @@
       <workItem from="1568825946993" duration="1702000" />
       <workItem from="1569044469458" duration="596000" />
       <workItem from="1569137555692" duration="3488000" />
-      <workItem from="1569676938249" duration="3162000" />
+      <workItem from="1569676938249" duration="3933000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15421000" />
+    <option name="totallyTimeSpent" value="16192000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-12" y="15" width="1300" height="820" extended-state="0" />
@@ -419,8 +422,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_002_ArraysInitialition/ArrayInitialisation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="43" lean-forward="true" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+        <state relative-caret-position="323">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_006_LocalVariablesHasToBeDeclared/Birthday.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="102" selection-start-line="10" selection-start-column="102" selection-end-line="10" selection-end-column="102" />
         </state>
       </provider>
     </entry>
