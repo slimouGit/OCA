@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="332f1d24-3d70-4e67-be1e-98fca7ad363c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_008_StringObjects/StringObjectRefernce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_009_PassingObjectVariables/ReferenceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_010_PassingPrimitiveVariables/ReferenceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_011_ShadowingPrimitiveVariables/ShadowingVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_012_ShadowingObjectVariables/Bar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_012_ShadowingObjectVariables/Foo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,19 +22,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_007_ReferenceTest/ReferenceTest.java">
+        <entry file="file://$PROJECT_DIR$/src/_012_ShadowingObjectVariables/Bar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+            <state relative-caret-position="51">
+              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_008_StringObjects/StringObjectRefernce.java">
+        <entry file="file://$PROJECT_DIR$/src/_012_ShadowingObjectVariables/Foo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+            <state relative-caret-position="199">
+              <caret line="12" column="59" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -66,6 +70,13 @@
         <option value="$PROJECT_DIR$/src/_006_LocalVariablesHasToBeDeclared/Birthday.java" />
         <option value="$PROJECT_DIR$/src/_007_ReferenceTest/ReferenceTest.java" />
         <option value="$PROJECT_DIR$/src/_008_StringObjects/StringObjectRefernce.java" />
+        <option value="$PROJECT_DIR$/src/_009_ObjectVariablesInMethods/ReferenceTest.java" />
+        <option value="$PROJECT_DIR$/src/_010_PassingPrimitiveVariables/ReferenceTest.java" />
+        <option value="$PROJECT_DIR$/src/_009_PassingObjectVariables/ReferenceTest.java" />
+        <option value="$PROJECT_DIR$/src/_011_ShadowingVariables/ShadowingVariables.java" />
+        <option value="$PROJECT_DIR$/src/_011_ShadowingPrimitiveVariables/ShadowingVariables.java" />
+        <option value="$PROJECT_DIR$/src/_012_ShadowingObjectVariables/Bar.java" />
+        <option value="$PROJECT_DIR$/src/_012_ShadowingObjectVariables/Foo.java" />
       </list>
     </option>
   </component>
@@ -99,24 +110,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_000_Sandbox" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="IDE_Chapter_003_Assignments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IDE_Chapter_003_Assignments" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_001_Casting_implicit_explicit" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IDE_Chapter_003_Assignments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IDE_Chapter_003_Assignments" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_002_Float" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IDE_Chapter_003_Assignments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IDE_Chapter_003_Assignments" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_008_StringObjects" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -143,20 +136,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringObjectRefernce">
+  <component name="RunManager" selected="Application.Foo">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayInitialisation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_000_Sandbox._002_ArraysInitialition.ArrayInitialisation" />
+    <configuration name="Foo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_012_ShadowingObjectVariables.Foo" />
       <module name="IDE_Chapter_003_Assignments" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_000_Sandbox._002_ArraysInitialition.*" />
+          <option name="PATTERN" value="_012_ShadowingObjectVariables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,13 +157,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Birthday" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_006_LocalVariablesHasToBeDeclared.Birthday" />
+    <configuration name="ReferenceTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_009_PassingObjectVariables.ReferenceTest" />
       <module name="IDE_Chapter_003_Assignments" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_006_LocalVariablesHasToBeDeclared.*" />
+          <option name="PATTERN" value="_009_PassingObjectVariables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,13 +171,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimitiveInstanceVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_005_PrimitiveInstanceVariables.PrimitiveInstanceVariables" />
+    <configuration name="ReferenceTest (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_010_PassingPrimitiveVariables.ReferenceTest" />
       <module name="IDE_Chapter_003_Assignments" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_005_PrimitiveInstanceVariables.*" />
+          <option name="PATTERN" value="_010_PassingPrimitiveVariables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,12 +186,26 @@
       </method>
     </configuration>
     <configuration name="ReferenceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_007_ReferenceTest.ReferenceTest" />
+      <option name="MAIN_CLASS_NAME" value="_009_ObjectVariablesInMethods.ReferenceTest" />
       <module name="IDE_Chapter_003_Assignments" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_007_ReferenceTest.*" />
+          <option name="PATTERN" value="_009_PassingObjectVariables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShadowingVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_011_ShadowingPrimitiveVariables.ShadowingVariables" />
+      <module name="IDE_Chapter_003_Assignments" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_011_ShadowingPrimitiveVariables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -252,19 +259,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PrimitiveInstanceVariables" />
-      <item itemvalue="Application.ArrayInitialisation" />
-      <item itemvalue="Application.Birthday" />
-      <item itemvalue="Application.ReferenceTest" />
       <item itemvalue="Application.StringObjectRefernce" />
+      <item itemvalue="Application.ReferenceTest (1)" />
+      <item itemvalue="Application.ReferenceTest (2)" />
+      <item itemvalue="Application.ShadowingVariables" />
+      <item itemvalue="Application.Foo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringObjectRefernce" />
-        <item itemvalue="Application.ReferenceTest" />
-        <item itemvalue="Application.Birthday" />
-        <item itemvalue="Application.ArrayInitialisation" />
-        <item itemvalue="Application.PrimitiveInstanceVariables" />
+        <item itemvalue="Application.Foo" />
+        <item itemvalue="Application.ShadowingVariables" />
+        <item itemvalue="Application.ReferenceTest (1)" />
+        <item itemvalue="Application.ReferenceTest (2)" />
+        <item itemvalue="Application.ReferenceTest (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -289,18 +296,19 @@
       <workItem from="1568825946993" duration="1702000" />
       <workItem from="1569044469458" duration="596000" />
       <workItem from="1569137555692" duration="3488000" />
-      <workItem from="1569676938249" duration="5670000" />
+      <workItem from="1569676938249" duration="6283000" />
+      <workItem from="1569734387564" duration="2729000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17929000" />
+    <option name="totallyTimeSpent" value="21271000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-12" y="15" width="1300" height="820" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30483872" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -308,7 +316,7 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32962963" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32896653" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32896653" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3988355" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -430,15 +438,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_007_ReferenceTest/ReferenceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
+        <state relative-caret-position="340">
           <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_008_StringObjects/StringObjectRefernce.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
+        <state relative-caret-position="374">
           <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_009_PassingObjectVariables/ReferenceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_010_PassingPrimitiveVariables/ReferenceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_011_ShadowingPrimitiveVariables/ShadowingVariables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_012_ShadowingObjectVariables/Bar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_012_ShadowingObjectVariables/Foo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="12" column="59" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
         </state>
       </provider>
     </entry>
