@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="332f1d24-3d70-4e67-be1e-98fca7ad363c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_015_GarbageCollectorTest/CheckGC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,10 +18,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_015_GarbageCollectorTest/CheckGC.java">
+        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_003_ReferenceTests/ReferenceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+            <state relative-caret-position="153">
+              <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_009_PassingObjectVariables/ReferenceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -67,6 +76,10 @@
         <option value="$PROJECT_DIR$/src/_013_GarbageTruck/GarbageTruck.java" />
         <option value="$PROJECT_DIR$/src/_014_Garbgage_Factory/GarbageFactory.java" />
         <option value="$PROJECT_DIR$/src/_015_GarbageCollectorTest/CheckGC.java" />
+        <option value="$PROJECT_DIR$/src/_000_Sandbox/_003_ReferenceTest/ReferencesBattleField.java" />
+        <option value="$PROJECT_DIR$/src/_000_Sandbox/_003_HowLongDoTheyLive/ReferencesBattleField.java" />
+        <option value="$PROJECT_DIR$/src/_000_Sandbox/_003_HowLongDoTheyLive/ReferenceTest.java" />
+        <option value="$PROJECT_DIR$/src/_000_Sandbox/_003_ReferenceTests/ReferenceTest.java" />
       </list>
     </option>
   </component>
@@ -106,13 +119,14 @@
               <item name="IDE_Chapter_003_Assignments" type="b2602c69:ProjectViewProjectNode" />
               <item name="IDE_Chapter_003_Assignments" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_013_GarbageTruck" type="462c0819:PsiDirectoryNode" />
+              <item name="_000_Sandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="_003_ReferenceTests" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IDE_Chapter_003_Assignments" type="b2602c69:ProjectViewProjectNode" />
               <item name="IDE_Chapter_003_Assignments" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_015_GarbageCollectorTest" type="462c0819:PsiDirectoryNode" />
+              <item name="_009_PassingObjectVariables" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -138,7 +152,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CheckGC">
+  <component name="RunManager" selected="Application.ReferenceTest">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -201,13 +215,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShadowingVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_011_ShadowingPrimitiveVariables.ShadowingVariables" />
+    <configuration name="ReferenceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_000_Sandbox._003_ReferenceTests.ReferenceTest" />
       <module name="IDE_Chapter_003_Assignments" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_011_ShadowingPrimitiveVariables.*" />
+          <option name="PATTERN" value="_000_Sandbox._003_ReferenceTests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -247,19 +260,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ShadowingVariables" />
       <item itemvalue="Application.Foo" />
       <item itemvalue="Application.GarbageTruck" />
       <item itemvalue="Application.GarbageFactory" />
       <item itemvalue="Application.CheckGC" />
+      <item itemvalue="Application.ReferenceTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReferenceTest" />
         <item itemvalue="Application.CheckGC" />
         <item itemvalue="Application.GarbageFactory" />
         <item itemvalue="Application.GarbageTruck" />
         <item itemvalue="Application.Foo" />
-        <item itemvalue="Application.ShadowingVariables" />
       </list>
     </recent_temporary>
   </component>
@@ -286,12 +299,12 @@
       <workItem from="1569137555692" duration="3488000" />
       <workItem from="1569676938249" duration="6283000" />
       <workItem from="1569734387564" duration="5021000" />
-      <workItem from="1569763111522" duration="1909000" />
+      <workItem from="1569763111522" duration="3732000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25472000" />
+    <option name="totallyTimeSpent" value="27295000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-12" y="15" width="1300" height="820" extended-state="0" />
@@ -306,7 +319,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32896653" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33915576" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3187773" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3988355" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -439,13 +452,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_009_PassingObjectVariables/ReferenceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_010_PassingPrimitiveVariables/ReferenceTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -492,6 +498,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="226">
           <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_009_PassingObjectVariables/ReferenceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_003_ReferenceTests/ReferenceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
         </state>
       </provider>
     </entry>
