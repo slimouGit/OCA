@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="332f1d24-3d70-4e67-be1e-98fca7ad363c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_013_GarbageTruck/GarbageTruck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_014_Garbgage_Factory/GarbageFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,11 +17,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_013_GarbageTruck/GarbageTruck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+            <state relative-caret-position="68">
+              <caret line="4" column="52" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/_014_Garbgage_Factory/GarbageFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="66" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -65,6 +74,7 @@
         <option value="$PROJECT_DIR$/src/_012_ShadowingObjectVariables/Bar.java" />
         <option value="$PROJECT_DIR$/src/_012_ShadowingObjectVariables/Foo.java" />
         <option value="$PROJECT_DIR$/src/_013_GarbageTruck/GarbageTruck.java" />
+        <option value="$PROJECT_DIR$/src/_014_Garbgage_Factory/GarbageFactory.java" />
       </list>
     </option>
   </component>
@@ -80,6 +90,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -104,12 +116,16 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_013_GarbageTruck" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="IDE_Chapter_003_Assignments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IDE_Chapter_003_Assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_014_Garbgage_Factory" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -130,7 +146,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GarbageTruck">
+  <component name="RunManager" selected="Application.GarbageFactory">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -144,6 +160,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="_012_ShadowingObjectVariables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GarbageFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_014_Garbgage_Factory.GarbageFactory" />
+      <module name="IDE_Chapter_003_Assignments" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_014_Garbgage_Factory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,34 +197,6 @@
     </configuration>
     <configuration name="ReferenceTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_009_PassingObjectVariables.ReferenceTest" />
-      <module name="IDE_Chapter_003_Assignments" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_009_PassingObjectVariables.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReferenceTest (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_010_PassingPrimitiveVariables.ReferenceTest" />
-      <module name="IDE_Chapter_003_Assignments" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_010_PassingPrimitiveVariables.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReferenceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_009_ObjectVariablesInMethods.ReferenceTest" />
       <module name="IDE_Chapter_003_Assignments" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -254,18 +256,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.ReferenceTest (1)" />
-      <item itemvalue="Application.ReferenceTest (2)" />
       <item itemvalue="Application.ShadowingVariables" />
       <item itemvalue="Application.Foo" />
       <item itemvalue="Application.GarbageTruck" />
+      <item itemvalue="Application.GarbageFactory" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GarbageFactory" />
         <item itemvalue="Application.GarbageTruck" />
         <item itemvalue="Application.Foo" />
         <item itemvalue="Application.ShadowingVariables" />
         <item itemvalue="Application.ReferenceTest (1)" />
-        <item itemvalue="Application.ReferenceTest (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -291,18 +293,19 @@
       <workItem from="1569044469458" duration="596000" />
       <workItem from="1569137555692" duration="3488000" />
       <workItem from="1569676938249" duration="6283000" />
-      <workItem from="1569734387564" duration="4373000" />
+      <workItem from="1569734387564" duration="5021000" />
+      <workItem from="1569763111522" duration="753000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22915000" />
+    <option name="totallyTimeSpent" value="24316000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-12" y="15" width="1300" height="820" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30483872" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30967742" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -481,8 +484,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_013_GarbageTruck/GarbageTruck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+        <state relative-caret-position="68">
+          <caret line="4" column="52" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_014_Garbgage_Factory/GarbageFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="66" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
         </state>
       </provider>
     </entry>
