@@ -12,8 +12,20 @@ public class TestFormsEquality {
         passtDasZusammen(k1,k2);
     }
 
-    private static void passtDasZusammen(Form a, Form b) {
+    public static void passtDasZusammen(Form a, Form b) {
+        kompabilitaetsTest(a, b);
+    }
+
+    public static void kompabilitaetsTest(Form a, Form b) {
+        stelleFrage(a, b);
+        pruefeKompatibilitaet(a, b);
+    }
+
+    public static void stelleFrage(Form a, Form b) {
         System.out.print("Passen die beiden Formen " + a.getForm() + " und " + b.getForm() + " zusammen? ");
+    }
+
+    public static void pruefeKompatibilitaet(Form a, Form b) {
         System.out.println(a.getForm().equals(b.getForm()));
     }
 }
