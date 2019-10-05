@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cdf844a-c26c-42a3-8396-1af24fa33ab3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/_004_InstanceOfFamily/FamilyTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/_004_InstanceOfFamily/Mom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/_004_InstanceOfFamily/Son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_006_InstanceOfOperator/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_006_InstanceOfOperator/B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/AdoptedDaughter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/Grandpa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/Son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/TestPatchworkFamily.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/Vather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/fightWar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/work.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_004_Operators/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_004_Operators/_000_Sandbox/Chapter_004_Operators.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDE_Chapter_004_Operators/_000_Sandbox/Chapter_004_Operators.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_004_Operators/_000_Sandbox/_004_InstanceOfFamily/FamilyTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDE_Chapter_004_Operators/_000_Sandbox/_004_InstanceOfFamily/FamilyTester.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,37 +26,64 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_004_InstanceOfFamily/Mom.java">
+        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/Grandpa.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+              <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_004_InstanceOfFamily/Son.java">
+        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/Vather.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+              <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/Son.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/work.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/fightWar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/AdoptedDaughter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_004_InstanceOfFamily/FamilyTester.java">
+        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/TestPatchworkFamily.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_006_InstanceOfOperator/B.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            <state relative-caret-position="170">
+              <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -66,6 +93,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -80,6 +108,11 @@
         <option value="$PROJECT_DIR$/src/_006_InstanceOfOperator/B.java" />
         <option value="$PROJECT_DIR$/src/_000_Sandbox/_004_InstanceOfFamily/Son.java" />
         <option value="$PROJECT_DIR$/src/_000_Sandbox/_004_InstanceOfFamily/FamilyTester.java" />
+        <option value="$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/Son.java" />
+        <option value="$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/Grandpa.java" />
+        <option value="$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/Vather.java" />
+        <option value="$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/AdoptedDaughter.java" />
+        <option value="$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/TestPatchworkFamily.java" />
       </list>
     </option>
   </component>
@@ -116,7 +149,7 @@
               <item name="IDE_Chapter_004_Operators" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_000_Sandbox" type="462c0819:PsiDirectoryNode" />
-              <item name="_004_InstanceOfFamily" type="462c0819:PsiDirectoryNode" />
+              <item name="_005_instanceOf_PatchworkFaimily" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IDE_Chapter_004_Operators" type="b2602c69:ProjectViewProjectNode" />
@@ -154,7 +187,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FamilyTester">
+  <component name="RunManager" selected="Application.TestPatchworkFamily">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -212,6 +245,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestPatchworkFamily" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_000_Sandbox._005_instanceOf_PatchworkFaimily.TestPatchworkFamily" />
+      <module name="IDE_Chapter_004_Operators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_000_Sandbox._005_instanceOf_PatchworkFaimily.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -248,9 +295,11 @@
       <item itemvalue="Application.Chapter_004_Operators" />
       <item itemvalue="Application.B" />
       <item itemvalue="Application.FamilyTester" />
+      <item itemvalue="Application.TestPatchworkFamily" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestPatchworkFamily" />
         <item itemvalue="Application.FamilyTester" />
         <item itemvalue="Application.B" />
         <item itemvalue="Application.Chapter_004_Operators" />
@@ -269,12 +318,12 @@
       <option name="presentableId" value="Default" />
       <updated>1570116932111</updated>
       <workItem from="1570116937673" duration="33000" />
-      <workItem from="1570286743932" duration="1801000" />
+      <workItem from="1570286743932" duration="2941000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1834000" />
+    <option name="totallyTimeSpent" value="2974000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="816" extended-state="6" />
@@ -350,6 +399,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_004_InstanceOfFamily/FamilyTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/_006_InstanceOfOperator/B.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -357,10 +413,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_004_InstanceOfFamily/FamilyTester.java">
+    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/Son.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/work.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/fightWar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/Grandpa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/Vather.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/AdoptedDaughter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/TestPatchworkFamily.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
         </state>
       </provider>
     </entry>
