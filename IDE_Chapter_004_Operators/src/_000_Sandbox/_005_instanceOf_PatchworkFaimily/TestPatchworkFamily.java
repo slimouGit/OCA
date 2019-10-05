@@ -14,6 +14,6 @@ public class TestPatchworkFamily {
         System.out.println(vather instanceof Grandpa); //TRUE
         System.out.println(son instanceof Grandpa); //TRUE
         //System.out.println(adoptedDaughter instanceof Vather); //INCOMPATIBLE TYPE!!!
-        System.out.println(adoptedDaughter instanceof work); //FALSE
+        System.out.println(adoptedDaughter instanceof work); //TRUE
     }
 }

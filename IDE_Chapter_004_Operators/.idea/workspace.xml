@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cdf844a-c26c-42a3-8396-1af24fa33ab3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/AdoptedDaughter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/Grandpa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/Son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/TestPatchworkFamily.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/Vather.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/fightWar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/work.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_004_Operators/_000_Sandbox/_004_InstanceOfFamily/FamilyTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDE_Chapter_004_Operators/_000_Sandbox/_004_InstanceOfFamily/FamilyTester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/TestPatchworkFamily.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/TestPatchworkFamily.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,65 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/Grandpa.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/Vather.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/Son.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/work.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/fightWar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/AdoptedDaughter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/TestPatchworkFamily.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+              <caret line="10" column="62" lean-forward="true" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -318,18 +256,18 @@
       <option name="presentableId" value="Default" />
       <updated>1570116932111</updated>
       <workItem from="1570116937673" duration="33000" />
-      <workItem from="1570286743932" duration="2941000" />
+      <workItem from="1570286743932" duration="3571000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2974000" />
+    <option name="totallyTimeSpent" value="3604000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="816" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27022654" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27022654" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -339,7 +277,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.329429" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38213763" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.38213763" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -458,7 +396,7 @@
     <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/TestPatchworkFamily.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+          <caret line="10" column="62" lean-forward="true" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
         </state>
       </provider>
     </entry>
