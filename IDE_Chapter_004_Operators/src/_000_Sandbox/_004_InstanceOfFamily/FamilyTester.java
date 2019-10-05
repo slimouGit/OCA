@@ -10,19 +10,19 @@ public class FamilyTester {
 
     }
 
-    private static void testRelationship(Object obj1) {
-        if (obj1 instanceof Mom) {
-            if (obj1 instanceof Son) {
-                System.out.println(obj1.getClass() + " is instance of Son");
+    private static void testRelationship(Object obj) {
+        if (obj instanceof Mom) {
+            if (obj instanceof Son) {
+                System.out.println(obj.getClass() + " is instance of Son");
             } else {
-                System.out.println(obj1.getClass() + " is NOT instance of Son");
+                System.out.println(obj.getClass() + " is NOT instance of Son");
             }
         }
-        if (obj1 instanceof Son) {
-            if (obj1 instanceof Son) {
-                System.out.println(obj1.getClass() + " is instance of Mom");
+        if (obj instanceof Son) {
+            if (obj instanceof Son) {
+                System.out.println(obj.getClass() + " is instance of Mom");
             } else {
-                System.out.println(obj1.getClass() + " is NOT instance of Mom");
+                System.out.println(obj.getClass() + " is NOT instance of Mom");
             }
         }
     }
