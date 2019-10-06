@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cdf844a-c26c-42a3-8396-1af24fa33ab3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/TestPatchworkFamily.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/TestPatchworkFamily.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/_006_IncrementDecrementTests/TestinIncrementAndDecrement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_007_IncrementValueTest/MathTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,16 +14,33 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/TestPatchworkFamily.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="62" lean-forward="true" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
+              <caret line="10" column="62" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_007_IncrementValueTest/MathTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_006_IncrementDecrementTests/TestinIncrementAndDecrement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-34">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -51,6 +70,8 @@
         <option value="$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/Vather.java" />
         <option value="$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/AdoptedDaughter.java" />
         <option value="$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/TestPatchworkFamily.java" />
+        <option value="$PROJECT_DIR$/src/_007_IncrementValueTest/MathTest.java" />
+        <option value="$PROJECT_DIR$/src/_000_Sandbox/_006_IncrementDecrementTests/TestinIncrementAndDecrement.java" />
       </list>
     </option>
   </component>
@@ -64,6 +85,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -87,7 +110,7 @@
               <item name="IDE_Chapter_004_Operators" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_000_Sandbox" type="462c0819:PsiDirectoryNode" />
-              <item name="_005_instanceOf_PatchworkFaimily" type="462c0819:PsiDirectoryNode" />
+              <item name="_006_IncrementDecrementTests" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IDE_Chapter_004_Operators" type="b2602c69:ProjectViewProjectNode" />
@@ -99,8 +122,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -125,7 +146,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestPatchworkFamily">
+  <component name="RunManager" selected="Application.TestinIncrementAndDecrement">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -139,20 +160,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="_006_InstanceOfOperator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Chapter_004_Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_000_Sandbox.Chapter_004_Operators" />
-      <module name="IDE_Chapter_004_Operators" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_000_Sandbox.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,11 +181,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="MathTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_007_IncrementValueTest.MathTest" />
       <module name="IDE_Chapter_004_Operators" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_007_IncrementValueTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -190,6 +202,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="_000_Sandbox._005_instanceOf_PatchworkFaimily.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestinIncrementAndDecrement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_000_Sandbox._006_IncrementDecrementTests.TestinIncrementAndDecrement" />
+      <module name="IDE_Chapter_004_Operators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_000_Sandbox._006_IncrementDecrementTests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -229,19 +255,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Chapter_004_Operators" />
       <item itemvalue="Application.B" />
       <item itemvalue="Application.FamilyTester" />
       <item itemvalue="Application.TestPatchworkFamily" />
+      <item itemvalue="Application.MathTest" />
+      <item itemvalue="Application.TestinIncrementAndDecrement" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestinIncrementAndDecrement" />
+        <item itemvalue="Application.MathTest" />
         <item itemvalue="Application.TestPatchworkFamily" />
         <item itemvalue="Application.FamilyTester" />
         <item itemvalue="Application.B" />
-        <item itemvalue="Application.Chapter_004_Operators" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -256,28 +282,28 @@
       <option name="presentableId" value="Default" />
       <updated>1570116932111</updated>
       <workItem from="1570116937673" duration="33000" />
-      <workItem from="1570286743932" duration="3571000" />
+      <workItem from="1570286743932" duration="3643000" />
+      <workItem from="1570365372967" duration="1629000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3604000" />
+    <option name="totallyTimeSpent" value="5305000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="816" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27022654" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27427185" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.329429" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.38213763" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38213763" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -287,6 +313,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.329429" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -396,7 +423,21 @@
     <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_005_instanceOf_PatchworkFaimily/TestPatchworkFamily.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="62" lean-forward="true" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
+          <caret line="10" column="62" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_007_IncrementValueTest/MathTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_006_IncrementDecrementTests/TestinIncrementAndDecrement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
         </state>
       </provider>
     </entry>
