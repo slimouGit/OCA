@@ -10,6 +10,7 @@ public class TernaryOperatorTest {
 
         System.out.println(pruefeUeberlebensChanceAnhandEinkommenUndZeigeStatus(jahresEinkommen, jahresAusgaben));
         System.out.println(pruefeUeberlebensChanceAnhandEinkommenUndZeigeStatus(81000, 82000));
+        System.out.println(pruefeUeberlebensChanceAnhandEinkommenUndZeigeStatus(50000, 52000));
     }
 
 
@@ -27,5 +28,6 @@ public class TernaryOperatorTest {
      * Such Dir einen Nebenjob
      * Das Geld reicht aus
      * Du verdienst sehr gut, lebst aber über Deine Verhältnisse
+     * Du brauchst einen Nebenjob
      */
 }
