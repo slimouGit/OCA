@@ -7,5 +7,9 @@ public class TernaryOperator {
         String status = (numOfPets<4) ? "Pet limit not exceeded" : "Too many pets";
 
         System.out.println(status);
+
+        System.out.println(
+                (numOfPets<3) ? "Pet limit not exceeded" : "Too many pets"
+        );
     }
 }
