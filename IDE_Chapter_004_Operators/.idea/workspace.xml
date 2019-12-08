@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cdf844a-c26c-42a3-8396-1af24fa33ab3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_010_ShortCircuitLogicalOperators/ShortCircuitLogicalOperators2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCA_Test/OCA_Test.indd" beforeDir="false" afterPath="$PROJECT_DIR$/../OCA_Test/OCA_Test.indd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCA_Test/OCA_Test.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../OCA_Test/OCA_Test.pdf" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,16 +19,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/_010_ShortCircuitLogicalOperators/ShortCircuitLogicalOperators.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="41" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="41" />
+            <state relative-caret-position="255">
+              <caret line="15" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_010_ShortCircuitLogicalOperators/ShortCircuitLogicalOperators2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
@@ -72,7 +74,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="-5" />
     <option name="width" value="1378" />
     <option name="height" value="925" />
@@ -83,6 +85,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -111,8 +115,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -137,7 +139,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ShortCircuitLogicalOperators2">
+  <component name="RunManager" selected="Application.ShortCircuitLogicalOperators">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -254,8 +256,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ShortCircuitLogicalOperators2" />
         <item itemvalue="Application.ShortCircuitLogicalOperators" />
+        <item itemvalue="Application.ShortCircuitLogicalOperators2" />
         <item itemvalue="Application.BitWiseOperators" />
         <item itemvalue="Application.SoccerTeam" />
         <item itemvalue="Application.TernaryOperator" />
@@ -275,6 +277,9 @@
       <workItem from="1570116937673" duration="33000" />
       <workItem from="1570286743932" duration="3643000" />
       <workItem from="1570365372967" duration="3285000" />
+      <workItem from="1573317415463" duration="1759000" />
+      <workItem from="1573381052234" duration="602000" />
+      <workItem from="1575785494265" duration="150000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'master' of https://github.com/slimouGit/OCA&#10;&#10;# Conflicts:&#10;#&#9;IDE_Chapter_004_Operators/out/production/IDE_Chapter_004_Operators/_005_CompareEnums/EnumEqual.class">
       <created>1572792303663</created>
@@ -287,13 +292,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10031000" />
+    <option name="totallyTimeSpent" value="13150000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="272" y="85" width="1378" height="925" extended-state="0" />
+    <frame x="0" y="-5" width="1378" height="925" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27314112" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.40515932" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -302,7 +307,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38131315" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.46338382" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3989899" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -352,24 +357,24 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Merge branch 'master' of https://github.com/slimouGit/OCA&#10;&#10;# Conflicts:&#10;#&#9;IDE_Chapter_004_Operators/out/production/IDE_Chapter_004_Operators/_005_CompareEnums/EnumEqual.class" />
     <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/slimouGit/OCA&#10;&#10;# Conflicts:&#10;#&#9;IDE_Chapter_004_Operators/out/production/IDE_Chapter_004_Operators/_005_CompareEnums/EnumEqual.class" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$USER_HOME$/AppData/Local/Temp/tmp_2_EnumEqual.class</url>
-          <line>9</line>
-          <properties class="_005_CompareEnums.EnumEqual" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/Chapter_004_Operators.java">
@@ -521,8 +526,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_010_ShortCircuitLogicalOperators/ShortCircuitLogicalOperators.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="41" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="41" />
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="41" />
         </state>
       </provider>
     </entry>

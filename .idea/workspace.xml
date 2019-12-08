@@ -3,10 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="4a6a57ec-8c92-4d88-99ea-4d1afff1d253" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_03/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_03/_.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IDE_Chapter_002_ObjectOrientation/src/_001_GetrerSetter/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/IDE_Chapter_002_ObjectOrientation/src/_001_GetterSetter/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_004_Operators/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/IDE_Chapter_004_Operators/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCA_Test/OCA_Test.indd" beforeDir="false" afterPath="$PROJECT_DIR$/OCA_Test/OCA_Test.indd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCA_Test/OCA_Test.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/OCA_Test/OCA_Test.pdf" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +31,13 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/IDE_Chapter_004_Operators/src/_004_EqualMethod/Budgie.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -114,6 +119,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -124,34 +131,32 @@
             <path>
               <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
               <item name="OCA" type="462c0819:PsiDirectoryNode" />
-              <item name="IDE_Chapter_001__DeclarationAndAccessControl" type="462c0819:PsiDirectoryNode" />
+              <item name="IDE_Chapter_004_Operators" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
               <item name="OCA" type="462c0819:PsiDirectoryNode" />
-              <item name="IDE_Chapter_001__DeclarationAndAccessControl" type="462c0819:PsiDirectoryNode" />
+              <item name="IDE_Chapter_004_Operators" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
               <item name="OCA" type="462c0819:PsiDirectoryNode" />
-              <item name="IDE_Chapter_001__DeclarationAndAccessControl" type="462c0819:PsiDirectoryNode" />
+              <item name="IDE_Chapter_004_Operators" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="inheritance_01" type="462c0819:PsiDirectoryNode" />
+              <item name="_004_EqualMethod" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
               <item name="OCA" type="462c0819:PsiDirectoryNode" />
-              <item name="IDE_Chapter_001__DeclarationAndAccessControl" type="462c0819:PsiDirectoryNode" />
+              <item name="IDE_Chapter_004_Operators" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="child" type="462c0819:PsiDirectoryNode" />
+              <item name="_008_TernaryOperator" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -364,16 +369,19 @@
       <workItem from="1562160322128" duration="6489000" />
       <workItem from="1562303409624" duration="832000" />
       <workItem from="1562399009260" duration="10295000" />
+      <workItem from="1575707552892" duration="18000" />
+      <workItem from="1575741902314" duration="82000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50783000" />
+    <option name="totallyTimeSpent" value="50883000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2260128" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23081024" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -426,20 +434,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_03/_.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_04/Animals.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_04/TestEnum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -759,19 +753,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/001_DeclarationAndAccessControl/_000_Sandbox/abstractClasses_01/Golf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/001_DeclarationAndAccessControl/_000_Sandbox/abstractClasses_01/Golf.java" />
     <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/inheritance_01/child/Sohn.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_004_Operators/src/_008_TernaryOperator/TernaryOperator.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_004_Operators/src/_004_EqualMethod/Budgie.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
