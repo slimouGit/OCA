@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="124dc9d3-7ecf-42d9-86b6-0e5dce8ec378" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/_004_DoLoop/DoLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_003_forLoop/ForLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,11 +71,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_004_DoLoop/DoLoop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+            <state relative-caret-position="204">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/_003_forLoop/ForLoop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="43" lean-forward="true" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -102,6 +112,7 @@
         <option value="$PROJECT_DIR$/src/_002_switch/Switch.java" />
         <option value="$PROJECT_DIR$/src/_000_Sandbox/_003_WhileLoop/WhileLoop.java" />
         <option value="$PROJECT_DIR$/src/_000_Sandbox/_004_DoLoop/DoLoop.java" />
+        <option value="$PROJECT_DIR$/src/_003_forLoop/ForLoop.java" />
       </list>
     </option>
   </component>
@@ -173,6 +184,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_002_switch" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="IDE_Chapter_005_FlowControlAndExceptions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IDE_Chapter_005_FlowControlAndExceptions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_003_forLoop" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -196,7 +213,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DoLoop">
+  <component name="RunManager" selected="Application.ForLoop">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -231,13 +248,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfElseTrue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_000_Sandbox._001_IfElseTrue.IfElseTrue" />
+    <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_003_forLoop.ForLoop" />
       <module name="IDE_Chapter_005_FlowControlAndExceptions" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_000_Sandbox._001_IfElseTrue.*" />
+          <option name="PATTERN" value="_003_forLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -305,19 +322,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.IfElseTrue" />
       <item itemvalue="Application.BooleanAssignment" />
       <item itemvalue="Application.Switch" />
       <item itemvalue="Application.WhileLoop" />
       <item itemvalue="Application.DoLoop" />
+      <item itemvalue="Application.ForLoop" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ForLoop" />
         <item itemvalue="Application.DoLoop" />
         <item itemvalue="Application.WhileLoop" />
         <item itemvalue="Application.Switch" />
         <item itemvalue="Application.BooleanAssignment" />
-        <item itemvalue="Application.IfElseTrue" />
       </list>
     </recent_temporary>
   </component>
@@ -335,12 +352,12 @@
       <workItem from="1577099477422" duration="592000" />
       <workItem from="1577173994743" duration="1172000" />
       <workItem from="1577372604786" duration="666000" />
-      <workItem from="1577430970192" duration="4267000" />
+      <workItem from="1577430970192" duration="7842000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6979000" />
+    <option name="totallyTimeSpent" value="10554000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="56" width="1918" height="1014" extended-state="0" />
@@ -426,8 +443,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_004_DoLoop/DoLoop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_003_forLoop/ForLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="43" lean-forward="true" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
         </state>
       </provider>
     </entry>
