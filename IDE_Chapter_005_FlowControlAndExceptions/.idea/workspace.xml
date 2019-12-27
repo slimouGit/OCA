@@ -182,7 +182,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LabeledWhileBreak">
+  <component name="RunManager" selected="Application.LabeledLoopCondition">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -245,13 +245,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LabeledWhileBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_000_Sandbox._006_LabeledWhileBreak.LabeledWhileBreak" />
+    <configuration name="LabeledLoopCondition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_000_Sandbox._006_LabeledLoopCondition.LabeledLoopCondition" />
       <module name="IDE_Chapter_005_FlowControlAndExceptions" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_000_Sandbox._006_LabeledWhileBreak.*" />
+          <option name="PATTERN" value="_000_Sandbox._006_LabeledLoopCondition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -295,11 +295,11 @@
       <item itemvalue="Application.ForLoop" />
       <item itemvalue="Application.ForLoopBreak" />
       <item itemvalue="Application.LabeledBreak" />
-      <item itemvalue="Application.LabeledWhileBreak" />
+      <item itemvalue="Application.LabeledLoopCondition" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LabeledWhileBreak" />
+        <item itemvalue="Application.LabeledLoopCondition" />
         <item itemvalue="Application.LabeledBreak" />
         <item itemvalue="Application.ForLoopBreak" />
         <item itemvalue="Application.ForLoop" />

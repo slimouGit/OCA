@@ -1,6 +1,6 @@
-package _000_Sandbox._006_LabeledWhileBreak;
+package _000_Sandbox._006_LabeledLoopCondition;
 
-public class LabeledWhileBreak {
+public class LabeledLoopCondition {
     public static void main(String[] args) {
         int age = 0;
         int ageOfDeath = 110;
