@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="124dc9d3-7ecf-42d9-86b6-0e5dce8ec378" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_006_IOException/IOException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/_009_ThrowAndCatch/ThrowAndCatch.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,13 +16,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_006_IOException/IOException.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="201">
-              <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+              <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_009_ThrowAndCatch/ThrowAndCatch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+              <folding>
+                <element signature="e#113#114#0" expanded="true" />
+                <element signature="e#152#153#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -63,6 +75,7 @@
         <option value="$PROJECT_DIR$/src/_000_Sandbox/_008_ReverseStringFinally/ReverseStringFinally.java" />
         <option value="$PROJECT_DIR$/src/_000_Sandbox/_007_ExceptionStack/ExceptionStack.java" />
         <option value="$PROJECT_DIR$/src/_006_IOException/IOException.java" />
+        <option value="$PROJECT_DIR$/src/_000_Sandbox/_009_ThrowAndCatch/ThrowAndCatch.java" />
       </list>
     </option>
   </component>
@@ -100,6 +113,13 @@
               <item name="IDE_Chapter_005_FlowControlAndExceptions" type="b2602c69:ProjectViewProjectNode" />
               <item name="IDE_Chapter_005_FlowControlAndExceptions" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_000_Sandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="_009_ThrowAndCatch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDE_Chapter_005_FlowControlAndExceptions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IDE_Chapter_005_FlowControlAndExceptions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_006_IOException" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -127,7 +147,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IOException">
+  <component name="RunManager" selected="Application.ThrowAndCatch">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -162,20 +182,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LabeledBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_004_LabeledBreak.LabeledBreak" />
-      <module name="IDE_Chapter_005_FlowControlAndExceptions" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_004_LabeledBreak.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="LabeledLoopCondition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_000_Sandbox._006_LabeledLoopCondition.LabeledLoopCondition" />
       <module name="IDE_Chapter_005_FlowControlAndExceptions" />
@@ -197,6 +203,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="_000_Sandbox._008_ReverseStringFinally.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThrowAndCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_000_Sandbox._009_ThrowAndCatch.ThrowAndCatch" />
+      <module name="IDE_Chapter_005_FlowControlAndExceptions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_000_Sandbox._009_ThrowAndCatch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,19 +256,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LabeledBreak" />
       <item itemvalue="Application.LabeledLoopCondition" />
       <item itemvalue="Application.ExceptionStack" />
       <item itemvalue="Application.ReverseStringFinally" />
       <item itemvalue="Application.IOException" />
+      <item itemvalue="Application.ThrowAndCatch" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThrowAndCatch" />
         <item itemvalue="Application.IOException" />
         <item itemvalue="Application.ExceptionStack" />
         <item itemvalue="Application.ReverseStringFinally" />
         <item itemvalue="Application.LabeledLoopCondition" />
-        <item itemvalue="Application.LabeledBreak" />
       </list>
     </recent_temporary>
   </component>
@@ -267,18 +287,18 @@
       <workItem from="1577173994743" duration="1172000" />
       <workItem from="1577372604786" duration="666000" />
       <workItem from="1577430970192" duration="9781000" />
-      <workItem from="1577610387742" duration="15791000" />
+      <workItem from="1577610387742" duration="16305000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28284000" />
+    <option name="totallyTimeSpent" value="28798000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-25" y="0" width="1300" height="807" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.39435485" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.39435485" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -297,7 +317,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.32789317" />
+      <window_info anchor="bottom" id="Messages" order="12" visible="true" weight="0.32789317" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -417,9 +437,20 @@
     <entry file="file://$PROJECT_DIR$/src/_006_IOException/IOException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="201">
-          <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+          <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_009_ThrowAndCatch/ThrowAndCatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding>
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
           </folding>
         </state>
       </provider>
