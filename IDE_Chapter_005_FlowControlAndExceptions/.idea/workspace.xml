@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="124dc9d3-7ecf-42d9-86b6-0e5dce8ec378" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/_006_IOException/IOException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_005_FlowControlAndExceptions/_000_Sandbox/_007_ExceptionStack/ExceptionStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDE_Chapter_005_FlowControlAndExceptions/_000_Sandbox/_007_ExceptionStack/ExceptionStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_000_Sandbox/_007_ExceptionStack/ExceptionStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_000_Sandbox/_007_ExceptionStack/ExceptionStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OCA_Test/OCA Java SE 8 Programmer I Exam Guide (Exams 1Z0-808).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../OCA_Test/OCA Java SE 8 Programmer I Exam Guide (Exams 1Z0-808).pdf" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,25 +18,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_007_ExceptionStack/ExceptionStack.java">
+        <entry file="file://$PROJECT_DIR$/src/_006_IOException/IOException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+            <state relative-caret-position="201">
+              <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
               <folding>
-                <element signature="e#467#468#0" expanded="true" />
-                <element signature="e#652#653#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_008_ReverseStringFinally/ReverseStringFinally.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-              <folding>
-                <element signature="e#366#367#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -77,6 +62,7 @@
         <option value="$PROJECT_DIR$/src/_000_Sandbox/_008_ReverseStringFinally/ReverseStringException.java" />
         <option value="$PROJECT_DIR$/src/_000_Sandbox/_008_ReverseStringFinally/ReverseStringFinally.java" />
         <option value="$PROJECT_DIR$/src/_000_Sandbox/_007_ExceptionStack/ExceptionStack.java" />
+        <option value="$PROJECT_DIR$/src/_006_IOException/IOException.java" />
       </list>
     </option>
   </component>
@@ -114,39 +100,7 @@
               <item name="IDE_Chapter_005_FlowControlAndExceptions" type="b2602c69:ProjectViewProjectNode" />
               <item name="IDE_Chapter_005_FlowControlAndExceptions" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_000_Sandbox" type="462c0819:PsiDirectoryNode" />
-              <item name="_006_LabeledLoopCondition" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IDE_Chapter_005_FlowControlAndExceptions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IDE_Chapter_005_FlowControlAndExceptions" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_000_Sandbox" type="462c0819:PsiDirectoryNode" />
-              <item name="_008_ReverseStringFinally" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IDE_Chapter_005_FlowControlAndExceptions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IDE_Chapter_005_FlowControlAndExceptions" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_001_if_elseIf_else" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IDE_Chapter_005_FlowControlAndExceptions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IDE_Chapter_005_FlowControlAndExceptions" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_002_switch" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IDE_Chapter_005_FlowControlAndExceptions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IDE_Chapter_005_FlowControlAndExceptions" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_003_forLoop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IDE_Chapter_005_FlowControlAndExceptions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IDE_Chapter_005_FlowControlAndExceptions" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_004_LabeledBreak" type="462c0819:PsiDirectoryNode" />
+              <item name="_006_IOException" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -173,7 +127,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ExceptionStack">
+  <component name="RunManager" selected="Application.IOException">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -194,13 +148,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForLoopBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_000_Sandbox._005_FoLoopBreak.ForLoopBreak" />
+    <configuration name="IOException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_006_IOException.IOException" />
       <module name="IDE_Chapter_005_FlowControlAndExceptions" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_000_Sandbox._005_FoLoopBreak.*" />
+          <option name="PATTERN" value="_006_IOException.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -282,19 +236,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ForLoopBreak" />
       <item itemvalue="Application.LabeledBreak" />
       <item itemvalue="Application.LabeledLoopCondition" />
       <item itemvalue="Application.ExceptionStack" />
       <item itemvalue="Application.ReverseStringFinally" />
+      <item itemvalue="Application.IOException" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IOException" />
         <item itemvalue="Application.ExceptionStack" />
         <item itemvalue="Application.ReverseStringFinally" />
         <item itemvalue="Application.LabeledLoopCondition" />
         <item itemvalue="Application.LabeledBreak" />
-        <item itemvalue="Application.ForLoopBreak" />
       </list>
     </recent_temporary>
   </component>
@@ -313,12 +267,12 @@
       <workItem from="1577173994743" duration="1172000" />
       <workItem from="1577372604786" duration="666000" />
       <workItem from="1577430970192" duration="9781000" />
-      <workItem from="1577610387742" duration="14568000" />
+      <workItem from="1577610387742" duration="15791000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27061000" />
+    <option name="totallyTimeSpent" value="28284000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-25" y="0" width="1300" height="807" extended-state="0" />
@@ -334,7 +288,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32789317" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.36646885" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5430267" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -343,7 +297,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32789317" />
+      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.32789317" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -450,11 +404,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_007_ExceptionStack/ExceptionStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        <state relative-caret-position="-199">
+          <caret line="3" column="43" lean-forward="true" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
           <folding>
-            <element signature="e#467#468#0" expanded="true" />
-            <element signature="e#652#653#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_006_IOException/IOException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
