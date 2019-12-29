@@ -10,16 +10,17 @@ public class ExceptionStack {
             doMoreStuff();
         }catch(Exception e) {
         e.printStackTrace();
+        System.out.println("Exception was catched");
         }
         executeAfterException();
 
     }
 
-    private static void doMoreStuff() throws Exception  {
+    private static void doMoreStuff()   {
         doStuffWithException();
     }
 
-    private static void doStuffWithException() throws Exception {
+    private static void doStuffWithException()  {
         int x = 5/0;
 
     }
