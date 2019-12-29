@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="124dc9d3-7ecf-42d9-86b6-0e5dce8ec378" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_007_OwnException/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_007_OwnException/MyException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_008_BadFoodException/BadFoodException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_008_BadFoodException/TasteFood.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,44 +18,26 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_006_IOException/IOException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_009_ThrowAndCatch/ThrowAndCatch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="28" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_007_OwnException/MyException.java">
+        <entry file="file://$PROJECT_DIR$/src/_008_BadFoodException/BadFoodException.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+              <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
               <folding>
-                <element signature="e#114#115#0" expanded="true" />
-                <element signature="e#144#145#0" expanded="true" />
+                <element signature="e#120#121#0" expanded="true" />
+                <element signature="e#150#151#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_007_OwnException/MyClass.java">
+        <entry file="file://$PROJECT_DIR$/src/_008_BadFoodException/TasteFood.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+            <state relative-caret-position="116">
+              <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -96,8 +77,10 @@
         <option value="$PROJECT_DIR$/src/_000_Sandbox/_007_ExceptionStack/ExceptionStack.java" />
         <option value="$PROJECT_DIR$/src/_006_IOException/IOException.java" />
         <option value="$PROJECT_DIR$/src/_000_Sandbox/_009_ThrowAndCatch/ThrowAndCatch.java" />
-        <option value="$PROJECT_DIR$/src/_007_OwnException/MyException.java" />
         <option value="$PROJECT_DIR$/src/_007_OwnException/MyClass.java" />
+        <option value="$PROJECT_DIR$/src/_007_OwnException/MyException.java" />
+        <option value="$PROJECT_DIR$/src/_008_BadFoodException/BadFoodException.java" />
+        <option value="$PROJECT_DIR$/src/_008_BadFoodException/TasteFood.java" />
       </list>
     </option>
   </component>
@@ -135,7 +118,7 @@
               <item name="IDE_Chapter_005_FlowControlAndExceptions" type="b2602c69:ProjectViewProjectNode" />
               <item name="IDE_Chapter_005_FlowControlAndExceptions" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_007_OwnException" type="462c0819:PsiDirectoryNode" />
+              <item name="_008_BadFoodException" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -162,7 +145,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyClass">
+  <component name="RunManager" selected="Application.TasteFood">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -211,13 +194,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseStringFinally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_000_Sandbox._008_ReverseStringFinally.ReverseStringFinally" />
+    <configuration name="TasteFood" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_008_BadFoodException.TasteFood" />
       <module name="IDE_Chapter_005_FlowControlAndExceptions" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_000_Sandbox._008_ReverseStringFinally.*" />
+          <option name="PATTERN" value="_008_BadFoodException.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -272,18 +255,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.ExceptionStack" />
-      <item itemvalue="Application.ReverseStringFinally" />
       <item itemvalue="Application.IOException" />
       <item itemvalue="Application.ThrowAndCatch" />
       <item itemvalue="Application.MyClass" />
+      <item itemvalue="Application.TasteFood" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TasteFood" />
         <item itemvalue="Application.MyClass" />
         <item itemvalue="Application.ThrowAndCatch" />
         <item itemvalue="Application.IOException" />
         <item itemvalue="Application.ExceptionStack" />
-        <item itemvalue="Application.ReverseStringFinally" />
       </list>
     </recent_temporary>
   </component>
@@ -302,18 +285,18 @@
       <workItem from="1577173994743" duration="1172000" />
       <workItem from="1577372604786" duration="666000" />
       <workItem from="1577430970192" duration="9781000" />
-      <workItem from="1577610387742" duration="17054000" />
+      <workItem from="1577610387742" duration="18346000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29547000" />
+    <option name="totallyTimeSpent" value="30839000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-25" y="0" width="1300" height="807" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.39435485" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.39435485" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -322,8 +305,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32789317" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.5430267" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32789317" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5430267" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -466,21 +449,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/_007_OwnException/MyClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="61" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/_007_OwnException/MyException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        <state relative-caret-position="85">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="5" />
           <folding>
-            <element signature="e#114#115#0" expanded="true" />
-            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_007_OwnException/MyClass.java">
+    <entry file="file://$PROJECT_DIR$/src/_008_BadFoodException/BadFoodException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+        <state relative-caret-position="51">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_008_BadFoodException/TasteFood.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
