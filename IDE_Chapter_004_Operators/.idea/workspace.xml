@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7cdf844a-c26c-42a3-8396-1af24fa33ab3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OCA_Test/OCA_Test.indd" beforeDir="false" afterPath="$PROJECT_DIR$/../OCA_Test/OCA_Test.indd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OCA_Test/OCA_Test.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../OCA_Test/OCA_Test.pdf" afterDir="false" />
-    </list>
+    <list default="true" id="7cdf844a-c26c-42a3-8396-1af24fa33ab3" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,8 +71,8 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="-5" />
-    <option name="width" value="1378" />
-    <option name="height" value="925" />
+    <option name="width" value="1300" />
+    <option name="height" value="820" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -85,7 +80,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -115,13 +109,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IDE_Chapter_005_FlowControlAndExceptions" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -280,6 +275,7 @@
       <workItem from="1573317415463" duration="1759000" />
       <workItem from="1573381052234" duration="602000" />
       <workItem from="1575785494265" duration="150000" />
+      <workItem from="1577609185122" duration="1122000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'master' of https://github.com/slimouGit/OCA&#10;&#10;# Conflicts:&#10;#&#9;IDE_Chapter_004_Operators/out/production/IDE_Chapter_004_Operators/_005_CompareEnums/EnumEqual.class">
       <created>1572792303663</created>
@@ -292,13 +288,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13150000" />
+    <option name="totallyTimeSpent" value="14272000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-5" width="1378" height="925" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="-5" width="1300" height="820" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.40515932" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.41209677" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
