@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f47add4c-4bde-4a0e-be14-e3effa623e96" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_002_StringBuilder/StringBuilderExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_007_ArrayInitialization/ArrayInitialize.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IDE_Chapter_005_FlowControlAndExceptions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_005_FlowControlAndExceptions/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_001_Sandbox/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_000_Sandbox/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_001_Sandbox/_001_StringObjectConcat/ConcatString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_000_Sandbox/_001_StringObjectConcat/ConcatString.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,20 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_001_StringConcat/ConcatString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_002_StringBuilder/StringBuilderExample.java">
+        <entry file="file://$PROJECT_DIR$/src/_007_ArrayInitialization/ArrayInitialize.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+              <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -59,6 +48,7 @@
         <option value="$PROJECT_DIR$/src/_001_StringConcat_2/ConcatString.java" />
         <option value="$PROJECT_DIR$/src/_001_StringConcat/ConcatString.java" />
         <option value="$PROJECT_DIR$/src/_002_StringBuilder/StringBuilderExample.java" />
+        <option value="$PROJECT_DIR$/src/_007_ArrayInitialization/ArrayInitialize.java" />
       </list>
     </option>
   </component>
@@ -73,8 +63,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -91,19 +81,7 @@
               <item name="IDE_Chapter_006_StringsArraysArrayListsDatesLambdas" type="b2602c69:ProjectViewProjectNode" />
               <item name="IDE_Chapter_006_StringsArraysArrayListsDatesLambdas" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_000_Sandbox" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IDE_Chapter_006_StringsArraysArrayListsDatesLambdas" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IDE_Chapter_006_StringsArraysArrayListsDatesLambdas" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_001_StringConcat" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IDE_Chapter_006_StringsArraysArrayListsDatesLambdas" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IDE_Chapter_006_StringsArraysArrayListsDatesLambdas" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_002_StringBuilder" type="462c0819:PsiDirectoryNode" />
+              <item name="_007_ArrayInitialization" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -143,9 +121,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringBuilderExample">
+  <component name="RunManager" selected="Application.ArrayInitialize">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayInitialize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_007_ArrayInitialization.ArrayInitialize" />
+      <module name="IDE_Chapter_006_StringsArraysArrayListsDatesLambdas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_007_ArrayInitialization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -185,20 +177,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="_000_Sandbox._001_StringObjectConcat.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_000_Sandbox.Main" />
-      <module name="IDE_Chapter_006_StringsArraysArrayListsDatesLambdas" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_000_Sandbox.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -253,11 +231,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayInitialize" />
         <item itemvalue="Application.StringBuilderExample" />
         <item itemvalue="Application.ConcatString (2)" />
         <item itemvalue="Application.ConcatString (1)" />
         <item itemvalue="Application.ConcatString" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -278,10 +256,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3711000" />
+    <option name="totallyTimeSpent" value="4127000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="0" width="1300" height="807" extended-state="0" />
+    <frame x="152" y="37" width="1300" height="807" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2580645" />
@@ -333,13 +311,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_001_Sandbox/_002_StringConcat_2/ConcatString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_001_Sandbox/_002_StringConcat_2/ConcatString.java" />
     <entry file="file://$PROJECT_DIR$/src/_001_StringConcat/ConcatString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -351,6 +323,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_007_ArrayInitialization/ArrayInitialize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
         </state>
       </provider>
     </entry>
