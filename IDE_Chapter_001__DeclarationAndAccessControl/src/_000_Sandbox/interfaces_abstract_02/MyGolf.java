@@ -10,7 +10,7 @@ public class MyGolf extends Golf {
         //DEFAULT METHOD IN INTERFACE Colorizing
         myGolf.cleanCar();
 
-        
+
         myGolf.colorize("red");
 
         myGolf.drive();

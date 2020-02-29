@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5883f316-fc2e-41ac-843d-3f57ad16ea7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/interfaces_abstract_02/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/interfaces_abstract_02/Colorizing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/interfaces_abstract_02/Driving.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/interfaces_abstract_02/Golf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/interfaces_abstract_02/MyGolf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/interfaces_abstract_02/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_000_Sandbox/accessModifier/Package_01/Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_000_Sandbox/accessModifier/Package_01/Child.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_000_Sandbox/accessModifier/Package_01/Parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_000_Sandbox/accessModifier/Package_01/Parent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_000_Sandbox/accessModifier/Package_02/AdoptiveChild.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_000_Sandbox/accessModifier/Package_02/AdoptiveChild.class" afterDir="false" />
-    </list>
+    <list default="true" id="5883f316-fc2e-41ac-843d-3f57ad16ea7a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -392,7 +381,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12744000" />
+    <option name="totallyTimeSpent" value="13410000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="131" y="48" width="1378" height="997" extended-state="0" />
@@ -407,7 +396,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3287037" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3287037" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39170507" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
