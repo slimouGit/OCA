@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5883f316-fc2e-41ac-843d-3f57ad16ea7a" name="Default Changelist" comment="" />
+    <list default="true" id="5883f316-fc2e-41ac-843d-3f57ad16ea7a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/accessModifier/Package_01/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/accessModifier/Package_01/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/accessModifier/Package_02/AdoptiveChild.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/out/production/IDE_Chapter_002_ObjectOrientation/META-INF/IDE_Chapter_002_ObjectOrientation.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/out/production/IDE_Chapter_002_ObjectOrientation/_000_Sandbox/_012_Inheritance_ConstuctorsBehaviour/Son_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/out/production/IDE_Chapter_002_ObjectOrientation/_000_Sandbox/_012_Inheritance_ConstuctorsBehaviour/Son_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_005_FlowControlAndExceptions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_005_FlowControlAndExceptions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_006_StringsArraysArrayListsDatesLambdas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_006_StringsArraysArrayListsDatesLambdas/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,34 +21,33 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_020_AbstractAndConcreteClassesAndMethods/Vehicle.java">
+        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/accessModifier/Package_01/Parent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="221">
+              <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_020_AbstractAndConcreteClassesAndMethods/Car.java">
+        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/accessModifier/Package_01/Child.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_020_AbstractAndConcreteClassesAndMethods/Mini.java">
+        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/accessModifier/Package_02/AdoptiveChild.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -58,9 +68,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/protectedMembers/parentPackage/Parent.java" />
-        <option value="$PROJECT_DIR$/src/protectedMembers/childPackage/Main.java" />
-        <option value="$PROJECT_DIR$/src/protectedMembers/childPackage/Child.java" />
         <option value="$PROJECT_DIR$/src/defaultMembersSamePackage/Parent.java" />
         <option value="$PROJECT_DIR$/src/defaultMembersSamePackage/Main.java" />
         <option value="$PROJECT_DIR$/src/defaultMembersSamePackage/Child.java" />
@@ -108,12 +115,16 @@
         <option value="$PROJECT_DIR$/src/_020_AbstractAndConcreteClassesAndMethods/Vehicle.java" />
         <option value="$PROJECT_DIR$/src/_020_AbstractAndConcreteClassesAndMethods/Car.java" />
         <option value="$PROJECT_DIR$/src/_020_AbstractAndConcreteClassesAndMethods/Mini.java" />
+        <option value="$PROJECT_DIR$/src/_000_Sandbox/accessModifier/Package_02/Child.java" />
+        <option value="$PROJECT_DIR$/src/_000_Sandbox/accessModifier/Package_01/Child.java" />
+        <option value="$PROJECT_DIR$/src/_000_Sandbox/accessModifier/Package_02/AdoptiveChild.java" />
+        <option value="$PROJECT_DIR$/src/_000_Sandbox/accessModifier/Package_01/Parent.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="309" />
-    <option name="y" value="37" />
+    <option name="x" value="131" />
+    <option name="y" value="48" />
     <option name="width" value="1378" />
     <option name="height" value="997" />
   </component>
@@ -123,6 +134,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -134,6 +146,30 @@
               <item name="IDE_Chapter_001__DeclarationAndAccessControl" type="b2602c69:ProjectViewProjectNode" />
               <item name="IDE_Chapter_001__DeclarationAndAccessControl" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDE_Chapter_001__DeclarationAndAccessControl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IDE_Chapter_001__DeclarationAndAccessControl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Package_01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDE_Chapter_001__DeclarationAndAccessControl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IDE_Chapter_001__DeclarationAndAccessControl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Package_02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDE_Chapter_001__DeclarationAndAccessControl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IDE_Chapter_001__DeclarationAndAccessControl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="enums_01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDE_Chapter_001__DeclarationAndAccessControl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IDE_Chapter_001__DeclarationAndAccessControl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="enums_02" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IDE_Chapter_001__DeclarationAndAccessControl" type="b2602c69:ProjectViewProjectNode" />
@@ -151,7 +187,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -160,9 +195,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/defaultMembersSamePackage" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -181,9 +216,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Cloo">
+  <component name="RunManager" selected="Application.Parent">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdoptiveChild" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_000_Sandbox.accessModifier.Package_02.AdoptiveChild" />
+      <module name="IDE_Chapter_001__DeclarationAndAccessControl" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_000_Sandbox.accessModifier.Package_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Child" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_000_Sandbox.accessModifier.Package_01.Child" />
+      <module name="IDE_Chapter_001__DeclarationAndAccessControl" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_000_Sandbox.accessModifier.Package_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -191,7 +254,7 @@
     <configuration name="Cloo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_014_inherit_public_members_in_different_packages.notcert.Cloo" />
       <module name="IDE_Chapter_001__DeclarationAndAccessControl" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <shortenClasspath name="CLASSPATH_FILE" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="_014_inherit_public_members_in_different_packages.notcert.*" />
@@ -216,41 +279,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_012_use_members_with_inheritance.Main" />
+    <configuration name="Parent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_000_Sandbox.accessModifier.Package_01.Parent" />
       <module name="IDE_Chapter_001__DeclarationAndAccessControl" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_012_use_members_with_inheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_010_Interface_DefaultVsStatic.Main" />
-      <module name="IDE_Chapter_001__DeclarationAndAccessControl" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_010_Interface_DefaultVsStatic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_011_use_members_without_inheritance.Main" />
-      <module name="IDE_Chapter_001__DeclarationAndAccessControl" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_011_use_members_without_inheritance.*" />
+          <option name="PATTERN" value="_000_Sandbox.accessModifier.Package_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -290,19 +325,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main (5)" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Goo" />
       <item itemvalue="Application.Cloo" />
+      <item itemvalue="Application.Child" />
+      <item itemvalue="Application.AdoptiveChild" />
+      <item itemvalue="Application.Parent" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Parent" />
+        <item itemvalue="Application.Child" />
+        <item itemvalue="Application.AdoptiveChild" />
         <item itemvalue="Application.Cloo" />
         <item itemvalue="Application.Goo" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -318,16 +353,18 @@
       <updated>1560170784978</updated>
       <workItem from="1560170787794" duration="8121000" />
       <workItem from="1563898462168" duration="16000" />
+      <workItem from="1582971467658" duration="2691000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8137000" />
+    <option name="totallyTimeSpent" value="10828000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="309" y="37" width="1378" height="997" extended-state="0" />
+    <frame x="131" y="48" width="1378" height="997" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.45902884" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.4666161" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -336,7 +373,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32921174" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3287037" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39170507" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -346,7 +383,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.33075735" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3298611" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -382,9 +419,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/_016_protectedMembers/parentPackage/Parent.java" />
-    <entry file="file://$PROJECT_DIR$/src/_016_protectedMembers/childPackage/Child.java" />
     <entry file="file://$PROJECT_DIR$/src/_016_protectedMembers/childPackage/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/_015_defaultMembersSamePackage/Main.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -666,6 +700,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/enums_01/HappyEuro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/accessModifier/Package_01/Child.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/accessModifier/Package_02/AdoptiveChild.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/accessModifier/Package_01/Parent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
@@ -683,6 +745,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -705,6 +768,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -716,10 +780,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
+          <last-edited>IDE_Chapter_001__DeclarationAndAccessControl</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
