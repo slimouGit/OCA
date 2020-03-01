@@ -16,6 +16,11 @@ public class AdoptiveChild extends Parent {
          * new AdoptiveChild().callMyName_private("adobtive Herbert");
          */
 
-
+        System.out.println(new AdoptiveChild().publicString);
+        System.out.println(new AdoptiveChild().protectedString);
+        /**
+        System.out.println(new AdoptiveChild().defaultString);
+        System.out.println(new AdoptiveChild().privateString);
+        **/
     }
 }

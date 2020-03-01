@@ -11,5 +11,12 @@ public class Child extends Parent {
          *
          * new Child().callMyName_private("Franz");
          */
+
+        System.out.println(new Child().publicString);
+        System.out.println(new Child().protectedString);
+        System.out.println(new Child().defaultString);
+        /**
+        System.out.println(new Child().privateString);
+         **/
     }
 }
