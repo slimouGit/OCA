@@ -6,6 +6,8 @@ public interface Omniscient {
         return 42;
     };
 
+    int omniscientNumber_2();
+
 	/*
 	- illegal final static
 	final static int omniscientNumber(){

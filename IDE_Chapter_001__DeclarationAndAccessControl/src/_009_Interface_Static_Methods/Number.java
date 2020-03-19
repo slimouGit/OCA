@@ -5,4 +5,8 @@ public class Number implements Omniscient{
         System.out.println("Omniscient number is: " + Omniscient.omniscientNumber());
     }
 
+    @Override
+    public int omniscientNumber_2() {
+        return 42;
+    }
 }
