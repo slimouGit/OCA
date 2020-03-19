@@ -8,6 +8,10 @@ public interface Omniscient {
 
     int omniscientNumber_2();
 
+    default int omniscientNumber_3(){
+        return 42;
+    };
+
 	/*
 	- illegal final static
 	final static int omniscientNumber(){
