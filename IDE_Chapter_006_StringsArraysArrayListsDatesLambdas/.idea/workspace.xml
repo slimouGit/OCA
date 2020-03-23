@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f47add4c-4bde-4a0e-be14-e3effa623e96" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_008_multidimensionalArray/MultidimensionalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_005_StringBuilder_mutable/Change.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_001__DeclarationAndAccessControl/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_001__DeclarationAndAccessControl/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_004_Operators/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_004_Operators/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IDE_Chapter_005_FlowControlAndExceptions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_005_FlowControlAndExceptions/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OCA_Test/OCA Java SE 8 Programmer I Exam Guide (Exams 1Z0-808).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../OCA_Test/OCA Java SE 8 Programmer I Exam Guide (Exams 1Z0-808).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_005_FlowControlAndExceptions/out/production/IDE_Chapter_005_FlowControlAndExceptions/META-INF/IDE_Chapter_005_FlowControlAndExceptions.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_002_StringBuilder/StringBuilderExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_002_StringBuilder/StringBuilderExample.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,19 +23,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_007_ArrayInitialization/ArrayInitialize.java">
+        <entry file="file://$PROJECT_DIR$/src/_002_StringBuilder/StringBuilderExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+            <state relative-caret-position="68">
+              <caret line="4" column="42" lean-forward="true" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_008_multidimensionalArray/MultidimensionalArray.java">
+        <entry file="file://$PROJECT_DIR$/src/_005_StringBuilder_mutable/Change.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+            <state relative-caret-position="68">
+              <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -57,14 +60,16 @@
         <option value="$PROJECT_DIR$/src/_001_Sandbox/_002_StringConcat_2/ConcatString.java" />
         <option value="$PROJECT_DIR$/src/_001_StringConcat_2/ConcatString.java" />
         <option value="$PROJECT_DIR$/src/_001_StringConcat/ConcatString.java" />
-        <option value="$PROJECT_DIR$/src/_002_StringBuilder/StringBuilderExample.java" />
         <option value="$PROJECT_DIR$/src/_007_ArrayInitialization/ArrayInitialize.java" />
         <option value="$PROJECT_DIR$/src/_008_multidimensionalArray/MultidimensionalArray.java" />
+        <option value="$PROJECT_DIR$/src/_002_StringBuilder/StringBuilderExample.java" />
+        <option value="$PROJECT_DIR$/src/_005_StringBuilder_mutable/Change.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="4" />
+    <option name="x" value="288" />
+    <option name="y" value="60" />
     <option name="width" value="1300" />
     <option name="height" value="807" />
   </component>
@@ -87,6 +92,18 @@
               <item name="IDE_Chapter_006_StringsArraysArrayListsDatesLambdas" type="b2602c69:ProjectViewProjectNode" />
               <item name="IDE_Chapter_006_StringsArraysArrayListsDatesLambdas" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDE_Chapter_006_StringsArraysArrayListsDatesLambdas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IDE_Chapter_006_StringsArraysArrayListsDatesLambdas" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_002_StringBuilder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDE_Chapter_006_StringsArraysArrayListsDatesLambdas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IDE_Chapter_006_StringsArraysArrayListsDatesLambdas" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_005_StringBuilder_mutable" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IDE_Chapter_006_StringsArraysArrayListsDatesLambdas" type="b2602c69:ProjectViewProjectNode" />
@@ -138,7 +155,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MultidimensionalArray">
+  <component name="RunManager" selected="Application.Change">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -159,13 +176,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConcatString (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_001_Sandbox._002_StringConcat_2.ConcatString" />
+    <configuration name="Change" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_005_StringBuilder_mutable.Change" />
       <module name="IDE_Chapter_006_StringsArraysArrayListsDatesLambdas" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_001_Sandbox._002_StringConcat_2.*" />
+          <option name="PATTERN" value="_005_StringBuilder_mutable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -248,11 +265,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Change" />
+        <item itemvalue="Application.StringBuilderExample" />
         <item itemvalue="Application.MultidimensionalArray" />
         <item itemvalue="Application.ArrayInitialize" />
-        <item itemvalue="Application.StringBuilderExample" />
         <item itemvalue="Application.ConcatString (2)" />
-        <item itemvalue="Application.ConcatString (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -269,17 +286,18 @@
       <workItem from="1577641101464" duration="752000" />
       <workItem from="1578064126574" duration="2018000" />
       <workItem from="1578144389468" duration="941000" />
+      <workItem from="1584960534914" duration="455000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4890000" />
+    <option name="totallyTimeSpent" value="5345000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="152" y="37" width="1300" height="807" extended-state="0" />
+    <frame x="299" y="286" width="1300" height="807" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2580645" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26209676" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -289,7 +307,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32937685" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3827893" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3827893" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -312,6 +330,36 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_005_StringBuilder_mutable/Change.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_005_StringBuilder_mutable/Change.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_005_StringBuilder_mutable/Change.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_005_StringBuilder_mutable/Change.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/Main.java">
@@ -336,13 +384,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_002_StringBuilder/StringBuilderExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_007_ArrayInitialization/ArrayInitialize.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -352,8 +393,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_008_multidimensionalArray/MultidimensionalArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
+        <state relative-caret-position="283">
           <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_002_StringBuilder/StringBuilderExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="42" lean-forward="true" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_005_StringBuilder_mutable/Change.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
         </state>
       </provider>
     </entry>
