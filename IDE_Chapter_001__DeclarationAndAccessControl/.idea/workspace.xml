@@ -2,18 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5883f316-fc2e-41ac-843d-3f57ad16ea7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/InterfacesStaticMethods/NewIFs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/InterfacesStaticMethods/TestIF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_000_Sandbox/accessModifier/Package_01/Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_000_Sandbox/accessModifier/Package_01/Child.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_000_Sandbox/accessModifier/Package_01/Parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_000_Sandbox/accessModifier/Package_01/Parent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_000_Sandbox/accessModifier/Package_02/AdoptiveChild.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_000_Sandbox/accessModifier/Package_02/AdoptiveChild.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_000_Sandbox/interfaces_abstract_02/MyGolf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_000_Sandbox/interfaces_abstract_02/MyGolf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_009_Interface_Static_Methods/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_009_Interface_Static_Methods/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_009_Interface_Static_Methods/Number.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_009_Interface_Static_Methods/Number.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_009_Interface_Static_Methods/Omniscient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_009_Interface_Static_Methods/Omniscient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_014_inherit_public_members_in_different_packages/Cloo/Cloo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDE_Chapter_001__DeclarationAndAccessControl/_014_inherit_public_members_in_different_packages/Cloo/Cloo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_014_inherit_public_members_in_different_packages/Cloo/Cloo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_014_inherit_public_members_in_different_packages/Cloo/Cloo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IDE_Chapter_004_Operators/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_004_Operators/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -28,26 +16,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/InterfacesStaticMethods/TestIF.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/InterfacesStaticMethods/NewIFs.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -119,10 +88,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-68" />
-    <option name="y" value="102" />
+    <option name="x" value="68" />
+    <option name="y" value="123" />
     <option name="width" value="1378" />
-    <option name="height" value="817" />
+    <option name="height" value="757" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -355,16 +324,15 @@
       <workItem from="1584705847025" duration="1547000" />
       <workItem from="1584803616580" duration="996000" />
       <workItem from="1584866085734" duration="592000" />
-      <workItem from="1584942021174" duration="898000" />
+      <workItem from="1584942021174" duration="1520000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21739000" />
+    <option name="totallyTimeSpent" value="22361000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="18" y="101" width="1378" height="817" extended-state="0" />
-    <editor active="true" />
+    <frame x="53" y="109" width="1378" height="817" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5037936" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -804,17 +772,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/InterfacesStaticMethods/NewIFs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/InterfacesStaticMethods/TestIF.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/InterfacesStaticMethods/NewIFs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
         </state>
       </provider>
     </entry>
