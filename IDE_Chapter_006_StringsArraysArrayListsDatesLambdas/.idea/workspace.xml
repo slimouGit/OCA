@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f47add4c-4bde-4a0e-be14-e3effa623e96" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_005_StringBuilder_mutable/Change.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/_005_ArraylistMethods/ArrayListMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_005_ArrayTestQuestion/Punt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IDE_Chapter_001__DeclarationAndAccessControl/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_001__DeclarationAndAccessControl/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IDE_Chapter_004_Operators/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_004_Operators/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IDE_Chapter_005_FlowControlAndExceptions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_005_FlowControlAndExceptions/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IDE_Chapter_005_FlowControlAndExceptions/out/production/IDE_Chapter_005_FlowControlAndExceptions/META-INF/IDE_Chapter_005_FlowControlAndExceptions.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_002_StringBuilder/StringBuilderExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_002_StringBuilder/StringBuilderExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,19 +24,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_002_StringBuilder/StringBuilderExample.java">
+        <entry file="file://$PROJECT_DIR$/src/_005_ArrayTestQuestion/Punt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="42" lean-forward="true" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+            <state relative-caret-position="221">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_005_StringBuilder_mutable/Change.java">
+        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_005_ArraylistMethods/ArrayListMethods.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+            <state relative-caret-position="298">
+              <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -64,14 +65,16 @@
         <option value="$PROJECT_DIR$/src/_008_multidimensionalArray/MultidimensionalArray.java" />
         <option value="$PROJECT_DIR$/src/_002_StringBuilder/StringBuilderExample.java" />
         <option value="$PROJECT_DIR$/src/_005_StringBuilder_mutable/Change.java" />
+        <option value="$PROJECT_DIR$/src/_005_ArrayTestQuestion/Punt.java" />
+        <option value="$PROJECT_DIR$/src/_000_Sandbox/_005_ArraylistMethods/ArrayListMethods.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="288" />
-    <option name="y" value="60" />
+    <option name="x" value="328" />
+    <option name="y" value="169" />
     <option name="width" value="1300" />
-    <option name="height" value="807" />
+    <option name="height" value="703" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -97,7 +100,19 @@
               <item name="IDE_Chapter_006_StringsArraysArrayListsDatesLambdas" type="b2602c69:ProjectViewProjectNode" />
               <item name="IDE_Chapter_006_StringsArraysArrayListsDatesLambdas" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_005_ArraylistMethods" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDE_Chapter_006_StringsArraysArrayListsDatesLambdas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IDE_Chapter_006_StringsArraysArrayListsDatesLambdas" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_002_StringBuilder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDE_Chapter_006_StringsArraysArrayListsDatesLambdas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IDE_Chapter_006_StringsArraysArrayListsDatesLambdas" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_005_ArrayTestQuestion" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IDE_Chapter_006_StringsArraysArrayListsDatesLambdas" type="b2602c69:ProjectViewProjectNode" />
@@ -155,20 +170,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Change">
+  <component name="RunManager" selected="Application.ArrayListMethods">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayInitialize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_007_ArrayInitialization.ArrayInitialize" />
+    <configuration name="ArrayListMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_000_Sandbox._005_ArraylistMethods.ArrayListMethods" />
       <module name="IDE_Chapter_006_StringsArraysArrayListsDatesLambdas" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_007_ArrayInitialization.*" />
+          <option name="PATTERN" value="_000_Sandbox._005_ArraylistMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,20 +205,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConcatString (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_001_StringConcat.ConcatString" />
-      <module name="IDE_Chapter_006_StringsArraysArrayListsDatesLambdas" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_001_StringConcat.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MultidimensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_008_multidimensionalArray.MultidimensionalArray" />
       <module name="IDE_Chapter_006_StringsArraysArrayListsDatesLambdas" />
@@ -211,6 +212,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="_008_multidimensionalArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Punt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_005_ArrayTestQuestion.Punt" />
+      <module name="IDE_Chapter_006_StringsArraysArrayListsDatesLambdas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_005_ArrayTestQuestion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -265,11 +280,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayListMethods" />
+        <item itemvalue="Application.Punt" />
         <item itemvalue="Application.Change" />
         <item itemvalue="Application.StringBuilderExample" />
         <item itemvalue="Application.MultidimensionalArray" />
-        <item itemvalue="Application.ArrayInitialize" />
-        <item itemvalue="Application.ConcatString (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -286,18 +301,18 @@
       <workItem from="1577641101464" duration="752000" />
       <workItem from="1578064126574" duration="2018000" />
       <workItem from="1578144389468" duration="941000" />
-      <workItem from="1584960534914" duration="455000" />
+      <workItem from="1584960534914" duration="5517000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5345000" />
+    <option name="totallyTimeSpent" value="10407000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="299" y="286" width="1300" height="807" extended-state="0" />
+    <frame x="328" y="169" width="1300" height="703" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26209676" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26209676" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -306,8 +321,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32937685" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3827893" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32807016" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4526316" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -360,6 +375,47 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="s" language="JAVA" />
+        <watch expression="sa" language="JAVA" />
+        <watch expression="sb" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>sb</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sa</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>s</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>builder</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>str</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>num</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/Main.java">
@@ -401,14 +457,28 @@
     <entry file="file://$PROJECT_DIR$/src/_002_StringBuilder/StringBuilderExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="42" lean-forward="true" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_005_StringBuilder_mutable/Change.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="144">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_005_ArrayTestQuestion/Punt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_005_ArraylistMethods/ArrayListMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
         </state>
       </provider>
     </entry>
