@@ -39,5 +39,5 @@ public class ReferenceTest {
      * changed objectReference 42 42
      * objectReference after change 42 42
      */
-    /
+
 }

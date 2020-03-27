@@ -2,26 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="124dc9d3-7ecf-42d9-86b6-0e5dce8ec378" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_005_FlowControlAndExceptions/_000_Sandbox/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_005_FlowControlAndExceptions/_000_Sandbox/_001_IfElseTrue/IfElseTrue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_005_FlowControlAndExceptions/_000_Sandbox/_002_booleanAssignment/BooleanAssignment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_005_FlowControlAndExceptions/_000_Sandbox/_003_WhileLoop/WhileLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_005_FlowControlAndExceptions/_000_Sandbox/_004_DoLoop/DoLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_005_FlowControlAndExceptions/_000_Sandbox/_005_FoLoopBreak/ForLoopBreak.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_005_FlowControlAndExceptions/_000_Sandbox/_006_LabeledLoopCondition/LabeledLoopCondition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_005_FlowControlAndExceptions/_000_Sandbox/_007_ExceptionStack/ExceptionStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_005_FlowControlAndExceptions/_000_Sandbox/_008_ReverseStringFinally/ReverseStringFinally.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_005_FlowControlAndExceptions/_000_Sandbox/_009_ThrowAndCatch/ThrowAndCatch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_005_FlowControlAndExceptions/_001_if_elseIf_else/ElseIf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_005_FlowControlAndExceptions/_002_switch/Switch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_005_FlowControlAndExceptions/_003_forLoop/ForLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_005_FlowControlAndExceptions/_004_LabeledBreak/LabeledBreak.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_005_FlowControlAndExceptions/_006_IOException/IOException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_005_FlowControlAndExceptions/_007_OwnException/MyClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_005_FlowControlAndExceptions/_007_OwnException/MyException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_005_FlowControlAndExceptions/_008_BadFoodException/BadFoodException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_005_FlowControlAndExceptions/_008_BadFoodException/TasteFood.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OCA_Test/OCA Java SE 8 Programmer I Exam Guide (Exams 1Z0-808).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../OCA_Test/OCA Java SE 8 Programmer I Exam Guide (Exams 1Z0-808).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/src/_000_Sandbox/_005_CastingExamples/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/src/_000_Sandbox/_005_CastingExamples/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/src/_000_Sandbox/_005_CastingExamples/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/src/_000_Sandbox/_005_CastingExamples/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/_011_LabledLoop/Circus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_001__DeclarationAndAccessControl/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_001__DeclarationAndAccessControl/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/out/production/IDE_Chapter_003_Assignments/META-INF/IDE_Chapter_003_Assignments.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/out/production/IDE_Chapter_003_Assignments/_000_Sandbox/_003_ReferenceTests/ReferenceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/out/production/IDE_Chapter_003_Assignments/_000_Sandbox/_003_ReferenceTests/ReferenceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/src/_000_Sandbox/_003_ReferenceTests/ReferenceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/src/_000_Sandbox/_003_ReferenceTests/ReferenceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/src/_000_Sandbox/_004_CastingExamples/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/src/_000_Sandbox/_004_CastingExamples/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_004_Operators/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_004_Operators/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_005_FlowControlAndExceptions/META-INF/IDE_Chapter_005_FlowControlAndExceptions.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_005_FlowControlAndExceptions/_008_BadFoodException/Food.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_005_FlowControlAndExceptions/_008_BadFoodException/GoodFood.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_000_Sandbox/_010_tryScope/TryScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_000_Sandbox/_010_tryScope/TryScope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_006_StringsArraysArrayListsDatesLambdas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_006_StringsArraysArrayListsDatesLambdas/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_006_StringsArraysArrayListsDatesLambdas/out/production/IDE_Chapter_006_StringsArraysArrayListsDatesLambdas/_003_StringBuilder_delete/StringBuilder_delete.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_006_StringsArraysArrayListsDatesLambdas/out/production/IDE_Chapter_006_StringsArraysArrayListsDatesLambdas/_003_StringBuilder_delete/StringBuilder_delete.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_006_StringsArraysArrayListsDatesLambdas/src/_003_StringBuilder_delete/StringBuilder_delete.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_006_StringsArraysArrayListsDatesLambdas/src/_003_StringBuilder_delete/StringBuilder_delete.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,38 +37,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_010_tryScope/TryScope.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_008_BadFoodException/BadFoodException.java">
+        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_011_LabledLoop/Circus.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_008_BadFoodException/TasteFood.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_008_BadFoodException/Food.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_008_BadFoodException/GoodFood.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+            <state relative-caret-position="204">
+              <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -113,12 +97,14 @@
         <option value="$PROJECT_DIR$/src/_008_BadFoodException/TasteFood.java" />
         <option value="$PROJECT_DIR$/src/_008_BadFoodException/FoodTaste.java" />
         <option value="$PROJECT_DIR$/src/_008_BadFoodException/Food.java" />
+        <option value="$PROJECT_DIR$/src/_000_Sandbox/_010_tryScope/TryScope.java" />
+        <option value="$PROJECT_DIR$/src/_000_Sandbox/_011_LabledLoop/Circus.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-200" />
-    <option name="y" value="67" />
+    <option name="x" value="554" />
+    <option name="y" value="82" />
     <option name="width" value="1300" />
     <option name="height" value="820" />
   </component>
@@ -145,6 +131,18 @@
               <item name="IDE_Chapter_005_FlowControlAndExceptions" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_000_Sandbox" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDE_Chapter_005_FlowControlAndExceptions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IDE_Chapter_005_FlowControlAndExceptions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_010_tryScope" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDE_Chapter_005_FlowControlAndExceptions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IDE_Chapter_005_FlowControlAndExceptions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_011_LabledLoop" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IDE_Chapter_005_FlowControlAndExceptions" type="b2602c69:ProjectViewProjectNode" />
@@ -181,34 +179,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TasteFood">
+  <component name="RunManager" selected="Application.Circus">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_000_Sandbox._007_ExceptionStack.ExceptionStack" />
+    <configuration name="Circus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_000_Sandbox._011_LabledLoop.Circus" />
       <module name="IDE_Chapter_005_FlowControlAndExceptions" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_000_Sandbox._007_ExceptionStack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IOException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_006_IOException.IOException" />
-      <module name="IDE_Chapter_005_FlowControlAndExceptions" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_006_IOException.*" />
+          <option name="PATTERN" value="_000_Sandbox._011_LabledLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -258,6 +242,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TryScope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_000_Sandbox._010_tryScope.TryScope" />
+      <module name="IDE_Chapter_005_FlowControlAndExceptions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_000_Sandbox._010_tryScope.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -290,19 +288,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ExceptionStack" />
-      <item itemvalue="Application.IOException" />
       <item itemvalue="Application.ThrowAndCatch" />
       <item itemvalue="Application.MyClass" />
       <item itemvalue="Application.TasteFood" />
+      <item itemvalue="Application.TryScope" />
+      <item itemvalue="Application.Circus" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Circus" />
+        <item itemvalue="Application.TryScope" />
         <item itemvalue="Application.TasteFood" />
         <item itemvalue="Application.MyClass" />
         <item itemvalue="Application.ThrowAndCatch" />
-        <item itemvalue="Application.IOException" />
-        <item itemvalue="Application.ExceptionStack" />
       </list>
     </recent_temporary>
   </component>
@@ -326,16 +324,21 @@
       <workItem from="1577690537081" duration="1985000" />
       <workItem from="1578144324301" duration="31000" />
       <workItem from="1578144746717" duration="11000" />
+      <workItem from="1584959319783" duration="1802000" />
+      <workItem from="1585028126781" duration="1191000" />
+      <workItem from="1585114207096" duration="1785000" />
+      <workItem from="1585199944167" duration="6195000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33559000" />
+    <option name="totallyTimeSpent" value="44532000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-200" y="67" width="1300" height="820" extended-state="0" />
+    <frame x="554" y="82" width="1300" height="820" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37258065" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3983871" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -344,8 +347,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3268229" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.54296875" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3268229" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5429403" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -354,7 +357,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32789317" />
+      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.32751092" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -529,8 +532,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_008_BadFoodException/GoodFood.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
+        <state relative-caret-position="102">
           <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_010_tryScope/TryScope.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_011_LabledLoop/Circus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
         </state>
       </provider>
     </entry>

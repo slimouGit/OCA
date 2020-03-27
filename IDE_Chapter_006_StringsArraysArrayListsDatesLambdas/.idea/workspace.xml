@@ -2,14 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f47add4c-4bde-4a0e-be14-e3effa623e96" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/_005_ArraylistMethods/ArrayListMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_005_ArrayTestQuestion/Punt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/src/_000_Sandbox/_005_CastingExamples/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/src/_000_Sandbox/_005_CastingExamples/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/src/_000_Sandbox/_005_CastingExamples/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/src/_000_Sandbox/_005_CastingExamples/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IDE_Chapter_005_FlowControlAndExceptions/src/_000_Sandbox/_011_LabledLoop/Circus.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IDE_Chapter_001__DeclarationAndAccessControl/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_001__DeclarationAndAccessControl/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/out/production/IDE_Chapter_003_Assignments/META-INF/IDE_Chapter_003_Assignments.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/out/production/IDE_Chapter_003_Assignments/_000_Sandbox/_003_ReferenceTests/ReferenceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/out/production/IDE_Chapter_003_Assignments/_000_Sandbox/_003_ReferenceTests/ReferenceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/src/_000_Sandbox/_003_ReferenceTests/ReferenceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/src/_000_Sandbox/_003_ReferenceTests/ReferenceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/src/_000_Sandbox/_004_CastingExamples/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/src/_000_Sandbox/_004_CastingExamples/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IDE_Chapter_004_Operators/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_004_Operators/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_005_FlowControlAndExceptions/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_005_FlowControlAndExceptions/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IDE_Chapter_005_FlowControlAndExceptions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_005_FlowControlAndExceptions/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IDE_Chapter_005_FlowControlAndExceptions/out/production/IDE_Chapter_005_FlowControlAndExceptions/META-INF/IDE_Chapter_005_FlowControlAndExceptions.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_005_FlowControlAndExceptions/out/production/IDE_Chapter_005_FlowControlAndExceptions/_008_BadFoodException/Food.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_005_FlowControlAndExceptions/out/production/IDE_Chapter_005_FlowControlAndExceptions/_008_BadFoodException/GoodFood.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_005_FlowControlAndExceptions/src/_000_Sandbox/_010_tryScope/TryScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_005_FlowControlAndExceptions/src/_000_Sandbox/_010_tryScope/TryScope.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_006_StringsArraysArrayListsDatesLambdas/_003_StringBuilder_delete/StringBuilder_delete.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDE_Chapter_006_StringsArraysArrayListsDatesLambdas/_003_StringBuilder_delete/StringBuilder_delete.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_003_StringBuilder_delete/StringBuilder_delete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_003_StringBuilder_delete/StringBuilder_delete.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,19 +38,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_005_ArrayTestQuestion/Punt.java">
+        <entry file="file://$PROJECT_DIR$/src/_002_StringBuilder/StringBuilderExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="68">
+              <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_005_ArraylistMethods/ArrayListMethods.java">
+        <entry file="file://$PROJECT_DIR$/src/_003_StringBuilder_delete/StringBuilder_delete.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+            <state relative-caret-position="170">
+              <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -71,8 +85,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="328" />
-    <option name="y" value="169" />
+    <option name="x" value="132" />
+    <option name="y" value="138" />
     <option name="width" value="1300" />
     <option name="height" value="703" />
   </component>
@@ -82,8 +96,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -107,6 +121,12 @@
               <item name="IDE_Chapter_006_StringsArraysArrayListsDatesLambdas" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_002_StringBuilder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDE_Chapter_006_StringsArraysArrayListsDatesLambdas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IDE_Chapter_006_StringsArraysArrayListsDatesLambdas" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_003_StringBuilder_delete" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IDE_Chapter_006_StringsArraysArrayListsDatesLambdas" type="b2602c69:ProjectViewProjectNode" />
@@ -306,13 +326,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10407000" />
+    <option name="totallyTimeSpent" value="11285000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="328" y="169" width="1300" height="703" extended-state="0" />
+    <frame x="132" y="138" width="1300" height="703" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26209676" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26612905" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />

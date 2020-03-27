@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cdf844a-c26c-42a3-8396-1af24fa33ab3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/prefixes/Prefixes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IDE_Chapter_001__DeclarationAndAccessControl/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_001__DeclarationAndAccessControl/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_004_Operators/META-INF/IDE_Chapter_004_Operators.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_004_Operators/_005_CompareEnums/EnumEqual.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDE_Chapter_004_Operators/_005_CompareEnums/EnumEqual.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,11 +18,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/prefixes/Prefixes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
+            <state relative-caret-position="408">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/_001_AnimalBooleanVariants/GuessAnimal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -69,7 +75,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="-5" />
+    <option name="x" value="246" />
+    <option name="y" value="59" />
     <option name="width" value="1300" />
     <option name="height" value="820" />
   </component>
@@ -79,8 +86,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -103,6 +108,12 @@
               <item name="IDE_Chapter_004_Operators" type="b2602c69:ProjectViewProjectNode" />
               <item name="IDE_Chapter_004_Operators" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_001_AnimalBooleanVariants" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDE_Chapter_004_Operators" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IDE_Chapter_004_Operators" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_009_BitwiseOperators" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -115,6 +126,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -282,6 +295,10 @@
       <workItem from="1575785494265" duration="150000" />
       <workItem from="1577609185122" duration="1122000" />
       <workItem from="1583072831145" duration="2477000" />
+      <workItem from="1583568852480" duration="2406000" />
+      <workItem from="1583676776868" duration="594000" />
+      <workItem from="1584272961116" duration="1349000" />
+      <workItem from="1584604886633" duration="1430000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'master' of https://github.com/slimouGit/OCA&#10;&#10;# Conflicts:&#10;#&#9;IDE_Chapter_004_Operators/out/production/IDE_Chapter_004_Operators/_005_CompareEnums/EnumEqual.class">
       <created>1572792303663</created>
@@ -294,12 +311,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16749000" />
+    <option name="totallyTimeSpent" value="22528000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-5" width="1300" height="820" extended-state="0" />
+    <frame x="246" y="59" width="1300" height="820" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.41935483" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4483871" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -541,8 +559,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/prefixes/Prefixes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_001_AnimalBooleanVariants/GuessAnimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>

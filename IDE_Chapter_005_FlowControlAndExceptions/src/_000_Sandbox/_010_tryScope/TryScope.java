@@ -12,6 +12,7 @@ public class TryScope {
         }finally {
            // System.out.print("x = "+ ++x);
         }
+
     }
 
     /**
