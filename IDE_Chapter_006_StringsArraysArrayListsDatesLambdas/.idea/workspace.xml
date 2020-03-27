@@ -2,28 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f47add4c-4bde-4a0e-be14-e3effa623e96" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/src/_000_Sandbox/_005_CastingExamples/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/src/_000_Sandbox/_005_CastingExamples/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/src/_000_Sandbox/_005_CastingExamples/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/src/_000_Sandbox/_005_CastingExamples/Start.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IDE_Chapter_005_FlowControlAndExceptions/src/_000_Sandbox/_011_LabledLoop/Circus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_001__DeclarationAndAccessControl/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_001__DeclarationAndAccessControl/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/out/production/IDE_Chapter_003_Assignments/META-INF/IDE_Chapter_003_Assignments.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/out/production/IDE_Chapter_003_Assignments/_000_Sandbox/_003_ReferenceTests/ReferenceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/out/production/IDE_Chapter_003_Assignments/_000_Sandbox/_003_ReferenceTests/ReferenceTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/src/_000_Sandbox/_003_ReferenceTests/ReferenceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/src/_000_Sandbox/_003_ReferenceTests/ReferenceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/src/_000_Sandbox/_004_CastingExamples/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_003_Assignments/src/_000_Sandbox/_004_CastingExamples/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_004_Operators/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_004_Operators/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_005_FlowControlAndExceptions/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_005_FlowControlAndExceptions/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_005_FlowControlAndExceptions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_005_FlowControlAndExceptions/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_005_FlowControlAndExceptions/out/production/IDE_Chapter_005_FlowControlAndExceptions/META-INF/IDE_Chapter_005_FlowControlAndExceptions.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_005_FlowControlAndExceptions/out/production/IDE_Chapter_005_FlowControlAndExceptions/_008_BadFoodException/Food.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_005_FlowControlAndExceptions/out/production/IDE_Chapter_005_FlowControlAndExceptions/_008_BadFoodException/GoodFood.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_005_FlowControlAndExceptions/src/_000_Sandbox/_010_tryScope/TryScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_005_FlowControlAndExceptions/src/_000_Sandbox/_010_tryScope/TryScope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/_006_OCA_ProgrammerTests/Basics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/_006_OCA_ProgrammerTests/MoreSheep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/_006_OCA_ProgrammerTests/MyProgramm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/_006_OCA_ProgrammerTests/Mystery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/_006_OCA_ProgrammerTests/T.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_000_Sandbox/_007_Predicate/PredicateInteger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IDE_Chapter_006_StringsArraysArrayListsDatesLambdas/_003_StringBuilder_delete/StringBuilder_delete.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDE_Chapter_006_StringsArraysArrayListsDatesLambdas/_003_StringBuilder_delete/StringBuilder_delete.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_003_StringBuilder_delete/StringBuilder_delete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_003_StringBuilder_delete/StringBuilder_delete.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,19 +23,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_002_StringBuilder/StringBuilderExample.java">
+        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_006_OCA_ProgrammerTests/T.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_006_OCA_ProgrammerTests/MyProgramm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_006_OCA_ProgrammerTests/Basics.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="55">
+              <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_006_OCA_ProgrammerTests/Mystery.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+              <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_006_OCA_ProgrammerTests/MoreSheep.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="12" column="29" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_003_StringBuilder_delete/StringBuilder_delete.java">
+        <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_007_Predicate/PredicateInteger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+            <state relative-caret-position="188">
+              <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -81,14 +102,20 @@
         <option value="$PROJECT_DIR$/src/_005_StringBuilder_mutable/Change.java" />
         <option value="$PROJECT_DIR$/src/_005_ArrayTestQuestion/Punt.java" />
         <option value="$PROJECT_DIR$/src/_000_Sandbox/_005_ArraylistMethods/ArrayListMethods.java" />
+        <option value="$PROJECT_DIR$/src/_000_Sandbox/_006_OCA_ProgrammerTests/T.java" />
+        <option value="$PROJECT_DIR$/src/_000_Sandbox/_006_OCA_ProgrammerTests/MyProgramm.java" />
+        <option value="$PROJECT_DIR$/src/_000_Sandbox/_006_OCA_ProgrammerTests/Basics.java" />
+        <option value="$PROJECT_DIR$/src/_000_Sandbox/_006_OCA_ProgrammerTests/Mystery.java" />
+        <option value="$PROJECT_DIR$/src/_000_Sandbox/_006_OCA_ProgrammerTests/MoreSheep.java" />
+        <option value="$PROJECT_DIR$/src/_000_Sandbox/_007_Predicate/PredicateInteger.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="132" />
-    <option name="y" value="138" />
+    <option name="x" value="619" />
+    <option name="y" value="61" />
     <option name="width" value="1300" />
-    <option name="height" value="703" />
+    <option name="height" value="701" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -96,8 +123,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -114,7 +139,13 @@
               <item name="IDE_Chapter_006_StringsArraysArrayListsDatesLambdas" type="b2602c69:ProjectViewProjectNode" />
               <item name="IDE_Chapter_006_StringsArraysArrayListsDatesLambdas" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_005_ArraylistMethods" type="462c0819:PsiDirectoryNode" />
+              <item name="_006_OCA_ProgrammerTests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDE_Chapter_006_StringsArraysArrayListsDatesLambdas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IDE_Chapter_006_StringsArraysArrayListsDatesLambdas" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_007_Predicate" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IDE_Chapter_006_StringsArraysArrayListsDatesLambdas" type="b2602c69:ProjectViewProjectNode" />
@@ -156,6 +187,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -190,20 +223,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayListMethods">
+  <component name="RunManager" selected="Application.PredicateInteger">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayListMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_000_Sandbox._005_ArraylistMethods.ArrayListMethods" />
+    <configuration name="Basics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_000_Sandbox._006_OCA_ProgrammerTests.Basics" />
       <module name="IDE_Chapter_006_StringsArraysArrayListsDatesLambdas" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_000_Sandbox._005_ArraylistMethods.*" />
+          <option name="PATTERN" value="_000_Sandbox._006_OCA_ProgrammerTests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,13 +244,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Change" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_005_StringBuilder_mutable.Change" />
+    <configuration name="MoreSheep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_000_Sandbox._006_OCA_ProgrammerTests.MoreSheep" />
       <module name="IDE_Chapter_006_StringsArraysArrayListsDatesLambdas" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_005_StringBuilder_mutable.*" />
+          <option name="PATTERN" value="_000_Sandbox._006_OCA_ProgrammerTests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -225,13 +258,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultidimensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_008_multidimensionalArray.MultidimensionalArray" />
+    <configuration name="MyProgramm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_000_Sandbox._006_OCA_ProgrammerTests.MyProgramm" />
       <module name="IDE_Chapter_006_StringsArraysArrayListsDatesLambdas" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_008_multidimensionalArray.*" />
+          <option name="PATTERN" value="_000_Sandbox._006_OCA_ProgrammerTests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -239,13 +272,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Punt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_005_ArrayTestQuestion.Punt" />
+    <configuration name="Mystery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_000_Sandbox._006_OCA_ProgrammerTests.Mystery" />
       <module name="IDE_Chapter_006_StringsArraysArrayListsDatesLambdas" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_005_ArrayTestQuestion.*" />
+          <option name="PATTERN" value="_000_Sandbox._006_OCA_ProgrammerTests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -253,13 +286,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBuilderExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_002_StringBuilder.StringBuilderExample" />
+    <configuration name="PredicateInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_000_Sandbox._007_Predicate.PredicateInteger" />
       <module name="IDE_Chapter_006_StringsArraysArrayListsDatesLambdas" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_002_StringBuilder.*" />
+          <option name="PATTERN" value="_000_Sandbox._007_Predicate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -300,11 +333,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayListMethods" />
-        <item itemvalue="Application.Punt" />
-        <item itemvalue="Application.Change" />
-        <item itemvalue="Application.StringBuilderExample" />
-        <item itemvalue="Application.MultidimensionalArray" />
+        <item itemvalue="Application.PredicateInteger" />
+        <item itemvalue="Application.MoreSheep" />
+        <item itemvalue="Application.Mystery" />
+        <item itemvalue="Application.Basics" />
+        <item itemvalue="Application.MyProgramm" />
       </list>
     </recent_temporary>
   </component>
@@ -322,17 +355,17 @@
       <workItem from="1578064126574" duration="2018000" />
       <workItem from="1578144389468" duration="941000" />
       <workItem from="1584960534914" duration="5517000" />
+      <workItem from="1585290505088" duration="4175000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11285000" />
+    <option name="totallyTimeSpent" value="15460000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="132" y="138" width="1300" height="703" extended-state="0" />
-    <editor active="true" />
+    <frame x="619" y="61" width="1300" height="701" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26612905" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2701613" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -342,7 +375,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32807016" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4526316" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.19894366" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -393,15 +426,44 @@
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_000_Sandbox/_006_OCA_ProgrammerTests/Mystery.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_000_Sandbox/_006_OCA_ProgrammerTests/Mystery.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_000_Sandbox/_006_OCA_ProgrammerTests/Mystery.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_000_Sandbox/_006_OCA_ProgrammerTests/MoreSheep.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_000_Sandbox/_006_OCA_ProgrammerTests/MoreSheep.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_000_Sandbox/_006_OCA_ProgrammerTests/MoreSheep.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="s" language="JAVA" />
-        <watch expression="sa" language="JAVA" />
-        <watch expression="sb" language="JAVA" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
@@ -474,13 +536,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_002_StringBuilder/StringBuilderExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_005_StringBuilder_mutable/Change.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -499,6 +554,62 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="298">
           <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_003_StringBuilder_delete/StringBuilder_delete.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_002_StringBuilder/StringBuilderExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_006_OCA_ProgrammerTests/T.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_006_OCA_ProgrammerTests/MyProgramm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_006_OCA_ProgrammerTests/Basics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_006_OCA_ProgrammerTests/Mystery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_006_OCA_ProgrammerTests/MoreSheep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_000_Sandbox/_007_Predicate/PredicateInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
         </state>
       </provider>
     </entry>
