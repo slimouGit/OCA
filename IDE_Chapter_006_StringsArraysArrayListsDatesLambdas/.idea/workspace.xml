@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f47add4c-4bde-4a0e-be14-e3effa623e96" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../TestPreparation/src/_004_CastingTypes/CastingTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TestPreparation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestPreparation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestPreparation/src/_003_Interface_Access/I1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestPreparation/src/_003_Interface_Access/I2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestPreparation/src/_003_Interface_Access/MultiInt.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -372,6 +371,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="446" y="74" width="1300" height="701" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27419356" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
