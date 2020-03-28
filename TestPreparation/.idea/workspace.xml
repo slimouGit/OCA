@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aef1a376-5670-447e-805c-f9d07a928f0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_015_004_CompareInterfaces/Boat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_015_004_CompareInterfaces/SpeedBoat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_015_004_CompareInterfaces/Toy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_015_004_CompareInterfaces/Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_015_004_CompareInterfaces/Vessel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_016_005_SwitchWithStrings/Flipper.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,47 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_015_004_CompareInterfaces/Vessel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_015_004_CompareInterfaces/Toy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_015_004_CompareInterfaces/Boat.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_015_004_CompareInterfaces/SpeedBoat.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_015_004_CompareInterfaces/Tree.java">
+        <entry file="file://$PROJECT_DIR$/src/_016_005_SwitchWithStrings/Flipper.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+              <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -116,12 +76,13 @@
         <option value="$PROJECT_DIR$/src/_015_004_CompareInterfaces/Boat.java" />
         <option value="$PROJECT_DIR$/src/_015_004_CompareInterfaces/SpeedBoat.java" />
         <option value="$PROJECT_DIR$/src/_015_004_CompareInterfaces/Tree.java" />
+        <option value="$PROJECT_DIR$/src/_016_005_SwitchWithStrings/Flipper.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="178" />
-    <option name="y" value="43" />
+    <option name="x" value="253" />
+    <option name="y" value="23" />
     <option name="width" value="1378" />
     <option name="height" value="943" />
   </component>
@@ -147,13 +108,7 @@
               <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_014_004_IncrementAndCompare" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_015_004_CompareInterfaces" type="462c0819:PsiDirectoryNode" />
+              <item name="_016_005_SwitchWithStrings" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -183,20 +138,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Tree">
+  <component name="RunManager" selected="Application.Flipper">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Cowboys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_011_004_DividingInts.Cowboys" />
+    <configuration name="Flipper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_016_005_SwitchWithStrings.Flipper" />
       <module name="TestPreparation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_011_004_DividingInts.*" />
+          <option name="PATTERN" value="_016_005_SwitchWithStrings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -292,19 +247,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Cowboys" />
       <item itemvalue="Application.McGee" />
       <item itemvalue="Application.SpecialOps" />
       <item itemvalue="Application.Spock" />
       <item itemvalue="Application.Tree" />
+      <item itemvalue="Application.Flipper" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Flipper" />
         <item itemvalue="Application.Tree" />
         <item itemvalue="Application.Spock" />
         <item itemvalue="Application.SpecialOps" />
         <item itemvalue="Application.McGee" />
-        <item itemvalue="Application.Cowboys" />
       </list>
     </recent_temporary>
   </component>
@@ -318,15 +273,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585396115128</updated>
-      <workItem from="1585396117845" duration="12991000" />
+      <workItem from="1585396117845" duration="13903000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12991000" />
+    <option name="totallyTimeSpent" value="13903000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="178" y="43" width="1378" height="943" extended-state="0" />
+    <frame x="253" y="23" width="1378" height="943" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
@@ -344,8 +299,8 @@
       <window_info anchor="bottom" id="Messages" weight="0.32962963" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32962963" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32962963" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -652,8 +607,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_015_004_CompareInterfaces/Tree.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_016_005_SwitchWithStrings/Flipper.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
         </state>
       </provider>
     </entry>
