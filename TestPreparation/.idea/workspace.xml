@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aef1a376-5670-447e-805c-f9d07a928f0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_013_004_BooleanConditions/SpecialOps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_006_StringsArraysArrayListsDatesLambdas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_006_StringsArraysArrayListsDatesLambdas/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_014_004_IncrementAndCompare/Spock.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -73,11 +71,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_013_004_BooleanConditions/SpecialOps.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+            <state relative-caret-position="153">
+              <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/_014_004_IncrementAndCompare/Spock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -135,6 +142,7 @@
         <option value="$PROJECT_DIR$/src/_011_004_DividingInts/Cowboys.java" />
         <option value="$PROJECT_DIR$/src/_012_004_ComparingEnums/McGee.java" />
         <option value="$PROJECT_DIR$/src/_013_004_BooleanConditions/SpecialOps.java" />
+        <option value="$PROJECT_DIR$/src/_014_004_IncrementAndCompare/Spock.java" />
       </list>
     </option>
   </component>
@@ -166,7 +174,7 @@
               <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_013_004_BooleanConditions" type="462c0819:PsiDirectoryNode" />
+              <item name="_014_004_IncrementAndCompare" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -196,7 +204,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SpecialOps">
+  <component name="RunManager" selected="Application.Spock">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -259,13 +267,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Telescope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_009_VariableScope.Telescope" />
+    <configuration name="Spock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_014_004_IncrementAndCompare.Spock" />
       <module name="TestPreparation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_009_VariableScope.*" />
+          <option name="PATTERN" value="_014_004_IncrementAndCompare.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -305,19 +313,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Telescope" />
       <item itemvalue="Application.Felline" />
       <item itemvalue="Application.Cowboys" />
       <item itemvalue="Application.McGee" />
       <item itemvalue="Application.SpecialOps" />
+      <item itemvalue="Application.Spock" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Spock" />
         <item itemvalue="Application.SpecialOps" />
         <item itemvalue="Application.McGee" />
         <item itemvalue="Application.Cowboys" />
         <item itemvalue="Application.Felline" />
-        <item itemvalue="Application.Telescope" />
       </list>
     </recent_temporary>
   </component>
@@ -331,12 +339,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585396115128</updated>
-      <workItem from="1585396117845" duration="11866000" />
+      <workItem from="1585396117845" duration="12298000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11866000" />
+    <option name="totallyTimeSpent" value="12298000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="178" y="43" width="1378" height="943" extended-state="0" />
@@ -605,8 +613,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_013_004_BooleanConditions/SpecialOps.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        <state relative-caret-position="153">
+          <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_014_004_IncrementAndCompare/Spock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
         </state>
       </provider>
     </entry>
