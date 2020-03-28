@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aef1a376-5670-447e-805c-f9d07a928f0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_007_CompareObjects/Fizz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_008_ObjectsAndInstanceVariables/Mirror.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,11 +17,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_007_CompareObjects/Fizz.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="62" selection-start-line="18" selection-start-column="62" selection-end-line="18" selection-end-column="62" />
+            <state relative-caret-position="340">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/_008_ObjectsAndInstanceVariables/Mirror.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -64,6 +72,7 @@
         <option value="$PROJECT_DIR$/src/_005_Literally/Literally.java" />
         <option value="$PROJECT_DIR$/src/_006_ObjectInstances/Mixer.java" />
         <option value="$PROJECT_DIR$/src/_007_CompareObjects/Fizz.java" />
+        <option value="$PROJECT_DIR$/src/_008_ObjectsAndInstanceVariables/Mirror.java" />
       </list>
     </option>
   </component>
@@ -95,43 +104,13 @@
               <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_001_ConstructorOverloading" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_002_Polymorphism" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_003_Interface_001" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_004_CastingTypes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_005_Literally" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_006_ObjectInstances" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_007_CompareObjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_008_ObjectsAndInstanceVariables" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -161,7 +140,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Fizz">
+  <component name="RunManager" selected="Application.Mirror">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -210,13 +189,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mixer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_006_ObjectInstances.Mixer" />
+    <configuration name="Mirror" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_008_ObjectsAndInstanceVariables.Mirror" />
       <module name="TestPreparation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_006_ObjectInstances.*" />
+          <option name="PATTERN" value="_008_ObjectsAndInstanceVariables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -224,13 +203,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_003_Interface_001.MultiInt" />
+    <configuration name="Mixer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_006_ObjectInstances.Mixer" />
       <module name="TestPreparation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_003_Interface_001.*" />
+          <option name="PATTERN" value="_006_ObjectInstances.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -270,19 +249,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MultiInt" />
       <item itemvalue="Application.IfaceTest" />
       <item itemvalue="Application.Literally" />
       <item itemvalue="Application.Mixer" />
       <item itemvalue="Application.Fizz" />
+      <item itemvalue="Application.Mirror" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Mirror" />
         <item itemvalue="Application.Fizz" />
         <item itemvalue="Application.Mixer" />
         <item itemvalue="Application.Literally" />
         <item itemvalue="Application.IfaceTest" />
-        <item itemvalue="Application.MultiInt" />
       </list>
     </recent_temporary>
   </component>
@@ -296,12 +275,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585396115128</updated>
-      <workItem from="1585396117845" duration="5028000" />
+      <workItem from="1585396117845" duration="5541000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5028000" />
+    <option name="totallyTimeSpent" value="5541000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="178" y="43" width="1378" height="943" extended-state="0" />
@@ -312,7 +291,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962063" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962063" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" weight="0.32962963" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -323,7 +302,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32962963" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -371,6 +350,30 @@
         <watch expression="f3" language="JAVA" />
       </configuration>
     </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>f3</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>f2</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>f1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
@@ -480,8 +483,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_007_CompareObjects/Fizz.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="62" selection-start-line="18" selection-start-column="62" selection-end-line="18" selection-end-column="62" />
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_008_ObjectsAndInstanceVariables/Mirror.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
         </state>
       </provider>
     </entry>
