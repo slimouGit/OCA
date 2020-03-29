@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aef1a376-5670-447e-805c-f9d07a928f0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_024_MultiDimensionalArrayCasting/Dims.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_025_ArrayInserts/Sequence.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,11 +25,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_024_MultiDimensionalArrayCasting/Dims.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/_025_ArrayInserts/Sequence.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+              <caret line="6" column="50" lean-forward="true" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -94,6 +103,7 @@
         <option value="$PROJECT_DIR$/src/_022_006_LabeledLoops_02/Wind.java" />
         <option value="$PROJECT_DIR$/src/_023_006_ArrayWithNullValue/Hilltop.java" />
         <option value="$PROJECT_DIR$/src/_024_MultiDimensionalArrayCasting/Dims.java" />
+        <option value="$PROJECT_DIR$/src/_025_ArrayInserts/Sequence.java" />
       </list>
     </option>
   </component>
@@ -125,13 +135,13 @@
               <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_023_006_ArrayWithNullValue" type="462c0819:PsiDirectoryNode" />
+              <item name="_024_MultiDimensionalArrayCasting" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_024_MultiDimensionalArrayCasting" type="462c0819:PsiDirectoryNode" />
+              <item name="_025_ArrayInserts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -161,7 +171,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Dims">
+  <component name="RunManager" selected="Application.Sequence">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -196,20 +206,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ebb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_020_006_SwitchExample.Ebb" />
-      <module name="TestPreparation" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_020_006_SwitchExample.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Hilltop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_023_006_ArrayWithNullValue.Hilltop" />
       <module name="TestPreparation" />
@@ -217,6 +213,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="_023_006_ArrayWithNullValue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_025_ArrayInserts.Sequence" />
+      <module name="TestPreparation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_025_ArrayInserts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -270,19 +280,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Ebb" />
       <item itemvalue="Application.Circles" />
       <item itemvalue="Application.Wind" />
       <item itemvalue="Application.Hilltop" />
       <item itemvalue="Application.Dims" />
+      <item itemvalue="Application.Sequence" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sequence" />
         <item itemvalue="Application.Dims" />
         <item itemvalue="Application.Hilltop" />
         <item itemvalue="Application.Wind" />
         <item itemvalue="Application.Circles" />
-        <item itemvalue="Application.Ebb" />
       </list>
     </recent_temporary>
   </component>
@@ -297,12 +307,12 @@
       <option name="presentableId" value="Default" />
       <updated>1585396115128</updated>
       <workItem from="1585396117845" duration="14430000" />
-      <workItem from="1585466448717" duration="7378000" />
+      <workItem from="1585466448717" duration="7744000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21808000" />
+    <option name="totallyTimeSpent" value="22174000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -318,7 +328,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32917964" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.46625128" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.15472482" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -660,11 +670,6 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="x" language="JAVA" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/TestPreparation$Cowboys.ic" NAME="Cowboys Coverage Results" MODIFIED="1585413575835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -944,8 +949,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_024_MultiDimensionalArrayCasting/Dims.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_025_ArrayInserts/Sequence.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+          <caret line="6" column="50" lean-forward="true" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
         </state>
       </provider>
     </entry>
