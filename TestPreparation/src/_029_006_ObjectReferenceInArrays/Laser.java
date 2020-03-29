@@ -6,7 +6,7 @@ public class Laser {
         Box[] ba = go(b1, new Box(6));
         ba[0] = b1;
         for(Box b : ba) {
-            System.out.print(b.size + " ");
+            System.out.print(b.size + " "); //4 4
         }
     }
 
