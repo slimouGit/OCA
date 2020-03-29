@@ -1,4 +1,4 @@
-package _006_ObjectInstances;
+package _006_003_ObjectInstances;
 
 public class Mixer {
     Mixer(){};

@@ -1,4 +1,4 @@
-package _004_CastingTypes;
+package _004_003_CastingTypes;
 
 public class CastingTypes {
     byte b1 = 4;

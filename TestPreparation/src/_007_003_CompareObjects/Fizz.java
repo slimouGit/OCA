@@ -1,4 +1,4 @@
-package _007_CompareObjects;
+package _007_003_CompareObjects;
 
 public class Fizz {
     int x = 5;

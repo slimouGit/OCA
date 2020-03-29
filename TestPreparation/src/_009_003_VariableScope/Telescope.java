@@ -1,4 +1,4 @@
-package _009_VariableScope;
+package _009_003_VariableScope;
 
 public class Telescope {
     static int magnify = 2;

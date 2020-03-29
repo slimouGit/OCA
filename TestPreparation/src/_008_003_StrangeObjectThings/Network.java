@@ -1,4 +1,4 @@
-package _008_StrangeObjectThings;
+package _008_003_StrangeObjectThings;
 
 public class Network {
     Network(int x, Network n){

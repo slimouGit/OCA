@@ -1,4 +1,4 @@
-package _003_Interface_001;
+package _003_002_Interface_001;
 
 public class IfaceTest implements MyInterface {
     public static void main(String[] args){

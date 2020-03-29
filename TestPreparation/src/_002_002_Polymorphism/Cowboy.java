@@ -1,4 +1,4 @@
-package _002_Polymorphism;
+package _002_002_Polymorphism;
 
 public class Cowboy {
     public static void main(String[] args){
