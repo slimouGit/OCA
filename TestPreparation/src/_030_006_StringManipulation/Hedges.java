@@ -1,4 +1,4 @@
-package _030_StringManipulation;
+package _030_006_StringManipulation;
 
 public class Hedges {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package _031_LambdasPredicates;
+package _031_006_LambdasPredicates;
 
 import java.util.function.Predicate;
 

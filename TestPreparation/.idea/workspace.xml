@@ -206,12 +206,12 @@
       </method>
     </configuration>
     <configuration name="Hedges" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_030_StringManipulation.Hedges" />
+      <option name="MAIN_CLASS_NAME" value="_030_006_StringManipulation.Hedges" />
       <module name="TestPreparation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_030_StringManipulation.*" />
+          <option name="PATTERN" value="_030_006_StringManipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -248,12 +248,12 @@
       </method>
     </configuration>
     <configuration name="Sheep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_031_LambdasPredicates.Sheep" />
+      <option name="MAIN_CLASS_NAME" value="_031_006_LambdasPredicates.Sheep" />
       <module name="TestPreparation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_031_LambdasPredicates.*" />
+          <option name="PATTERN" value="_031_006_LambdasPredicates.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -262,12 +262,12 @@
       </method>
     </configuration>
     <configuration name="Shiny" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_032_DateFormatter.Shiny" />
+      <option name="MAIN_CLASS_NAME" value="_032_006_DateFormatter.Shiny" />
       <module name="TestPreparation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_032_DateFormatter.*" />
+          <option name="PATTERN" value="_032_006_DateFormatter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
