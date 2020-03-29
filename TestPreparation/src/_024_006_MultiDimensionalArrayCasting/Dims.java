@@ -1,4 +1,4 @@
-package _024_MultiDimensionalArrayCasting;
+package _024_006_MultiDimensionalArrayCasting;
 
 public class Dims {
     public static void main(String[] args){

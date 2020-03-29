@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aef1a376-5670-447e-805c-f9d07a928f0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_027_StringManipulating/Theory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_024_MultiDimensionalArrayCasting/Dims.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_024_006_MultiDimensionalArrayCasting/Dims.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_025_ArrayInserts/Sequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_025_006_ArrayInserts/Sequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_026_MultiDimensionalArray/Tailor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_026_006_MultiDimensionalArray/Tailor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_027_StringManipulating/Theory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_027_006_StringManipulating/Theory.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,7 +29,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_024_MultiDimensionalArrayCasting/Dims.java">
+        <entry file="file://$PROJECT_DIR$/src/_024_006_MultiDimensionalArrayCasting/Dims.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
               <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
@@ -35,7 +38,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_025_ArrayInserts/Sequence.java">
+        <entry file="file://$PROJECT_DIR$/src/_025_006_ArrayInserts/Sequence.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
               <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
@@ -44,7 +47,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_026_MultiDimensionalArray/Tailor.java">
+        <entry file="file://$PROJECT_DIR$/src/_026_006_MultiDimensionalArray/Tailor.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
               <caret line="5" column="65" selection-start-line="5" selection-start-column="65" selection-end-line="5" selection-end-column="65" />
@@ -53,10 +56,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_027_StringManipulating/Theory.java">
+        <entry file="file://$PROJECT_DIR$/src/_027_006_StringManipulating/Theory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            <state relative-caret-position="289">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -124,6 +127,7 @@
         <option value="$PROJECT_DIR$/src/_025_ArrayInserts/Sequence.java" />
         <option value="$PROJECT_DIR$/src/_026_MultiDimensionalArray/Tailor.java" />
         <option value="$PROJECT_DIR$/src/_027_StringManipulating/Theory.java" />
+        <option value="$PROJECT_DIR$/src/_027_006_StringManipulating/Theory.java" />
       </list>
     </option>
   </component>
@@ -155,13 +159,7 @@
               <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_026_MultiDimensionalArray" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_027_StringManipulating" type="462c0819:PsiDirectoryNode" />
+              <item name="_027_006_StringManipulating" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -199,12 +197,12 @@
       </method>
     </configuration>
     <configuration name="Dims" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_024_MultiDimensionalArrayCasting.Dims" />
+      <option name="MAIN_CLASS_NAME" value="_024_006_MultiDimensionalArrayCasting.Dims" />
       <module name="TestPreparation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_024_MultiDimensionalArrayCasting.*" />
+          <option name="PATTERN" value="_024_006_MultiDimensionalArrayCasting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,12 +225,12 @@
       </method>
     </configuration>
     <configuration name="Sequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_025_ArrayInserts.Sequence" />
+      <option name="MAIN_CLASS_NAME" value="_025_006_ArrayInserts.Sequence" />
       <module name="TestPreparation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_025_ArrayInserts.*" />
+          <option name="PATTERN" value="_025_006_ArrayInserts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -241,12 +239,12 @@
       </method>
     </configuration>
     <configuration name="Tailor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_026_MultiDimensionalArray.Tailor" />
+      <option name="MAIN_CLASS_NAME" value="_026_006_MultiDimensionalArray.Tailor" />
       <module name="TestPreparation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_026_MultiDimensionalArray.*" />
+          <option name="PATTERN" value="_026_006_MultiDimensionalArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -255,12 +253,12 @@
       </method>
     </configuration>
     <configuration name="Theory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_027_StringManipulating.Theory" />
+      <option name="MAIN_CLASS_NAME" value="_027_006_StringManipulating.Theory" />
       <module name="TestPreparation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_027_StringManipulating.*" />
+          <option name="PATTERN" value="_027_006_StringManipulating.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -327,16 +325,15 @@
       <option name="presentableId" value="Default" />
       <updated>1585396115128</updated>
       <workItem from="1585396117845" duration="14430000" />
-      <workItem from="1585466448717" duration="8375000" />
+      <workItem from="1585466448717" duration="8788000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22805000" />
+    <option name="totallyTimeSpent" value="23218000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17590618" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -967,31 +964,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_024_MultiDimensionalArrayCasting/Dims.java">
+    <entry file="file://$PROJECT_DIR$/src/_024_006_MultiDimensionalArrayCasting/Dims.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_025_ArrayInserts/Sequence.java">
+    <entry file="file://$PROJECT_DIR$/src/_025_006_ArrayInserts/Sequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_026_MultiDimensionalArray/Tailor.java">
+    <entry file="file://$PROJECT_DIR$/src/_026_006_MultiDimensionalArray/Tailor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="65" selection-start-line="5" selection-start-column="65" selection-end-line="5" selection-end-column="65" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_027_StringManipulating/Theory.java">
+    <entry file="file://$PROJECT_DIR$/src/_027_006_StringManipulating/Theory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>

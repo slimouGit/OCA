@@ -1,4 +1,4 @@
-package _026_MultiDimensionalArray;
+package _026_006_MultiDimensionalArray;
 
 public class Tailor {
     public static void main(String[] args){

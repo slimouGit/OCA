@@ -1,4 +1,4 @@
-package _027_StringManipulating;
+package _027_006_StringManipulating;
 
 public class Theory {
     public static void main(String[] args){

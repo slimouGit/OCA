@@ -1,4 +1,4 @@
-package _025_ArrayInserts;
+package _025_006_ArrayInserts;
 
 import java.util.ArrayList;
 
