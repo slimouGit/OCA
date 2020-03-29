@@ -7,6 +7,6 @@ public class _ {
         for(int x = 0; ++x <4;x++){
             $ += x;
         }
-        out.println($); //1 3 
+        out.println($); //1 3
     }
 }
