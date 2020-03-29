@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aef1a376-5670-447e-805c-f9d07a928f0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_026_MultiDimensionalArray/Tailor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_027_StringManipulating/Theory.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,11 +43,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_026_MultiDimensionalArray/Tailor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+            <state relative-caret-position="85">
+              <caret line="5" column="65" selection-start-line="5" selection-start-column="65" selection-end-line="5" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/_027_StringManipulating/Theory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -114,6 +123,7 @@
         <option value="$PROJECT_DIR$/src/_024_MultiDimensionalArrayCasting/Dims.java" />
         <option value="$PROJECT_DIR$/src/_025_ArrayInserts/Sequence.java" />
         <option value="$PROJECT_DIR$/src/_026_MultiDimensionalArray/Tailor.java" />
+        <option value="$PROJECT_DIR$/src/_027_StringManipulating/Theory.java" />
       </list>
     </option>
   </component>
@@ -145,19 +155,13 @@
               <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_024_MultiDimensionalArrayCasting" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_025_ArrayInserts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_026_MultiDimensionalArray" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_027_StringManipulating" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -187,7 +191,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Tailor">
+  <component name="RunManager" selected="Application.Theory">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -250,13 +254,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Wind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_022_006_LabeledLoops_02.Wind" />
+    <configuration name="Theory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_027_StringManipulating.Theory" />
       <module name="TestPreparation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_022_006_LabeledLoops_02.*" />
+          <option name="PATTERN" value="_027_StringManipulating.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -296,19 +300,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Wind" />
       <item itemvalue="Application.Hilltop" />
       <item itemvalue="Application.Dims" />
       <item itemvalue="Application.Sequence" />
       <item itemvalue="Application.Tailor" />
+      <item itemvalue="Application.Theory" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Theory" />
         <item itemvalue="Application.Tailor" />
         <item itemvalue="Application.Sequence" />
         <item itemvalue="Application.Dims" />
         <item itemvalue="Application.Hilltop" />
-        <item itemvalue="Application.Wind" />
       </list>
     </recent_temporary>
   </component>
@@ -323,12 +327,12 @@
       <option name="presentableId" value="Default" />
       <updated>1585396115128</updated>
       <workItem from="1585396117845" duration="14430000" />
-      <workItem from="1585466448717" duration="8038000" />
+      <workItem from="1585466448717" duration="8375000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22468000" />
+    <option name="totallyTimeSpent" value="22805000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -343,8 +347,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28037384" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.27725857" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28037384" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.27725857" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -979,8 +983,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_026_MultiDimensionalArray/Tailor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        <state relative-caret-position="85">
+          <caret line="5" column="65" selection-start-line="5" selection-start-column="65" selection-end-line="5" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_027_StringManipulating/Theory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
         </state>
       </provider>
     </entry>
