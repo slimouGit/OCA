@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aef1a376-5670-447e-805c-f9d07a928f0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_001_006_EnumsInArray/TestDays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_001_007_InvokeFromStaticContext/Frodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_001_007_InvokeFromStaticContext/Hobbit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -19,64 +20,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_001_004_ClassChain/_1_Device.java">
+        <entry file="file://$PROJECT_DIR$/src/_001_007_InvokeFromStaticContext/Hobbit.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_001_004_ClassChain/_2_Electronic.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_001_004_ClassChain/_3_Phone1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_001_004_ClassChain/_3_Phone2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_001_004_ClassChain/_3_Phone3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_001_005_EvilSyntax/Announce.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_001_006_EnumsInArray/TestDays.java">
+        <entry file="file://$PROJECT_DIR$/src/_001_007_InvokeFromStaticContext/Frodo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+            <state relative-caret-position="136">
+              <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -97,8 +53,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/_007_CompareObjects/Fizz.java" />
-        <option value="$PROJECT_DIR$/src/_008_ObjectsAndInstanceVariables/Mirror.java" />
         <option value="$PROJECT_DIR$/src/_008_StrangeObjectThings/Network.java" />
         <option value="$PROJECT_DIR$/src/_009_VariableScope/Telescope.java" />
         <option value="$PROJECT_DIR$/src/_010_StringConcat/Felline.java" />
@@ -148,6 +102,8 @@
         <option value="$PROJECT_DIR$/src/_001_004_ClassChain/_3_Phone3.java" />
         <option value="$PROJECT_DIR$/src/_001_005_EvilSyntax/Announce.java" />
         <option value="$PROJECT_DIR$/src/_001_006_EnumsInArray/TestDays.java" />
+        <option value="$PROJECT_DIR$/src/_001_007_InvokeFromStaticContext/Hobbit.java" />
+        <option value="$PROJECT_DIR$/src/_001_007_InvokeFromStaticContext/Frodo.java" />
       </list>
     </option>
   </component>
@@ -188,6 +144,12 @@
               <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_001_006_EnumsInArray" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_001_007_InvokeFromStaticContext" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
@@ -281,9 +243,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestDays">
+  <component name="RunManager" selected="Application.Frodo">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Frodo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_001_007_InvokeFromStaticContext.Frodo" />
+      <module name="TestPreparation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_001_007_InvokeFromStaticContext.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -295,20 +271,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="_033_006_IntegerArrayList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Shiny" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_032_006_DateFormatter.Shiny" />
-      <module name="TestPreparation" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_032_006_DateFormatter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -390,19 +352,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Shiny" />
       <item itemvalue="Application.Jackets" />
       <item itemvalue="Application._" />
       <item itemvalue="Application.TestEnum" />
       <item itemvalue="Application.TestDays" />
+      <item itemvalue="Application.Frodo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Frodo" />
         <item itemvalue="Application.TestDays" />
         <item itemvalue="Application.TestEnum" />
         <item itemvalue="Application._" />
         <item itemvalue="Application.Jackets" />
-        <item itemvalue="Application.Shiny" />
       </list>
     </recent_temporary>
   </component>
@@ -418,18 +380,18 @@
       <updated>1585396115128</updated>
       <workItem from="1585396117845" duration="14430000" />
       <workItem from="1585466448717" duration="14979000" />
-      <workItem from="1585580772704" duration="1788000" />
+      <workItem from="1585580772704" duration="2479000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31197000" />
+    <option name="totallyTimeSpent" value="31888000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="159" y="12" width="1545" height="1043" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22491583" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22491583" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -439,7 +401,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.28037384" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.42857143" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.42857143" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -853,20 +815,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/_004_003_CastingTypes/CastingTypes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_005_003_Literally/Literally.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_006_003_ObjectInstances/Mixer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -1207,6 +1155,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_001_007_InvokeFromStaticContext/Hobbit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_001_007_InvokeFromStaticContext/Frodo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
         </state>
       </provider>
     </entry>
