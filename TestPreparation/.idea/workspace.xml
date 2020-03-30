@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aef1a376-5670-447e-805c-f9d07a928f0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_001_004_ClassChain/_1_Device.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_001_004_ClassChain/_2_Electronic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_001_004_ClassChain/_3_Phone1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_001_004_ClassChain/_3_Phone2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_001_004_ClassChain/_3_Phone3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_001_005_EvilSyntax/Announce.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -57,11 +53,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_001_004_ClassChain/_3_Phone3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/_001_005_EvilSyntax/Announce.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -82,7 +87,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/_005_Literally/Literally.java" />
         <option value="$PROJECT_DIR$/src/_006_ObjectInstances/Mixer.java" />
         <option value="$PROJECT_DIR$/src/_007_CompareObjects/Fizz.java" />
         <option value="$PROJECT_DIR$/src/_008_ObjectsAndInstanceVariables/Mirror.java" />
@@ -133,6 +137,7 @@
         <option value="$PROJECT_DIR$/src/_001_004_ClassChain/_3_Phone1.java" />
         <option value="$PROJECT_DIR$/src/_001_004_ClassChain/_3_Phone2.java" />
         <option value="$PROJECT_DIR$/src/_001_004_ClassChain/_3_Phone3.java" />
+        <option value="$PROJECT_DIR$/src/_001_005_EvilSyntax/Announce.java" />
       </list>
     </option>
   </component>
@@ -166,37 +171,19 @@
               <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_000_OCA_Array_001" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_001_001_AccessMembers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_001_002_ConstructorOverloading" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pkgA" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pkgB" type="462c0819:PsiDirectoryNode" />
+              <item name="_001_003_AccessCompositions" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_001_004_ClassChain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_001_005_EvilSyntax" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
@@ -427,12 +414,12 @@
       <updated>1585396115128</updated>
       <workItem from="1585396117845" duration="14430000" />
       <workItem from="1585466448717" duration="14979000" />
-      <workItem from="1585580772704" duration="1280000" />
+      <workItem from="1585580772704" duration="1545000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30689000" />
+    <option name="totallyTimeSpent" value="30954000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="159" y="12" width="1545" height="1043" extended-state="0" />
@@ -862,13 +849,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/_003_002_Interface_001/MyInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_003_002_Interface_001/IfaceTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1216,6 +1196,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_001_005_EvilSyntax/Announce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
         </state>
       </provider>
     </entry>
