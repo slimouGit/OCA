@@ -1,4 +1,4 @@
-package _002_001_ArgLoop;
+package _001_001_ArgLoop;
 import static java.lang.System.*;
 
 public class _ {

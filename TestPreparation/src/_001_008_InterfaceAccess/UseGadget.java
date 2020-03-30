@@ -1,6 +1,11 @@
 package _001_008_InterfaceAccess;
 
 public class UseGadget implements Gadget {
+    @Override
+    public void doStuff() {
+
+    }
+
     /**
      * PUBLIC MODIFIER IS MISSING
     @Override
