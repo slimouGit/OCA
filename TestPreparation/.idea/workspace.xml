@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aef1a376-5670-447e-805c-f9d07a928f0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_001_003_AccessCompositions/pkgA/Foo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_001_003_AccessCompositions/pkgB/Baz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_001_004_ClassChain/_1_Device.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_001_004_ClassChain/_2_Electronic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_001_004_ClassChain/_3_Phone1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_001_004_ClassChain/_3_Phone2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_001_004_ClassChain/_3_Phone3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_001_001_AccessMembers/_002_001_Enums/Animals.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_001_001_AccessMembers/_002_001_Enums/TestEnum.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,19 +22,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_001_003_AccessCompositions/pkgA/Foo.java">
+        <entry file="file://$PROJECT_DIR$/src/_001_004_ClassChain/_1_Device.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_001_004_ClassChain/_2_Electronic.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_001_004_ClassChain/_3_Phone1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_001_004_ClassChain/_3_Phone2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_001_003_AccessCompositions/pkgB/Baz.java">
+        <entry file="file://$PROJECT_DIR$/src/_001_004_ClassChain/_3_Phone3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="75" selection-start-line="8" selection-start-column="75" selection-end-line="8" selection-end-column="75" />
+            <state relative-caret-position="68">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -54,11 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/_004_Interface_002/IfaceTest.java" />
-        <option value="$PROJECT_DIR$/src/_003_Interface_001/MultiInt.java" />
-        <option value="$PROJECT_DIR$/src/_003_Interface_001/MyInterface.java" />
-        <option value="$PROJECT_DIR$/src/_003_Interface_001/IfaceTest.java" />
-        <option value="$PROJECT_DIR$/src/_004_CastingTypes/CastingTypes.java" />
         <option value="$PROJECT_DIR$/src/_005_Literally/Literally.java" />
         <option value="$PROJECT_DIR$/src/_006_ObjectInstances/Mixer.java" />
         <option value="$PROJECT_DIR$/src/_007_CompareObjects/Fizz.java" />
@@ -105,6 +128,11 @@
         <option value="$PROJECT_DIR$/src/_001_001_AccessMembers/_002_001_Enums/TestEnum.java" />
         <option value="$PROJECT_DIR$/src/_001_003_AccessCompositions/pkgA/Foo.java" />
         <option value="$PROJECT_DIR$/src/_001_003_AccessCompositions/pkgB/Baz.java" />
+        <option value="$PROJECT_DIR$/src/_001_004_ClassChain/_1_Device.java" />
+        <option value="$PROJECT_DIR$/src/_001_004_ClassChain/_2_Electronic.java" />
+        <option value="$PROJECT_DIR$/src/_001_004_ClassChain/_3_Phone1.java" />
+        <option value="$PROJECT_DIR$/src/_001_004_ClassChain/_3_Phone2.java" />
+        <option value="$PROJECT_DIR$/src/_001_004_ClassChain/_3_Phone3.java" />
       </list>
     </option>
   </component>
@@ -163,6 +191,12 @@
               <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pkgB" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_001_004_ClassChain" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
@@ -393,12 +427,12 @@
       <updated>1585396115128</updated>
       <workItem from="1585396117845" duration="14430000" />
       <workItem from="1585466448717" duration="14979000" />
-      <workItem from="1585580772704" duration="688000" />
+      <workItem from="1585580772704" duration="1280000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30097000" />
+    <option name="totallyTimeSpent" value="30689000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="159" y="12" width="1545" height="1043" extended-state="0" />
@@ -828,23 +862,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/_002_002_Polymorphism/Pferd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_002_002_Polymorphism/Cowboy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_003_Interface_001/I2.java" />
-    <entry file="file://$PROJECT_DIR$/src/_003_Interface_001/I1.java" />
-    <entry file="file://$PROJECT_DIR$/src/_003_Interface_001/MultiInt.java" />
     <entry file="file://$PROJECT_DIR$/src/_003_002_Interface_001/MyInterface.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -1153,6 +1170,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/_001_003_AccessCompositions/pkgB/Baz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="75" selection-start-line="8" selection-start-column="75" selection-end-line="8" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/_001_003_AccessCompositions/pkgA/Foo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -1160,10 +1184,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_001_003_AccessCompositions/pkgB/Baz.java">
+    <entry file="file://$PROJECT_DIR$/src/_001_004_ClassChain/_1_Device.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="75" selection-start-line="8" selection-start-column="75" selection-end-line="8" selection-end-column="75" />
+        <state relative-caret-position="51">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_001_004_ClassChain/_2_Electronic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_001_004_ClassChain/_3_Phone1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_001_004_ClassChain/_3_Phone2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_001_004_ClassChain/_3_Phone3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
