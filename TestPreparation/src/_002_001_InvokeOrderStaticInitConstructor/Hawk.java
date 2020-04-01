@@ -16,6 +16,6 @@ public class Hawk extends Raptor {
      * 5. b2
      * 6. r3
      * 7. r2
-     * 8. hawk 
+     * 8. hawk
      */
 }
