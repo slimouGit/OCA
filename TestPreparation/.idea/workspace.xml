@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aef1a376-5670-447e-805c-f9d07a928f0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_002_15_Interfaces/I1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_002_15_Interfaces/I2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_002_15_Interfaces/MultiInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_002_16_Interfaces/IfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_002_16_Interfaces/MyInterface.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,28 +20,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_002_15_Interfaces/I1.java">
+        <entry file="file://$PROJECT_DIR$/src/_002_16_Interfaces/MyInterface.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="5" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_002_15_Interfaces/I2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+            <state relative-caret-position="136">
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_002_15_Interfaces/MultiInt.java">
+        <entry file="file://$PROJECT_DIR$/src/_002_16_Interfaces/IfaceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+            <state relative-caret-position="374">
+              <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -51,8 +42,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -62,9 +53,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/_030_StringManipulation/Hedges.java" />
-        <option value="$PROJECT_DIR$/src/_029_006_ObjectReferenceInArrays/Laser.java" />
-        <option value="$PROJECT_DIR$/src/_031_LambdasPredicates/Sheep.java" />
         <option value="$PROJECT_DIR$/src/_032_DateFormatter/Shiny.java" />
         <option value="$PROJECT_DIR$/src/_033_006_IntegerArrayList/Jackets.java" />
         <option value="$PROJECT_DIR$/src/_001_001_AccessMembers/Rocket.java" />
@@ -113,6 +101,9 @@
         <option value="$PROJECT_DIR$/src/_002_15_Interfaces/I1.java" />
         <option value="$PROJECT_DIR$/src/_002_15_Interfaces/I2.java" />
         <option value="$PROJECT_DIR$/src/_002_15_Interfaces/MultiInt.java" />
+        <option value="$PROJECT_DIR$/src/_002_16_Interfaces/DummyInterface.java" />
+        <option value="$PROJECT_DIR$/src/_002_16_Interfaces/MyInterface.java" />
+        <option value="$PROJECT_DIR$/src/_002_16_Interfaces/IfaceTest.java" />
       </list>
     </option>
   </component>
@@ -151,7 +142,19 @@
               <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_002_14_Interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_002_15_Interfaces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_002_16_Interfaces" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
@@ -187,7 +190,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MultiInt">
+  <component name="RunManager" selected="Application.IfaceTest">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -201,6 +204,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="_002_14_Interface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IfaceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_002_16_Interfaces.IfaceTest" />
+      <module name="TestPreparation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_002_16_Interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -229,20 +246,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="_002_011_ConstructorInheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tenor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_002_10_ClassReferences.Tenor" />
-      <module name="TestPreparation" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_002_10_ClassReferences.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -296,19 +299,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Tenor" />
       <item itemvalue="Application.SubSubAlpha" />
       <item itemvalue="Application.ZooKeeper" />
       <item itemvalue="Application.DontBoilFrogs" />
       <item itemvalue="Application.MultiInt" />
+      <item itemvalue="Application.IfaceTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IfaceTest" />
         <item itemvalue="Application.MultiInt" />
         <item itemvalue="Application.DontBoilFrogs" />
         <item itemvalue="Application.ZooKeeper" />
         <item itemvalue="Application.SubSubAlpha" />
-        <item itemvalue="Application.Tenor" />
       </list>
     </recent_temporary>
   </component>
@@ -337,18 +340,18 @@
       <workItem from="1587794316582" duration="1784000" />
       <workItem from="1588001785608" duration="595000" />
       <workItem from="1588089374984" duration="596000" />
-      <workItem from="1588135362102" duration="4199000" />
+      <workItem from="1588135362102" duration="5016000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51320000" />
+    <option name="totallyTimeSpent" value="52137000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21215352" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21215352" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -357,7 +360,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2793354" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2793354" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3748702" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -365,7 +368,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32747254" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3271028" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Sequence" order="13" weight="0.54615384" />
@@ -857,27 +860,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/_029_006_ObjectReferenceInArrays/Laser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_031_006_LambdasPredicates/Sheep.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_032_006_DateFormatter/Shiny.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_033_006_IntegerArrayList/Jackets.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -1167,17 +1149,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_002_14_Interface/FrogBoilable.java">
+    <entry file="file://$PROJECT_DIR$/src/_002_15_Interfaces/I2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_002_14_Interface/DontBoilFrogs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -1188,17 +1163,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_002_15_Interfaces/I2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_002_15_Interfaces/MultiInt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_002_16_Interfaces/DummyInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_002_14_Interface/FrogBoilable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_002_14_Interface/DontBoilFrogs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_002_16_Interfaces/MyInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_002_16_Interfaces/IfaceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
         </state>
       </provider>
     </entry>
