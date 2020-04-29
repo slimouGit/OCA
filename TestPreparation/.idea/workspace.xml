@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aef1a376-5670-447e-805c-f9d07a928f0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_003_4_InitializeObjects/Mixer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_003_5_FinalAssignments/Fizz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TestPreparation/_003_1_GarbageCollector/CardBoard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TestPreparation/_003_1_GarbageCollector/CardBoard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_003_4_InitializeObjects/Mixer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_003_4_InitializeObjects/Mixer.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,10 +19,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_003_4_InitializeObjects/Mixer.java">
+        <entry file="file://$PROJECT_DIR$/src/_003_5_FinalAssignments/Fizz.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+            <state relative-caret-position="153">
+              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -44,7 +43,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/_001_001_AccessMembers/Shuttle.java" />
         <option value="$PROJECT_DIR$/src/_002_001_ArgLoop/_.java" />
         <option value="$PROJECT_DIR$/src/_001_OCA_Array_001/Zippy.java" />
         <option value="$PROJECT_DIR$/src/_000_OCA_Array_001/Zippy.java" />
@@ -95,6 +93,7 @@
         <option value="$PROJECT_DIR$/src/_003_1_GarbageCollector/CardBoard.java" />
         <option value="$PROJECT_DIR$/src/_003_2_CastingPrimitives/Fishing.java" />
         <option value="$PROJECT_DIR$/src/_003_4_InitializeObjects/Mixer.java" />
+        <option value="$PROJECT_DIR$/src/_003_5_FinalAssignments/Fizz.java" />
       </list>
     </option>
   </component>
@@ -151,6 +150,12 @@
               <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_003_5_FinalAssignments" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_033_006_IntegerArrayList" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -181,7 +186,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Mixer">
+  <component name="RunManager" selected="Application.Fizz">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -202,13 +207,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DontBoilFrogs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_002_14_Interface.DontBoilFrogs" />
+    <configuration name="Fizz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_003_5_FinalAssignments.Fizz" />
       <module name="TestPreparation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_002_14_Interface.*" />
+          <option name="PATTERN" value="_003_5_FinalAssignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -290,19 +295,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DontBoilFrogs" />
       <item itemvalue="Application.MultiInt" />
       <item itemvalue="Application.IfaceTest" />
       <item itemvalue="Application.CardBoard" />
       <item itemvalue="Application.Mixer" />
+      <item itemvalue="Application.Fizz" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fizz" />
         <item itemvalue="Application.Mixer" />
         <item itemvalue="Application.CardBoard" />
         <item itemvalue="Application.IfaceTest" />
         <item itemvalue="Application.MultiInt" />
-        <item itemvalue="Application.DontBoilFrogs" />
       </list>
     </recent_temporary>
   </component>
@@ -331,12 +336,12 @@
       <workItem from="1587794316582" duration="1784000" />
       <workItem from="1588001785608" duration="595000" />
       <workItem from="1588089374984" duration="596000" />
-      <workItem from="1588135362102" duration="8089000" />
+      <workItem from="1588135362102" duration="10923000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55210000" />
+    <option name="totallyTimeSpent" value="58044000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -923,13 +928,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/_001_001_AccessMembers/Shuttle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_000_OCA_Array_001/Zippy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1263,8 +1261,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_003_4_InitializeObjects/Mixer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+        <state relative-caret-position="187">
+          <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_003_5_FinalAssignments/Fizz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
         </state>
       </provider>
     </entry>
