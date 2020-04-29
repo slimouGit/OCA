@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aef1a376-5670-447e-805c-f9d07a928f0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_002_10_ClassReferences/Singer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_002_10_ClassReferences/Tenor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_002_011_ConstructorInheritance/Alpha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_002_011_ConstructorInheritance/SubAlpha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_002_011_ConstructorInheritance/SubSubAlpha.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,21 +19,30 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_002_10_ClassReferences/Singer.java">
+        <entry file="file://$PROJECT_DIR$/src/_002_011_ConstructorInheritance/Alpha.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+            <state relative-caret-position="85">
+              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_002_011_ConstructorInheritance/SubAlpha.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_002_10_ClassReferences/Tenor.java">
+        <entry file="file://$PROJECT_DIR$/src/_002_011_ConstructorInheritance/SubSubAlpha.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+            <state relative-caret-position="153">
+              <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -52,10 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/_019_006_ExceptionHandling_02/Emu.java" />
-        <option value="$PROJECT_DIR$/src/_020_006_SwitchExample/Ebb.java" />
-        <option value="$PROJECT_DIR$/src/_021_006_LabeledLoops/Circles.java" />
-        <option value="$PROJECT_DIR$/src/_022_006_LabeledLoops_02/Wind.java" />
         <option value="$PROJECT_DIR$/src/_023_006_ArrayWithNullValue/Hilltop.java" />
         <option value="$PROJECT_DIR$/src/_024_MultiDimensionalArrayCasting/Dims.java" />
         <option value="$PROJECT_DIR$/src/_025_ArrayInserts/Sequence.java" />
@@ -103,11 +110,16 @@
         <option value="$PROJECT_DIR$/src/_002_9_CastingClasses/Redwood.java" />
         <option value="$PROJECT_DIR$/src/_002_10_ClassReferences/Singer.java" />
         <option value="$PROJECT_DIR$/src/_002_10_ClassReferences/Tenor.java" />
+        <option value="$PROJECT_DIR$/src/_002_011_ConstructorInheritance/Alpha.java" />
+        <option value="$PROJECT_DIR$/src/_002_011_ConstructorInheritance/AubAlpha.java" />
+        <option value="$PROJECT_DIR$/src/_002_011_ConstructorInheritance/SubAlpha.java" />
+        <option value="$PROJECT_DIR$/src/_002_011_ConstructorInheritance/SubSubAlpha.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="204" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="171" />
+    <option name="y" value="43" />
     <option name="width" value="1545" />
     <option name="height" value="1043" />
   </component>
@@ -117,7 +129,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -141,73 +152,7 @@
               <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_002_002_Polymorphism" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_002_8_CastingInstances" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_002_9_CastingClasses" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_002_10_ClassReferences" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_003_002_Interface_001" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_004_003_CastingTypes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_005_003_Literally" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_006_003_ObjectInstances" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_007_003_CompareObjects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_008_ObjectsAndInstanceVariables" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_009_003_VariableScope" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_010_004_StringConcat" type="462c0819:PsiDirectoryNode" />
+              <item name="_002_011_ConstructorInheritance" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
@@ -219,6 +164,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -228,6 +174,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -241,23 +188,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Tenor">
+  <component name="RunManager" selected="Application.SubSubAlpha">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Bottom2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_002_001_SuperConstructor.Bottom2" />
-      <module name="TestPreparation" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_002_001_SuperConstructor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -297,6 +230,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="_002_9_CastingClasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubSubAlpha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_002_011_ConstructorInheritance.SubSubAlpha" />
+      <module name="TestPreparation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_002_011_ConstructorInheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -350,19 +297,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Bottom2" />
       <item itemvalue="Application.Hawk" />
       <item itemvalue="Application.DogShow" />
       <item itemvalue="Application.Redwood" />
       <item itemvalue="Application.Tenor" />
+      <item itemvalue="Application.SubSubAlpha" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SubSubAlpha" />
         <item itemvalue="Application.Tenor" />
         <item itemvalue="Application.Redwood" />
         <item itemvalue="Application.DogShow" />
         <item itemvalue="Application.Hawk" />
-        <item itemvalue="Application.Bottom2" />
       </list>
     </recent_temporary>
   </component>
@@ -380,18 +327,29 @@
       <workItem from="1585466448717" duration="14979000" />
       <workItem from="1585580772704" duration="5989000" />
       <workItem from="1585672210992" duration="595000" />
-      <workItem from="1585754441296" duration="2251000" />
+      <workItem from="1585754441296" duration="3052000" />
+      <workItem from="1586506353805" duration="866000" />
+      <workItem from="1586875088086" duration="592000" />
+      <workItem from="1586977813235" duration="308000" />
+      <workItem from="1586978147219" duration="517000" />
+      <workItem from="1587191413647" duration="590000" />
+      <workItem from="1587284179952" duration="435000" />
+      <workItem from="1587737262983" duration="1793000" />
+      <workItem from="1587794316582" duration="1784000" />
+      <workItem from="1588001785608" duration="595000" />
+      <workItem from="1588089374984" duration="596000" />
+      <workItem from="1588135362102" duration="1353000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38244000" />
+    <option name="totallyTimeSpent" value="48474000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="204" y="0" width="1545" height="1043" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23097643" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21215352" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -401,7 +359,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.2802198" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.37582418" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3748702" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -411,6 +369,7 @@
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32747254" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Sequence" order="13" weight="0.54615384" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -801,6 +760,42 @@
           <properties />
           <option name="timeStamp" value="69" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_002_10_ClassReferences/Tenor.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_002_10_ClassReferences/Tenor.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_002_10_ClassReferences/Tenor.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_002_10_ClassReferences/Tenor.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_002_10_ClassReferences/Singer.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_002_10_ClassReferences/Singer.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/_020_006_SwitchExample/Ebb.java</url>
           <line>3</line>
@@ -845,48 +840,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/_016_005_SwitchWithStrings/Flipper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="72" selection-start-line="13" selection-start-column="72" selection-end-line="13" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_017_005_ExceptionHandling/Plane.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_018_006_LoopAnArray/Loopy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_019_006_ExceptionHandling_02/Emu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="65" selection-start-line="23" selection-start-column="65" selection-end-line="23" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_020_006_SwitchExample/Ebb.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="64" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_021_006_LabeledLoops/Circles.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_022_006_LabeledLoops_02/Wind.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -1169,24 +1122,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_002_8_CastingInstances/DogShow.java">
+    <entry file="file://$PROJECT_DIR$/src/_002_002_Polymorphism/Cowboy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="94" selection-start-line="10" selection-start-column="94" selection-end-line="10" selection-end-column="94" />
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_002_10_ClassReferences/Singer.java">
+    <entry file="file://$PROJECT_DIR$/src/_002_002_Polymorphism/Pferd.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_002_002_Polymorphism/Huftier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_002_8_CastingInstances/DogShow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_002_10_ClassReferences/Tenor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_002_10_ClassReferences/Singer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_002_011_ConstructorInheritance/SubAlpha.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_002_011_ConstructorInheritance/Alpha.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_002_011_ConstructorInheritance/SubSubAlpha.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
         </state>
       </provider>
     </entry>
