@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aef1a376-5670-447e-805c-f9d07a928f0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_003_5_FinalAssignments/Fizz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_003_6_InstanceRefering/Mirror.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_003_4_InitializeObjects/Mixer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_003_4_InitializeObjects/Mixer.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,10 +18,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_003_5_FinalAssignments/Fizz.java">
+        <entry file="file://$PROJECT_DIR$/src/_003_6_InstanceRefering/Mirror.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+            <state relative-caret-position="136">
+              <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -43,7 +42,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/_002_001_ArgLoop/_.java" />
         <option value="$PROJECT_DIR$/src/_001_OCA_Array_001/Zippy.java" />
         <option value="$PROJECT_DIR$/src/_000_OCA_Array_001/Zippy.java" />
         <option value="$PROJECT_DIR$/src/_001_001_AccessMembers/_002_001_Enums/Animals.java" />
@@ -94,6 +92,7 @@
         <option value="$PROJECT_DIR$/src/_003_2_CastingPrimitives/Fishing.java" />
         <option value="$PROJECT_DIR$/src/_003_4_InitializeObjects/Mixer.java" />
         <option value="$PROJECT_DIR$/src/_003_5_FinalAssignments/Fizz.java" />
+        <option value="$PROJECT_DIR$/src/_003_6_InstanceRefering/Mirror.java" />
       </list>
     </option>
   </component>
@@ -156,6 +155,12 @@
               <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_003_6_InstanceRefering" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_033_006_IntegerArrayList" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -186,7 +191,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Fizz">
+  <component name="RunManager" selected="Application.Mirror">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -235,13 +240,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mixer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_003_4_InitializeObjects.Mixer" />
+    <configuration name="Mirror" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_003_6_InstanceRefering.Mirror" />
       <module name="TestPreparation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_003_4_InitializeObjects.*" />
+          <option name="PATTERN" value="_003_6_InstanceRefering.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -249,13 +254,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_002_15_Interfaces.MultiInt" />
+    <configuration name="Mixer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_003_4_InitializeObjects.Mixer" />
       <module name="TestPreparation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_002_15_Interfaces.*" />
+          <option name="PATTERN" value="_003_4_InitializeObjects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -295,19 +300,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MultiInt" />
       <item itemvalue="Application.IfaceTest" />
       <item itemvalue="Application.CardBoard" />
       <item itemvalue="Application.Mixer" />
       <item itemvalue="Application.Fizz" />
+      <item itemvalue="Application.Mirror" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Mirror" />
         <item itemvalue="Application.Fizz" />
         <item itemvalue="Application.Mixer" />
         <item itemvalue="Application.CardBoard" />
         <item itemvalue="Application.IfaceTest" />
-        <item itemvalue="Application.MultiInt" />
       </list>
     </recent_temporary>
   </component>
@@ -336,18 +341,18 @@
       <workItem from="1587794316582" duration="1784000" />
       <workItem from="1588001785608" duration="595000" />
       <workItem from="1588089374984" duration="596000" />
-      <workItem from="1588135362102" duration="10923000" />
+      <workItem from="1588135362102" duration="12172000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58044000" />
+    <option name="totallyTimeSpent" value="59293000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21215352" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21215352" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -357,7 +362,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.2793354" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3748702" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3748702" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -854,6 +859,24 @@
           <properties />
           <option name="timeStamp" value="93" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_003_5_FinalAssignments/Fizz.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_003_5_FinalAssignments/Fizz.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_003_5_FinalAssignments/Fizz.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/_020_006_SwitchExample/Ebb.java</url>
           <line>3</line>
@@ -928,13 +951,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/_000_OCA_Array_001/Zippy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_001_001_AccessMembers/_002_001_Enums/Animals.java" />
     <entry file="file://$PROJECT_DIR$/src/_001_001_AccessMembers/_002_001_Enums/TestEnum.java" />
     <entry file="file://$PROJECT_DIR$/src/_001_003_AccessCompositions/pkgB/Baz.java">
@@ -1268,8 +1284,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_003_5_FinalAssignments/Fizz.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_003_6_InstanceRefering/Mirror.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
         </state>
       </provider>
     </entry>
