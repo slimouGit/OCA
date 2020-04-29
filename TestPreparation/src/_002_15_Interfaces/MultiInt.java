@@ -6,7 +6,7 @@ public class MultiInt implements I1, I2 {
     }
 
     private void go() {
-        System.out.println(doStuff());
+        System.out.println(doStuff()); // 3
     }
 
     public int doStuff(){
