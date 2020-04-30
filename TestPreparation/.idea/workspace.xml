@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aef1a376-5670-447e-805c-f9d07a928f0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_005_3_CastingExceptions/CastInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_005_4_NullPointerException/Flip2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,11 +35,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_005_3_CastingExceptions/CastInteger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/_005_4_NullPointerException/Flip2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="153" selection-start-line="15" selection-start-column="153" selection-end-line="15" selection-end-column="153" />
             </state>
           </provider>
         </entry>
@@ -61,7 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/_002_001_InvokeOrderStaticInitConstructor/Hawk.java" />
         <option value="$PROJECT_DIR$/src/_002_8_CastingInstances/Hound.java" />
         <option value="$PROJECT_DIR$/src/_002_8_CastingInstances/Dog.java" />
         <option value="$PROJECT_DIR$/src/_002_8_CastingInstances/DogShow.java" />
@@ -112,6 +119,7 @@
         <option value="$PROJECT_DIR$/src/_005_1_SwitchStatement/Flipper.java" />
         <option value="$PROJECT_DIR$/src/_005_2_Exception/Plane.java" />
         <option value="$PROJECT_DIR$/src/_005_3_CastingExceptions/CastInteger.java" />
+        <option value="$PROJECT_DIR$/src/_005_4_NullPointerException/Flip2.java" />
       </list>
     </option>
   </component>
@@ -151,13 +159,13 @@
               <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_005_2_Exception" type="462c0819:PsiDirectoryNode" />
+              <item name="_005_3_CastingExceptions" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_005_3_CastingExceptions" type="462c0819:PsiDirectoryNode" />
+              <item name="_005_4_NullPointerException" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
@@ -343,18 +351,18 @@
       <workItem from="1588001785608" duration="595000" />
       <workItem from="1588089374984" duration="596000" />
       <workItem from="1588135362102" duration="17083000" />
-      <workItem from="1588227271705" duration="9303000" />
+      <workItem from="1588227271705" duration="9868000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73507000" />
+    <option name="totallyTimeSpent" value="74072000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21428572" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21428572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -363,8 +371,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38421598" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.49013498" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38421598" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.49013498" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -945,6 +953,18 @@
           <properties />
           <option name="timeStamp" value="111" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_005_3_CastingExceptions/CastInteger.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_005_3_CastingExceptions/CastInteger.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/_020_006_SwitchExample/Ebb.java</url>
           <line>3</line>
@@ -1019,13 +1039,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/_002_8_CastingInstances/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_002_9_CastingClasses/Redwood.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -1365,8 +1378,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_005_3_CastingExceptions/CastInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_005_4_NullPointerException/Flip2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="153" selection-start-line="15" selection-start-column="153" selection-end-line="15" selection-end-column="153" />
         </state>
       </provider>
     </entry>
