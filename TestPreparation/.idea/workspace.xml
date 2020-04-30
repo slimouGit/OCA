@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aef1a376-5670-447e-805c-f9d07a928f0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_005_8_SwitchStatement/Ebb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_005_10_ForLoopWithContinueAndBreak/Circles.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_005_8_SwitchStatement/Ebb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_005_8_SwitchStatement/Ebb.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,11 +28,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_005_8_SwitchStatement/Ebb.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/_005_10_ForLoopWithContinueAndBreak/Circles.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="343">
+              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -51,7 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/_002_8_CastingInstances/DogShow.java" />
         <option value="$PROJECT_DIR$/src/_002_9_CastingClasses/Tree.java" />
         <option value="$PROJECT_DIR$/src/_002_9_CastingClasses/Redwood.java" />
         <option value="$PROJECT_DIR$/src/_002_10_ClassReferences/Singer.java" />
@@ -102,6 +112,7 @@
         <option value="$PROJECT_DIR$/src/_005_4_NullPointerException/Flip2.java" />
         <option value="$PROJECT_DIR$/src/_005_5_LoopVariants/Loopy.java" />
         <option value="$PROJECT_DIR$/src/_005_8_SwitchStatement/Ebb.java" />
+        <option value="$PROJECT_DIR$/src/_005_10_ForLoopWithContinueAndBreak/Circles.java" />
       </list>
     </option>
   </component>
@@ -153,6 +164,12 @@
               <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_005_10_ForLoopWithContinueAndBreak" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_033_006_IntegerArrayList" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -182,7 +199,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Ebb">
+  <component name="RunManager" selected="Application.Circles">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -203,13 +220,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ebb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_005_8_SwitchStatement.Ebb" />
+    <configuration name="Circles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_005_10_ForLoopWithContinueAndBreak.Circles" />
       <module name="TestPreparation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_005_8_SwitchStatement.*" />
+          <option name="PATTERN" value="_005_10_ForLoopWithContinueAndBreak.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,13 +234,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Flipper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_005_1_SwitchStatement.Flipper" />
+    <configuration name="Ebb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_005_8_SwitchStatement.Ebb" />
       <module name="TestPreparation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_005_1_SwitchStatement.*" />
+          <option name="PATTERN" value="_005_8_SwitchStatement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -291,19 +308,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Flipper" />
       <item itemvalue="Application.Plane" />
       <item itemvalue="Application.CastInteger" />
       <item itemvalue="Application.Loopy" />
       <item itemvalue="Application.Ebb" />
+      <item itemvalue="Application.Circles" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Circles" />
         <item itemvalue="Application.Ebb" />
         <item itemvalue="Application.Loopy" />
         <item itemvalue="Application.CastInteger" />
         <item itemvalue="Application.Plane" />
-        <item itemvalue="Application.Flipper" />
       </list>
     </recent_temporary>
   </component>
@@ -333,18 +350,18 @@
       <workItem from="1588001785608" duration="595000" />
       <workItem from="1588089374984" duration="596000" />
       <workItem from="1588135362102" duration="17083000" />
-      <workItem from="1588227271705" duration="11695000" />
+      <workItem from="1588227271705" duration="12756000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75899000" />
+    <option name="totallyTimeSpent" value="76960000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21428572" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21428572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -353,8 +370,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.38421598" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5244029" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38421598" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.44963655" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -953,6 +970,18 @@
           <properties />
           <option name="timeStamp" value="115" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_005_8_SwitchStatement/Ebb.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_005_10_ForLoopWithContinueAndBreak/Circles.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/_020_006_SwitchExample/Ebb.java</url>
           <line>3</line>
@@ -1027,13 +1056,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/_002_002_Polymorphism/Cowboy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_002_002_Polymorphism/Pferd.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -1373,8 +1395,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_005_8_SwitchStatement/Ebb.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_005_10_ForLoopWithContinueAndBreak/Circles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
         </state>
       </provider>
     </entry>
