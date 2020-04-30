@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aef1a376-5670-447e-805c-f9d07a928f0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_005_5_LoopVariants/Loopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_005_8_SwitchStatement/Ebb.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,46 +18,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_005_1_SwitchStatement/Flipper.java">
+        <entry file="file://$PROJECT_DIR$/src/_005_5_LoopVariants/Loopy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="74" lean-forward="true" selection-start-line="13" selection-start-column="74" selection-end-line="13" selection-end-column="74" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_005_2_Exception/Plane.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_005_3_CastingExceptions/CastInteger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_005_4_NullPointerException/Flip2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="153" selection-start-line="15" selection-start-column="153" selection-end-line="15" selection-end-column="153" />
+            <state relative-caret-position="306">
+              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_005_5_LoopVariants/Loopy.java">
+        <entry file="file://$PROJECT_DIR$/src/_005_8_SwitchStatement/Ebb.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            <state relative-caret-position="306">
+              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -78,7 +51,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/_002_8_CastingInstances/Dog.java" />
         <option value="$PROJECT_DIR$/src/_002_8_CastingInstances/DogShow.java" />
         <option value="$PROJECT_DIR$/src/_002_9_CastingClasses/Tree.java" />
         <option value="$PROJECT_DIR$/src/_002_9_CastingClasses/Redwood.java" />
@@ -129,6 +101,7 @@
         <option value="$PROJECT_DIR$/src/_005_3_CastingExceptions/CastInteger.java" />
         <option value="$PROJECT_DIR$/src/_005_4_NullPointerException/Flip2.java" />
         <option value="$PROJECT_DIR$/src/_005_5_LoopVariants/Loopy.java" />
+        <option value="$PROJECT_DIR$/src/_005_8_SwitchStatement/Ebb.java" />
       </list>
     </option>
   </component>
@@ -168,19 +141,13 @@
               <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_005_3_CastingExceptions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_005_4_NullPointerException" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_005_5_LoopVariants" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_005_8_SwitchStatement" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
@@ -215,7 +182,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Loopy">
+  <component name="RunManager" selected="Application.Ebb">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -236,13 +203,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CrazyComparings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_004_11_CrazyComparing.CrazyComparings" />
+    <configuration name="Ebb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_005_8_SwitchStatement.Ebb" />
       <module name="TestPreparation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_004_11_CrazyComparing.*" />
+          <option name="PATTERN" value="_005_8_SwitchStatement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -324,19 +291,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CrazyComparings" />
       <item itemvalue="Application.Flipper" />
       <item itemvalue="Application.Plane" />
       <item itemvalue="Application.CastInteger" />
       <item itemvalue="Application.Loopy" />
+      <item itemvalue="Application.Ebb" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ebb" />
         <item itemvalue="Application.Loopy" />
         <item itemvalue="Application.CastInteger" />
         <item itemvalue="Application.Plane" />
         <item itemvalue="Application.Flipper" />
-        <item itemvalue="Application.CrazyComparings" />
       </list>
     </recent_temporary>
   </component>
@@ -366,17 +333,18 @@
       <workItem from="1588001785608" duration="595000" />
       <workItem from="1588089374984" duration="596000" />
       <workItem from="1588135362102" duration="17083000" />
-      <workItem from="1588227271705" duration="10868000" />
+      <workItem from="1588227271705" duration="11695000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75072000" />
+    <option name="totallyTimeSpent" value="75899000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21428572" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21428572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -385,8 +353,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.38421598" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.49013498" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.38421598" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5244029" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -979,6 +947,12 @@
           <properties />
           <option name="timeStamp" value="113" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_005_8_SwitchStatement/Ebb.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/_020_006_SwitchExample/Ebb.java</url>
           <line>3</line>
@@ -1053,13 +1027,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/_002_9_CastingClasses/Tree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_002_002_Polymorphism/Cowboy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -1399,8 +1366,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_005_5_LoopVariants/Loopy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        <state relative-caret-position="306">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_005_8_SwitchStatement/Ebb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
         </state>
       </provider>
     </entry>
