@@ -5,7 +5,7 @@ public class Cowboys {
         int x = 12;
         int a = 5;
         int b = 7;
-        
+
         System.out.println(x/a + " " + x/b);        //2 1
 
         System.out.println("" + x+a + " " + x/b);    //125 1
