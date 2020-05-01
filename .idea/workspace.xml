@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a6a57ec-8c92-4d88-99ea-4d1afff1d253" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TestPreparation/src/_006_9_StringBuilderAndStringObjects/Mounds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestPreparation/src/_006_10_ObjectsReferences/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestPreparation/src/_006_10_ObjectsReferences/Laser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,11 +67,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestPreparation/src/_006_9_StringBuilderAndStringObjects/Mounds.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+            <state relative-caret-position="221">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestPreparation/src/_006_10_ObjectsReferences/Box.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TestPreparation/src/_006_10_ObjectsReferences/Laser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -92,9 +111,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_05/pkgB/Baz.java" />
-        <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_06/Device.java" />
-        <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_06/Phone1.java" />
         <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_06/Phone2.java" />
         <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_06/Electronic.java" />
         <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_06/Phone3.java" />
@@ -143,6 +159,9 @@
         <option value="$PROJECT_DIR$/TestPreparation/src/_006_7_MultipleArray/Tailor.java" />
         <option value="$PROJECT_DIR$/TestPreparation/src/_006_8_StringBuilderAndString/StringBuilderAndString.java" />
         <option value="$PROJECT_DIR$/TestPreparation/src/_006_9_StringBuilderAndStringObjects/Mounds.java" />
+        <option value="$PROJECT_DIR$/TestPreparation/src/_006_10_ObjectsReferences/ObjectsReferences.java" />
+        <option value="$PROJECT_DIR$/TestPreparation/src/_006_10_ObjectsReferences/Box.java" />
+        <option value="$PROJECT_DIR$/TestPreparation/src/_006_10_ObjectsReferences/Laser.java" />
       </list>
     </option>
   </component>
@@ -188,6 +207,13 @@
               <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_006_9_StringBuilderAndStringObjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OCA" type="462c0819:PsiDirectoryNode" />
+              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_006_10_ObjectsReferences" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -242,20 +268,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Mounds">
+  <component name="RunManager" selected="Application.Laser">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dims" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_006_4_ArrayDeclarations.Dims" />
+    <configuration name="Laser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_006_10_ObjectsReferences.Laser" />
       <module name="OCA" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_006_4_ArrayDeclarations.*" />
+          <option name="PATTERN" value="_006_10_ObjectsReferences.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -360,19 +386,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.OCA" />
-      <item itemvalue="Application.Dims" />
       <item itemvalue="Application.Sequence" />
       <item itemvalue="Application.Tailor" />
       <item itemvalue="Application.StringBuilderAndString" />
       <item itemvalue="Application.Mounds" />
+      <item itemvalue="Application.Laser" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Laser" />
         <item itemvalue="Application.Mounds" />
         <item itemvalue="Application.StringBuilderAndString" />
         <item itemvalue="Application.Tailor" />
         <item itemvalue="Application.Sequence" />
-        <item itemvalue="Application.Dims" />
       </list>
     </recent_temporary>
   </component>
@@ -409,7 +435,7 @@
       <workItem from="1562399009260" duration="10295000" />
       <workItem from="1575707552892" duration="18000" />
       <workItem from="1575741902314" duration="82000" />
-      <workItem from="1588317299368" duration="5497000" />
+      <workItem from="1588317299368" duration="6269000" />
     </task>
     <task id="LOCAL-00001" summary="TestComm">
       <created>1588317550186</created>
@@ -446,11 +472,18 @@
       <option name="project" value="LOCAL" />
       <updated>1588323716312</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="String and StringBuilder objects">
+      <created>1588324133951</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1588324133951</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56380000" />
+    <option name="totallyTimeSpent" value="57152000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -497,7 +530,8 @@
     <MESSAGE value="ArrayList insert" />
     <MESSAGE value="Multidimensional Array" />
     <MESSAGE value="String and StringBuilder behaviour" />
-    <option name="LAST_COMMIT_MESSAGE" value="String and StringBuilder behaviour" />
+    <MESSAGE value="String and StringBuilder objects" />
+    <option name="LAST_COMMIT_MESSAGE" value="String and StringBuilder objects" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -548,20 +582,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_06/Electronic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_06/Phone3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_07/Announce.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -880,8 +900,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TestPreparation/src/_006_9_StringBuilderAndStringObjects/Mounds.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestPreparation/src/_006_10_ObjectsReferences/Box.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestPreparation/src/_006_10_ObjectsReferences/Laser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
         </state>
       </provider>
     </entry>
