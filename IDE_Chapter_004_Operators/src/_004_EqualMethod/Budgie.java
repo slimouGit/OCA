@@ -15,6 +15,7 @@ public class Budgie {
         System.out.println(s1.equals(s2)); //true
         System.out.println(s1.equals(s3)); //false
     }
+    
 
     /**
      * OUTPUT
