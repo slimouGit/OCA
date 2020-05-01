@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a6a57ec-8c92-4d88-99ea-4d1afff1d253" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TestPreparation/src/_006_4_ArrayDeclarations/Dims.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/OCA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/OCA.iml" afterDir="false" />
+    <list default="true" id="4a6a57ec-8c92-4d88-99ea-4d1afff1d253" name="Default Changelist" comment="_006_4_ArrayCastigExceptions">
+      <change afterPath="$PROJECT_DIR$/TestPreparation/src/_006_5_ArrayListInsertStatements/Sequence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IDE_Chapter_004_Operators/src/_004_EqualMethod/Budgie.java" beforeDir="false" afterPath="$PROJECT_DIR$/IDE_Chapter_004_Operators/src/_004_EqualMethod/Budgie.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,11 +30,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestPreparation/src/_006_4_ArrayDeclarations/Dims.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
               <caret line="8" column="57" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TestPreparation/src/_006_5_ArrayListInsertStatements/Sequence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -58,7 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_04/Animals.java" />
         <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_04/TestEnum.java" />
         <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_05/pkgA/Foo.java" />
         <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_05/pkgB/ClooFoo.java" />
@@ -109,6 +115,7 @@
         <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/inheritance_03/Frodo.java" />
         <option value="$PROJECT_DIR$/IDE_Chapter_004_Operators/src/_004_EqualMethod/Budgie.java" />
         <option value="$PROJECT_DIR$/TestPreparation/src/_006_4_ArrayDeclarations/Dims.java" />
+        <option value="$PROJECT_DIR$/TestPreparation/src/_006_5_ArrayListInsertStatements/Sequence.java" />
       </list>
     </option>
   </component>
@@ -146,7 +153,7 @@
               <item name="OCA" type="462c0819:PsiDirectoryNode" />
               <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_006_4_ArrayDeclarations" type="462c0819:PsiDirectoryNode" />
+              <item name="_006_5_ArrayListInsertStatements" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -201,7 +208,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Dims">
+  <component name="RunManager" selected="Application.Sequence">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -215,20 +222,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="_006_4_ArrayDeclarations.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Frodo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_000_Sandbox.inheritance_03.Frodo" />
-      <module name="OCA" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_000_Sandbox.inheritance_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -254,6 +247,20 @@
       <option name="MAIN_CLASS_NAME" value="com.sun.java.util.jar.pack.Driver" />
       <module name="OCA" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_006_5_ArrayListInsertStatements.Sequence" />
+      <module name="OCA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_006_5_ArrayListInsertStatements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -319,19 +326,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.OCA" />
-      <item itemvalue="Application.Frodo" />
       <item itemvalue="Application.Sohn" />
       <item itemvalue="Application.Zippy" />
       <item itemvalue="Application.Mixer" />
       <item itemvalue="Application.Dims" />
+      <item itemvalue="Application.Sequence" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sequence" />
         <item itemvalue="Application.Dims" />
         <item itemvalue="Application.Mixer" />
         <item itemvalue="Application.Zippy" />
         <item itemvalue="Application.Sohn" />
-        <item itemvalue="Application.Frodo" />
       </list>
     </recent_temporary>
   </component>
@@ -368,7 +375,7 @@
       <workItem from="1562399009260" duration="10295000" />
       <workItem from="1575707552892" duration="18000" />
       <workItem from="1575741902314" duration="82000" />
-      <workItem from="1588317299368" duration="2537000" />
+      <workItem from="1588317299368" duration="3621000" />
     </task>
     <task id="LOCAL-00001" summary="TestComm">
       <created>1588317550186</created>
@@ -377,17 +384,24 @@
       <option name="project" value="LOCAL" />
       <updated>1588317550186</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="_006_4_ArrayCastigExceptions">
+      <created>1588320446669</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588320446669</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53420000" />
+    <option name="totallyTimeSpent" value="54504000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23347548" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23347548" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -397,7 +411,7 @@
       <window_info anchor="bottom" id="Sequence" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32917964" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31568018" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31568018" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.33541018" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -424,7 +438,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="TestComm" />
-    <option name="LAST_COMMIT_MESSAGE" value="TestComm" />
+    <MESSAGE value="_006_4_ArrayCastigExceptions" />
+    <option name="LAST_COMMIT_MESSAGE" value="_006_4_ArrayCastigExceptions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -445,13 +460,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_05/pkgA/Foo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_06/Phone1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -779,6 +787,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="57" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestPreparation/src/_006_5_ArrayListInsertStatements/Sequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
         </state>
       </provider>
     </entry>
