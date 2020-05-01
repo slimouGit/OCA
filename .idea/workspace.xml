@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a6a57ec-8c92-4d88-99ea-4d1afff1d253" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/TestPreparation/src/_006_4_ArrayDeclarations/Dims.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/OCA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/OCA.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IDE_Chapter_004_Operators/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/IDE_Chapter_004_Operators/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OCA_Test/OCA_Test.indd" beforeDir="false" afterPath="$PROJECT_DIR$/OCA_Test/OCA_Test.indd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OCA_Test/OCA_Test.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/OCA_Test/OCA_Test.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_004_Operators/src/_004_EqualMethod/Budgie.java" beforeDir="false" afterPath="$PROJECT_DIR$/IDE_Chapter_004_Operators/src/_004_EqualMethod/Budgie.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,8 +33,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/IDE_Chapter_004_Operators/src/_004_EqualMethod/Budgie.java">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/TestPreparation/src/_006_4_ArrayDeclarations/Dims.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="57" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -54,8 +58,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_03/class__.java" />
-        <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_03/_.java" />
         <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_04/Animals.java" />
         <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_04/TestEnum.java" />
         <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_05/pkgA/Foo.java" />
@@ -105,6 +107,8 @@
         <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/enums_02/WeekDays.java" />
         <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/inheritance_03/Hobbit.java" />
         <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/inheritance_03/Frodo.java" />
+        <option value="$PROJECT_DIR$/IDE_Chapter_004_Operators/src/_004_EqualMethod/Budgie.java" />
+        <option value="$PROJECT_DIR$/TestPreparation/src/_006_4_ArrayDeclarations/Dims.java" />
       </list>
     </option>
   </component>
@@ -119,8 +123,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -131,32 +133,27 @@
             <path>
               <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
               <item name="OCA" type="462c0819:PsiDirectoryNode" />
-              <item name="IDE_Chapter_004_Operators" type="462c0819:PsiDirectoryNode" />
+              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
               <item name="OCA" type="462c0819:PsiDirectoryNode" />
-              <item name="IDE_Chapter_004_Operators" type="462c0819:PsiDirectoryNode" />
+              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
               <item name="OCA" type="462c0819:PsiDirectoryNode" />
-              <item name="IDE_Chapter_004_Operators" type="462c0819:PsiDirectoryNode" />
+              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_004_EqualMethod" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OCA" type="462c0819:PsiDirectoryNode" />
-              <item name="IDE_Chapter_004_Operators" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_008_TernaryOperator" type="462c0819:PsiDirectoryNode" />
+              <item name="_006_4_ArrayDeclarations" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -204,9 +201,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Sohn">
+  <component name="RunManager" selected="Application.Dims">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dims" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_006_4_ArrayDeclarations.Dims" />
+      <module name="OCA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_006_4_ArrayDeclarations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -225,27 +236,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_000_Sandbox.enums_01.Main" />
+    <configuration name="Mixer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_006_003_ObjectInstances.Mixer" />
       <module name="OCA" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_000_Sandbox.enums_01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Mercedes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_000_Sandbox.extendClasses_01.Mercedes" />
-      <module name="OCA" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_000_Sandbox.extendClasses_01.*" />
+          <option name="PATTERN" value="_006_003_ObjectInstances.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -275,13 +272,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WeekDays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_000_Sandbox.enums_02.WeekDays" />
+    <configuration name="Zippy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_000_OCA_Array_001.Zippy" />
       <module name="OCA" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_000_Sandbox.enums_02.*" />
+          <option name="PATTERN" value="_000_OCA_Array_001.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -322,19 +319,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.OCA" />
-      <item itemvalue="Application.Mercedes" />
-      <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.WeekDays" />
       <item itemvalue="Application.Frodo" />
       <item itemvalue="Application.Sohn" />
+      <item itemvalue="Application.Zippy" />
+      <item itemvalue="Application.Mixer" />
+      <item itemvalue="Application.Dims" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Dims" />
+        <item itemvalue="Application.Mixer" />
+        <item itemvalue="Application.Zippy" />
         <item itemvalue="Application.Sohn" />
         <item itemvalue="Application.Frodo" />
-        <item itemvalue="Application.WeekDays" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Mercedes" />
       </list>
     </recent_temporary>
   </component>
@@ -371,26 +368,36 @@
       <workItem from="1562399009260" duration="10295000" />
       <workItem from="1575707552892" duration="18000" />
       <workItem from="1575741902314" duration="82000" />
+      <workItem from="1588317299368" duration="2537000" />
     </task>
+    <task id="LOCAL-00001" summary="TestComm">
+      <created>1588317550186</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588317550186</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50883000" />
+    <option name="totallyTimeSpent" value="53420000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23081024" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23347548" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Sequence" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32917964" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31568018" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31568018" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.33541018" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -415,6 +422,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TestComm" />
+    <option name="LAST_COMMIT_MESSAGE" value="TestComm" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -434,27 +445,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_04/TestEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_05/pkgB/Baz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_05/pkgB/ClooFoo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_05/pkgA/Foo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -765,7 +755,32 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/IDE_Chapter_004_Operators/src/_004_EqualMethod/Budgie.java">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestPreparation/src/_000_OCA_Array_001/Zippy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestPreparation/src/_006_003_ObjectInstances/Mixer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestPreparation/src/_006_4_ArrayDeclarations/Dims.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="57" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
