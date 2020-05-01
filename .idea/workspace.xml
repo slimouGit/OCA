@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a6a57ec-8c92-4d88-99ea-4d1afff1d253" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TestPreparation/src/_006_7_MultipleArray/Tailor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestPreparation/src/_006_8_StringBuilderAndString/StringBuilderAndString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,11 +48,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestPreparation/src/_006_7_MultipleArray/Tailor.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+              <caret line="5" column="85" selection-start-line="5" selection-start-column="85" selection-end-line="5" selection-end-column="85" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TestPreparation/src/_006_8_StringBuilderAndString/StringBuilderAndString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="86" selection-start-line="6" selection-start-column="86" selection-end-line="6" selection-end-column="86" />
             </state>
           </provider>
         </entry>
@@ -73,7 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_05/pkgA/Foo.java" />
         <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_05/pkgB/ClooFoo.java" />
         <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_05/pkgB/Baz.java" />
         <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_06/Device.java" />
@@ -124,6 +133,7 @@
         <option value="$PROJECT_DIR$/TestPreparation/src/_006_4_ArrayDeclarations/Dims.java" />
         <option value="$PROJECT_DIR$/TestPreparation/src/_006_5_ArrayListInsertStatements/Sequence.java" />
         <option value="$PROJECT_DIR$/TestPreparation/src/_006_7_MultipleArray/Tailor.java" />
+        <option value="$PROJECT_DIR$/TestPreparation/src/_006_8_StringBuilderAndString/StringBuilderAndString.java" />
       </list>
     </option>
   </component>
@@ -169,6 +179,13 @@
               <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_006_7_MultipleArray" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OCA" type="462c0819:PsiDirectoryNode" />
+              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_006_8_StringBuilderAndString" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -223,7 +240,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Tailor">
+  <component name="RunManager" selected="Application.StringBuilderAndString">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -280,13 +297,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tailor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_006_7_MultipleArray.Tailor" />
+    <configuration name="StringBuilderAndString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_006_8_StringBuilderAndString.StringBuilderAndString" />
       <module name="OCA" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_006_7_MultipleArray.*" />
+          <option name="PATTERN" value="_006_8_StringBuilderAndString.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -294,13 +311,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zippy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_000_OCA_Array_001.Zippy" />
+    <configuration name="Tailor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_006_7_MultipleArray.Tailor" />
       <module name="OCA" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_000_OCA_Array_001.*" />
+          <option name="PATTERN" value="_006_7_MultipleArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -341,19 +358,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.OCA" />
-      <item itemvalue="Application.Zippy" />
       <item itemvalue="Application.Mixer" />
       <item itemvalue="Application.Dims" />
       <item itemvalue="Application.Sequence" />
       <item itemvalue="Application.Tailor" />
+      <item itemvalue="Application.StringBuilderAndString" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringBuilderAndString" />
         <item itemvalue="Application.Tailor" />
         <item itemvalue="Application.Sequence" />
         <item itemvalue="Application.Dims" />
         <item itemvalue="Application.Mixer" />
-        <item itemvalue="Application.Zippy" />
       </list>
     </recent_temporary>
   </component>
@@ -390,7 +407,7 @@
       <workItem from="1562399009260" duration="10295000" />
       <workItem from="1575707552892" duration="18000" />
       <workItem from="1575741902314" duration="82000" />
-      <workItem from="1588317299368" duration="4468000" />
+      <workItem from="1588317299368" duration="5165000" />
     </task>
     <task id="LOCAL-00001" summary="TestComm">
       <created>1588317550186</created>
@@ -413,17 +430,24 @@
       <option name="project" value="LOCAL" />
       <updated>1588322034540</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Multidimensional Array">
+      <created>1588323070335</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588323070335</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55351000" />
+    <option name="totallyTimeSpent" value="56048000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23347548" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23347548" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -433,8 +457,8 @@
       <window_info anchor="bottom" id="Sequence" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32917964" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31568018" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.33541018" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31568018" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.33541018" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -462,7 +486,8 @@
     <MESSAGE value="TestComm" />
     <MESSAGE value="_006_4_ArrayCastigExceptions" />
     <MESSAGE value="ArrayList insert" />
-    <option name="LAST_COMMIT_MESSAGE" value="ArrayList insert" />
+    <MESSAGE value="Multidimensional Array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Multidimensional Array" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -479,17 +504,16 @@
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TestPreparation/src/_006_8_StringBuilderAndString/StringBuilderAndString.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_06/Phone2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_06/Device.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -816,7 +840,14 @@
     <entry file="file://$PROJECT_DIR$/TestPreparation/src/_006_7_MultipleArray/Tailor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+          <caret line="5" column="85" selection-start-line="5" selection-start-column="85" selection-end-line="5" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestPreparation/src/_006_8_StringBuilderAndString/StringBuilderAndString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="86" selection-start-line="6" selection-start-column="86" selection-end-line="6" selection-end-column="86" />
         </state>
       </provider>
     </entry>
