@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a6a57ec-8c92-4d88-99ea-4d1afff1d253" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/AccessibiltyInOtherPackages/One/OtherClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/AccessibiltyInOtherPackages/Two/AccessClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/InheritantMembers/Moo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/InheritantMembers/Zoo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,17 +43,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/AccessibiltyInOtherPackages/One/OtherClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+            <state relative-caret-position="272">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/AccessibiltyInOtherPackages/Two/AccessClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/InheritantMembers/Zoo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/AccessibiltyInOtherPackages/Two/AccessClass.java">
+        <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/InheritantMembers/Moo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+            <state relative-caret-position="136">
+              <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -75,8 +93,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_09/Frodo.java" />
-        <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_10/Gadget.java" />
         <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_10/Electronic.java" />
         <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_10/Tablet.java" />
         <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_11/StatTest.java" />
@@ -124,8 +140,10 @@
         <option value="$PROJECT_DIR$/TestPreparation/src/_006_13_LambdaPredicates/Sheep.java" />
         <option value="$PROJECT_DIR$/TestPreparation/2TrySucceed" />
         <option value="$PROJECT_DIR$/TestPreparation/src/_000_OCA_Array_001/Zippy.java" />
-        <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/AccessibiltyInOtherPackages/One/OtherClass.java" />
         <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/AccessibiltyInOtherPackages/Two/AccessClass.java" />
+        <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/AccessibiltyInOtherPackages/One/OtherClass.java" />
+        <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/InheritantMembers/Zoo.java" />
+        <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/InheritantMembers/Moo.java" />
       </list>
     </option>
   </component>
@@ -172,7 +190,7 @@
               <item name="IDE_Chapter_001__DeclarationAndAccessControl" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_000_Sandbox" type="462c0819:PsiDirectoryNode" />
-              <item name="AccessibiltyInOtherPackages" type="462c0819:PsiDirectoryNode" />
+              <item name="InheritantMembers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
@@ -180,17 +198,8 @@
               <item name="IDE_Chapter_001__DeclarationAndAccessControl" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_000_Sandbox" type="462c0819:PsiDirectoryNode" />
-              <item name="AccessibiltyInOtherPackages" type="462c0819:PsiDirectoryNode" />
-              <item name="One" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OCA" type="462c0819:PsiDirectoryNode" />
-              <item name="IDE_Chapter_001__DeclarationAndAccessControl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_000_Sandbox" type="462c0819:PsiDirectoryNode" />
-              <item name="AccessibiltyInOtherPackages" type="462c0819:PsiDirectoryNode" />
-              <item name="Two" type="462c0819:PsiDirectoryNode" />
+              <item name="InheritantMembers" type="462c0819:PsiDirectoryNode" />
+              <item name="Zoo" type="1a9f42e2:ClassTreeNode" />
             </path>
             <path>
               <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
@@ -231,8 +240,12 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="_007_Interface_Constants" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\git_repo\OCA\IDE_Chapter_001__DeclarationAndAccessControl\src\_016_protectedMembers\parent" />
+      <recent name="F:\git_repo\OCA\IDE_Chapter_001__DeclarationAndAccessControl\src\_016_protectedMembers\child" />
+      <recent name="F:\git_repo\OCA\IDE_Chapter_001__DeclarationAndAccessControl\src\_004_Final_Access\Beverage" />
+      <recent name="F:\git_repo\OCA\IDE_Chapter_001__DeclarationAndAccessControl\src\_003_Default_Access\Beverage" />
+      <recent name="F:\git_repo\OCA\IDE_Chapter_001__DeclarationAndAccessControl\src\_014_inherit_public_members_in_different_packages\Cloo" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\git_repo\OCA\IDE_Chapter_001__DeclarationAndAccessControl\src\_024_Test\_01" />
@@ -242,12 +255,8 @@
       <recent name="_000_Sandbox.enums_01" />
       <recent name="_000_Sandbox.inheritance_02.family" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\git_repo\OCA\IDE_Chapter_001__DeclarationAndAccessControl\src\_016_protectedMembers\parent" />
-      <recent name="F:\git_repo\OCA\IDE_Chapter_001__DeclarationAndAccessControl\src\_016_protectedMembers\child" />
-      <recent name="F:\git_repo\OCA\IDE_Chapter_001__DeclarationAndAccessControl\src\_004_Final_Access\Beverage" />
-      <recent name="F:\git_repo\OCA\IDE_Chapter_001__DeclarationAndAccessControl\src\_003_Default_Access\Beverage" />
-      <recent name="F:\git_repo\OCA\IDE_Chapter_001__DeclarationAndAccessControl\src\_014_inherit_public_members_in_different_packages\Cloo" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="_007_Interface_Constants" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -262,7 +271,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AccessClass">
+  <component name="RunManager" selected="Application.Moo">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -297,13 +306,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hedges" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_006_11_StringOperations.Hedges" />
+    <configuration name="Moo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_000_Sandbox.InheritantMembers.Moo" />
       <module name="OCA" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_006_11_StringOperations.*" />
+          <option name="PATTERN" value="_000_Sandbox.InheritantMembers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -380,19 +389,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.OCA" />
-      <item itemvalue="Application.Hedges" />
       <item itemvalue="Application.Sheep" />
       <item itemvalue="Application.Zippy" />
       <item itemvalue="Application.AfterStaticImports" />
       <item itemvalue="Application.AccessClass" />
+      <item itemvalue="Application.Moo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Moo" />
         <item itemvalue="Application.AccessClass" />
         <item itemvalue="Application.AfterStaticImports" />
         <item itemvalue="Application.Zippy" />
         <item itemvalue="Application.Sheep" />
-        <item itemvalue="Application.Hedges" />
       </list>
     </recent_temporary>
   </component>
@@ -431,7 +440,7 @@
       <workItem from="1575741902314" duration="82000" />
       <workItem from="1588317299368" duration="7328000" />
       <workItem from="1600533245614" duration="700000" />
-      <workItem from="1600591452211" duration="5758000" />
+      <workItem from="1600591452211" duration="6518000" />
     </task>
     <task id="LOCAL-00001" summary="TestComm">
       <created>1588317550186</created>
@@ -503,11 +512,18 @@
       <option name="project" value="LOCAL" />
       <updated>1600594889107</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Accessibility from other packages">
+      <created>1600618350360</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1600618350360</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64669000" />
+    <option name="totallyTimeSpent" value="65429000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="290" y="19" width="1378" height="943" extended-state="0" />
@@ -559,7 +575,8 @@
     <MESSAGE value="StringOperations" />
     <MESSAGE value="New successful try" />
     <MESSAGE value="print arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="print arrays" />
+    <MESSAGE value="Accessibility from other packages" />
+    <option name="LAST_COMMIT_MESSAGE" value="Accessibility from other packages" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -622,14 +639,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_13/Main.java" />
-    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_13/Statement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_014_inherit_public_members_in_different_packages/Roo/Roo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -943,15 +952,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/AccessibiltyInOtherPackages/One/OtherClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/AccessibiltyInOtherPackages/Two/AccessClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        <state relative-caret-position="221">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/InheritantMembers/Zoo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/InheritantMembers/Moo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
         </state>
       </provider>
     </entry>
