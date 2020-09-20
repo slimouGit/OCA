@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a6a57ec-8c92-4d88-99ea-4d1afff1d253" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/ProtectedMembers/child/child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/ProtectedMembers/parent/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/FinalClassesNotExtendable/one/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/FinalClassesNotExtendable/one/TeaFromSamePackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/FinalClassesNotExtendable/two/Tea.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,11 +77,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/ProtectedMembers/child/child.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/FinalClassesNotExtendable/one/Beverage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/FinalClassesNotExtendable/two/Tea.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/FinalClassesNotExtendable/one/TeaFromSamePackage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -102,9 +130,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_11/StatTest.java" />
-        <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_12/MyInterface.java" />
-        <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_12/Main.java" />
         <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_13/Main.java" />
         <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_024_Test/_13/Statement.java" />
         <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/inheritance/child/Sohn.java" />
@@ -153,6 +178,9 @@
         <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/InheritantMembers/Moo.java" />
         <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/ProtectedMembers/parent/Parent.java" />
         <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/ProtectedMembers/child/child.java" />
+        <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/FinalClassesNotExtendable/one/Beverage.java" />
+        <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/FinalClassesNotExtendable/one/TeaFromSamePackage.java" />
+        <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/FinalClassesNotExtendable/two/Tea.java" />
       </list>
     </option>
   </component>
@@ -199,7 +227,7 @@
               <item name="IDE_Chapter_001__DeclarationAndAccessControl" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_000_Sandbox" type="462c0819:PsiDirectoryNode" />
-              <item name="ProtectedMembers" type="462c0819:PsiDirectoryNode" />
+              <item name="FinalClassesNotExtendable" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
@@ -207,8 +235,8 @@
               <item name="IDE_Chapter_001__DeclarationAndAccessControl" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_000_Sandbox" type="462c0819:PsiDirectoryNode" />
-              <item name="ProtectedMembers" type="462c0819:PsiDirectoryNode" />
-              <item name="child" type="462c0819:PsiDirectoryNode" />
+              <item name="FinalClassesNotExtendable" type="462c0819:PsiDirectoryNode" />
+              <item name="one" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
@@ -216,8 +244,8 @@
               <item name="IDE_Chapter_001__DeclarationAndAccessControl" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_000_Sandbox" type="462c0819:PsiDirectoryNode" />
-              <item name="ProtectedMembers" type="462c0819:PsiDirectoryNode" />
-              <item name="parent" type="462c0819:PsiDirectoryNode" />
+              <item name="FinalClassesNotExtendable" type="462c0819:PsiDirectoryNode" />
+              <item name="two" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
@@ -458,7 +486,7 @@
       <workItem from="1575741902314" duration="82000" />
       <workItem from="1588317299368" duration="7328000" />
       <workItem from="1600533245614" duration="700000" />
-      <workItem from="1600591452211" duration="7473000" />
+      <workItem from="1600591452211" duration="7744000" />
     </task>
     <task id="LOCAL-00001" summary="TestComm">
       <created>1588317550186</created>
@@ -551,11 +579,18 @@
       <option name="project" value="LOCAL" />
       <updated>1600619133932</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Protected Members">
+      <created>1600619832545</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1600619832545</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66384000" />
+    <option name="totallyTimeSpent" value="66655000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="290" y="19" width="1378" height="943" extended-state="0" />
@@ -609,7 +644,8 @@
     <MESSAGE value="print arrays" />
     <MESSAGE value="Accessibility from other packages" />
     <MESSAGE value="Inheritant Members" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inheritant Members" />
+    <MESSAGE value="Protected Members" />
+    <option name="LAST_COMMIT_MESSAGE" value="Protected Members" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -672,27 +708,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/inheritance_02/family/Vater.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/inheritance_01/parent/Vater.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/inheritance_02/family/Sohn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/abstractClasses_01/Vehicle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -1008,6 +1023,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/FinalClassesNotExtendable/one/Beverage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/FinalClassesNotExtendable/one/TeaFromSamePackage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/FinalClassesNotExtendable/two/Tea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
         </state>
       </provider>
     </entry>
