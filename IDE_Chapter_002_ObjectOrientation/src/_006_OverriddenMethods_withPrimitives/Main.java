@@ -17,5 +17,12 @@ public class Main {
 
         Horse h2 = new Horse();
         h2.buck();
+
+        if(a instanceof Horse){
+            System.out.println("a instanceof Horse");
+        }
+        if(h instanceof Animal){
+            System.out.println("h instanceof Animal");
+        }
     }
 }
