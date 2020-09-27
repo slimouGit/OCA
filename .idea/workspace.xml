@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a6a57ec-8c92-4d88-99ea-4d1afff1d253" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/IDE_Chapter_004_Operators/src/_000_Sandbox/_009_XOR_Operator/XOR_Operator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IDE_Chapter_002_ObjectOrientation/src/_006_OverriddenMethods_withPrimitives/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/IDE_Chapter_002_ObjectOrientation/src/_006_OverriddenMethods_withPrimitives/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +32,16 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/IDE_Chapter_002_ObjectOrientation/src/_006_OverriddenMethods_withPrimitives/Horse.java">
+        <entry file="file://$PROJECT_DIR$/IDE_Chapter_004_Operators/src/_009_BitwiseOperators/BitWiseOperators.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IDE_Chapter_004_Operators/src/_010_ShortCircuitLogicalOperators/ShortCircuitLogicalOperators.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -40,19 +50,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/IDE_Chapter_002_ObjectOrientation/src/_006_OverriddenMethods_withPrimitives/Animal.java">
+        <entry file="file://$PROJECT_DIR$/IDE_Chapter_004_Operators/src/_010_ShortCircuitLogicalOperators/ShortCircuitLogicalOperators2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/IDE_Chapter_002_ObjectOrientation/src/_006_OverriddenMethods_withPrimitives/Main.java">
+        <entry file="file://$PROJECT_DIR$/IDE_Chapter_004_Operators/src/_000_Sandbox/_009_XOR_Operator/XOR_Operator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+            <state relative-caret-position="136">
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -74,7 +84,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/extendClasses_01/Car.java" />
         <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/extendClasses_01/Mercedes.java" />
         <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/extendClasses_01/Vehicle.java" />
         <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/enums_01/HE_Type.java" />
@@ -125,6 +134,7 @@
         <option value="$PROJECT_DIR$/TestPreparation/src/_034_Exceptions/StackTrace.java" />
         <option value="$PROJECT_DIR$/IDE_Chapter_002_ObjectOrientation/src/_000_Sandbox/_016_CompareObjects/UnbekanntesFlugObjekt.java" />
         <option value="$PROJECT_DIR$/IDE_Chapter_002_ObjectOrientation/src/_006_OverriddenMethods_withPrimitives/Main.java" />
+        <option value="$PROJECT_DIR$/IDE_Chapter_004_Operators/src/_000_Sandbox/_009_XOR_Operator/XOR_Operator.java" />
       </list>
     </option>
   </component>
@@ -149,46 +159,42 @@
             <path>
               <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
               <item name="OCA" type="462c0819:PsiDirectoryNode" />
-              <item name="IDE_Chapter_002_ObjectOrientation" type="462c0819:PsiDirectoryNode" />
+              <item name="IDE_Chapter_004_Operators" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
               <item name="OCA" type="462c0819:PsiDirectoryNode" />
-              <item name="IDE_Chapter_002_ObjectOrientation" type="462c0819:PsiDirectoryNode" />
+              <item name="IDE_Chapter_004_Operators" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
               <item name="OCA" type="462c0819:PsiDirectoryNode" />
-              <item name="IDE_Chapter_002_ObjectOrientation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_000_Sandbox" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OCA" type="462c0819:PsiDirectoryNode" />
-              <item name="IDE_Chapter_002_ObjectOrientation" type="462c0819:PsiDirectoryNode" />
+              <item name="IDE_Chapter_004_Operators" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_000_Sandbox" type="462c0819:PsiDirectoryNode" />
-              <item name="_016_CompareObjects" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
               <item name="OCA" type="462c0819:PsiDirectoryNode" />
-              <item name="IDE_Chapter_002_ObjectOrientation" type="462c0819:PsiDirectoryNode" />
+              <item name="IDE_Chapter_004_Operators" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_006_OverriddenMethods_withPrimitives" type="462c0819:PsiDirectoryNode" />
+              <item name="_000_Sandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="_009_XOR_Operator" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
               <item name="OCA" type="462c0819:PsiDirectoryNode" />
-              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OCA" type="462c0819:PsiDirectoryNode" />
-              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
+              <item name="IDE_Chapter_004_Operators" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_009_BitwiseOperators" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OCA" type="462c0819:PsiDirectoryNode" />
+              <item name="IDE_Chapter_004_Operators" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_010_ShortCircuitLogicalOperators" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
@@ -242,8 +248,12 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="_007_Interface_Constants" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\git_repo\OCA\IDE_Chapter_001__DeclarationAndAccessControl\src\_016_protectedMembers\parent" />
+      <recent name="F:\git_repo\OCA\IDE_Chapter_001__DeclarationAndAccessControl\src\_016_protectedMembers\child" />
+      <recent name="F:\git_repo\OCA\IDE_Chapter_001__DeclarationAndAccessControl\src\_004_Final_Access\Beverage" />
+      <recent name="F:\git_repo\OCA\IDE_Chapter_001__DeclarationAndAccessControl\src\_003_Default_Access\Beverage" />
+      <recent name="F:\git_repo\OCA\IDE_Chapter_001__DeclarationAndAccessControl\src\_014_inherit_public_members_in_different_packages\Cloo" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\git_repo\OCA\IDE_Chapter_002_ObjectOrientation\src\_000_Sandbox\_015_Casting\UpCasting" />
@@ -254,12 +264,8 @@
       <recent name="_000_Sandbox.enums_01" />
       <recent name="_000_Sandbox.inheritance_02.family" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\git_repo\OCA\IDE_Chapter_001__DeclarationAndAccessControl\src\_016_protectedMembers\parent" />
-      <recent name="F:\git_repo\OCA\IDE_Chapter_001__DeclarationAndAccessControl\src\_016_protectedMembers\child" />
-      <recent name="F:\git_repo\OCA\IDE_Chapter_001__DeclarationAndAccessControl\src\_004_Final_Access\Beverage" />
-      <recent name="F:\git_repo\OCA\IDE_Chapter_001__DeclarationAndAccessControl\src\_003_Default_Access\Beverage" />
-      <recent name="F:\git_repo\OCA\IDE_Chapter_001__DeclarationAndAccessControl\src\_014_inherit_public_members_in_different_packages\Cloo" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="_007_Interface_Constants" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -274,9 +280,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.XOR_Operator">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BitWiseOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_009_BitwiseOperators.BitWiseOperators" />
+      <module name="IDE_Chapter_004_Operators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_009_BitwiseOperators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Coffee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_023_ENUMS.Coffee" />
+      <module name="OCA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_023_ENUMS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -303,48 +337,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackTrace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_034_Exceptions.StackTrace" />
-      <module name="OCA" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_034_Exceptions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sub (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_000_Sandbox._015_Casting.UpCasting.Sub" />
-      <module name="IDE_Chapter_002_ObjectOrientation" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_000_Sandbox._015_Casting.UpCasting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_000_Sandbox._015_Casting.DownCasting.Sub" />
-      <module name="IDE_Chapter_002_ObjectOrientation" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_000_Sandbox._015_Casting.DownCasting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="UnbekanntesFlugObjekt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_000_Sandbox._016_CompareObjects.UnbekanntesFlugObjekt" />
       <module name="IDE_Chapter_002_ObjectOrientation" />
@@ -352,6 +344,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="_000_Sandbox._016_CompareObjects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XOR_Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_000_Sandbox._009_XOR_Operator.XOR_Operator" />
+      <module name="IDE_Chapter_004_Operators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_000_Sandbox._009_XOR_Operator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -392,19 +398,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.OCA" />
-      <item itemvalue="Application.Sub" />
-      <item itemvalue="Application.Sub (1)" />
-      <item itemvalue="Application.StackTrace" />
       <item itemvalue="Application.UnbekanntesFlugObjekt" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Coffee" />
+      <item itemvalue="Application.BitWiseOperators" />
+      <item itemvalue="Application.XOR_Operator" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.XOR_Operator" />
+        <item itemvalue="Application.BitWiseOperators" />
+        <item itemvalue="Application.Coffee" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.UnbekanntesFlugObjekt" />
-        <item itemvalue="Application.StackTrace" />
-        <item itemvalue="Application.Sub (1)" />
-        <item itemvalue="Application.Sub" />
       </list>
     </recent_temporary>
   </component>
@@ -585,17 +591,24 @@
       <option name="project" value="LOCAL" />
       <updated>1601214568360</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="instance of test">
+      <created>1601216549826</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1601216549826</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83453000" />
+    <option name="totallyTimeSpent" value="85825000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="244" y="98" width="1597" height="944" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3240078" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3240078" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -605,7 +618,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32917964" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37484586" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.37484586" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.33538842" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -691,7 +704,8 @@
     <MESSAGE value="wrong import statement" />
     <MESSAGE value="Down/Up-Casting" />
     <MESSAGE value="Exception message" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exception message" />
+    <MESSAGE value="instance of test" />
+    <option name="LAST_COMMIT_MESSAGE" value="instance of test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -760,138 +774,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/inheritance_01/child/Sohn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IDE_Chapter_004_Operators/src/_008_TernaryOperator/TernaryOperator.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IDE_Chapter_004_Operators/src/_004_EqualMethod/Budgie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestPreparation/src/_006_003_ObjectInstances/Mixer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestPreparation/src/_006_4_ArrayDeclarations/Dims.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="57" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestPreparation/src/_006_5_ArrayListInsertStatements/Sequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="79" selection-start-line="12" selection-start-column="79" selection-end-line="12" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestPreparation/src/_006_7_MultipleArray/Tailor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="85" selection-start-line="5" selection-start-column="85" selection-end-line="5" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestPreparation/src/_006_8_StringBuilderAndString/StringBuilderAndString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="86" selection-start-line="6" selection-start-column="86" selection-end-line="6" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestPreparation/src/_006_9_StringBuilderAndStringObjects/Mounds.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestPreparation/src/_006_10_ObjectsReferences/Box.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestPreparation/src/_006_10_ObjectsReferences/Laser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestPreparation/src/_006_11_StringOperations/Hedges.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestPreparation/src/_000_OCA_Array_001/Zippy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestPreparation/2TrySucceed">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestPreparation/src/_006_13_LambdaPredicates/Sheep.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bash_Chapter_001_DeclarationAndAccessControl/_001/HelloArgs.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_002_static_imports/BeforeStaticImports.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_002_static_imports/AfterStaticImports.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/AccessibiltyInOtherPackages/One/OtherClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/AccessibiltyInOtherPackages/Two/AccessClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/InheritantMembers/Zoo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -1038,8 +920,144 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/IDE_Chapter_002_ObjectOrientation/src/_006_OverriddenMethods_withPrimitives/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        <state relative-caret-position="306">
+          <caret line="24" column="51" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_003_Default_Access/Tea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_003_Default_Access/Beverage/Beverage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_004_Final_Access/Tea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_004_Final_Access/Beverage/Beverage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_005_Abstract_Access_EXERCISE/lunch/Fruit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_005_Abstract_Access_EXERCISE/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_005_Abstract_Access_EXERCISE/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_006_Interface/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_006_Interface/Drivable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_006_Interface/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_018_finalMethodCantBeOverwritten/SubClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_018_finalMethodCantBeOverwritten/SuperClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_021_varArgs/VarArgs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_023_ENUMS/Coffee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_023_ENUMS/CoffeeSize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_004_Operators/IDE_Chapter_004_Operators.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_004_Operators/src/_009_BitwiseOperators/BitWiseOperators.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_004_Operators/src/_010_ShortCircuitLogicalOperators/ShortCircuitLogicalOperators.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_004_Operators/src/_010_ShortCircuitLogicalOperators/ShortCircuitLogicalOperators2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_004_Operators/src/_000_Sandbox/_009_XOR_Operator/XOR_Operator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>
