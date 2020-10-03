@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a6a57ec-8c92-4d88-99ea-4d1afff1d253" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/IDE_Chapter_004_Operators/src/_000_Sandbox/_009_XOR_Operator/XOR_Operator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IDE_Chapter_004_Operators/src/_000_Sandbox/_010_IncrementDecrement/IncrementDecrement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestPreparation/src/_000_SANDBOX/_001_Abstract/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestPreparation/src/_000_SANDBOX/_001_Abstract/Pelican.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,38 +32,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/IDE_Chapter_004_Operators/src/_009_BitwiseOperators/BitWiseOperators.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/IDE_Chapter_004_Operators/src/_010_ShortCircuitLogicalOperators/ShortCircuitLogicalOperators.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/IDE_Chapter_004_Operators/src/_010_ShortCircuitLogicalOperators/ShortCircuitLogicalOperators2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/IDE_Chapter_004_Operators/src/_000_Sandbox/_009_XOR_Operator/XOR_Operator.java">
+        <entry file="file://$PROJECT_DIR$/TestPreparation/src/_000_SANDBOX/_001_Abstract/Bird.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="5" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestPreparation/src/_000_SANDBOX/_001_Abstract/Pelican.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -84,9 +67,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/extendClasses_01/Mercedes.java" />
-        <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/extendClasses_01/Vehicle.java" />
-        <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/enums_01/HE_Type.java" />
         <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/enums_01/HappyEuro.java" />
         <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/enums_01/Main.java" />
         <option value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/enums_02/WeekDays.java" />
@@ -135,12 +115,15 @@
         <option value="$PROJECT_DIR$/IDE_Chapter_002_ObjectOrientation/src/_000_Sandbox/_016_CompareObjects/UnbekanntesFlugObjekt.java" />
         <option value="$PROJECT_DIR$/IDE_Chapter_002_ObjectOrientation/src/_006_OverriddenMethods_withPrimitives/Main.java" />
         <option value="$PROJECT_DIR$/IDE_Chapter_004_Operators/src/_000_Sandbox/_009_XOR_Operator/XOR_Operator.java" />
+        <option value="$PROJECT_DIR$/IDE_Chapter_004_Operators/src/_000_Sandbox/_010_IncrementDecrement/IncrementDecrement.java" />
+        <option value="$PROJECT_DIR$/TestPreparation/src/_000_SANDBOX/_001_Abstract/Bird.java" />
+        <option value="$PROJECT_DIR$/TestPreparation/src/_000_SANDBOX/_001_Abstract/Pelican.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="244" />
-    <option name="y" value="98" />
+    <option name="x" value="196" />
+    <option name="y" value="63" />
     <option name="width" value="1597" />
     <option name="height" value="944" />
   </component>
@@ -149,6 +132,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -180,7 +165,7 @@
               <item name="IDE_Chapter_004_Operators" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_000_Sandbox" type="462c0819:PsiDirectoryNode" />
-              <item name="_009_XOR_Operator" type="462c0819:PsiDirectoryNode" />
+              <item name="_010_IncrementDecrement" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
@@ -195,6 +180,32 @@
               <item name="IDE_Chapter_004_Operators" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_010_ShortCircuitLogicalOperators" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OCA" type="462c0819:PsiDirectoryNode" />
+              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OCA" type="462c0819:PsiDirectoryNode" />
+              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OCA" type="462c0819:PsiDirectoryNode" />
+              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_000_SANDBOX" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OCA" type="462c0819:PsiDirectoryNode" />
+              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_000_SANDBOX" type="462c0819:PsiDirectoryNode" />
+              <item name="_001_Abstract" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
@@ -230,8 +241,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -280,9 +289,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.XOR_Operator">
+  <component name="RunManager" selected="Application.Bird">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bird" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_000_SANDBOX._001_Abstract.Bird" />
+      <module name="OCA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_000_SANDBOX._001_Abstract.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -315,13 +338,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_006_OverriddenMethods_withPrimitives.Main" />
-      <module name="IDE_Chapter_002_ObjectOrientation" />
+    <configuration name="IncrementDecrement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_000_Sandbox._010_IncrementDecrement.IncrementDecrement" />
+      <module name="IDE_Chapter_004_Operators" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_006_OverriddenMethods_withPrimitives.*" />
+          <option name="PATTERN" value="_000_Sandbox._010_IncrementDecrement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -333,20 +356,6 @@
       <option name="MAIN_CLASS_NAME" value="com.sun.java.util.jar.pack.Driver" />
       <module name="OCA" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UnbekanntesFlugObjekt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_000_Sandbox._016_CompareObjects.UnbekanntesFlugObjekt" />
-      <module name="IDE_Chapter_002_ObjectOrientation" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_000_Sandbox._016_CompareObjects.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -398,19 +407,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.OCA" />
-      <item itemvalue="Application.UnbekanntesFlugObjekt" />
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Coffee" />
       <item itemvalue="Application.BitWiseOperators" />
       <item itemvalue="Application.XOR_Operator" />
+      <item itemvalue="Application.IncrementDecrement" />
+      <item itemvalue="Application.Bird" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Bird" />
+        <item itemvalue="Application.IncrementDecrement" />
         <item itemvalue="Application.XOR_Operator" />
         <item itemvalue="Application.BitWiseOperators" />
         <item itemvalue="Application.Coffee" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.UnbekanntesFlugObjekt" />
       </list>
     </recent_temporary>
   </component>
@@ -457,6 +466,10 @@
       <workItem from="1601097254447" duration="594000" />
       <workItem from="1601124581085" duration="6625000" />
       <workItem from="1601184314485" duration="3204000" />
+      <workItem from="1601304060651" duration="1786000" />
+      <workItem from="1601401803348" duration="679000" />
+      <workItem from="1601572551975" duration="769000" />
+      <workItem from="1601701980886" duration="814000" />
     </task>
     <task id="LOCAL-00001" summary="TestComm">
       <created>1588317550186</created>
@@ -598,17 +611,23 @@
       <option name="project" value="LOCAL" />
       <updated>1601216549826</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="XOR Operator">
+      <created>1601222389178</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1601222389178</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85825000" />
+    <option name="totallyTimeSpent" value="91561000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="244" y="98" width="1597" height="944" extended-state="0" />
-    <editor active="true" />
+    <frame x="196" y="63" width="1597" height="944" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3240078" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3422251" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -618,7 +637,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32917964" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.37484586" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37484586" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.33538842" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -705,7 +724,8 @@
     <MESSAGE value="Down/Up-Casting" />
     <MESSAGE value="Exception message" />
     <MESSAGE value="instance of test" />
-    <option name="LAST_COMMIT_MESSAGE" value="instance of test" />
+    <MESSAGE value="XOR Operator" />
+    <option name="LAST_COMMIT_MESSAGE" value="XOR Operator" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -774,27 +794,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/InheritantMembers/Zoo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/InheritantMembers/Moo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/ProtectedMembers/parent/Parent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/IDE_Chapter_001__DeclarationAndAccessControl/src/_000_Sandbox/ProtectedMembers/child/child.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1056,8 +1055,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/IDE_Chapter_004_Operators/src/_000_Sandbox/_009_XOR_Operator/XOR_Operator.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_004_Operators/src/_000_Sandbox/_010_IncrementDecrement/IncrementDecrement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestPreparation/src/_000_SANDBOX/_001_Abstract/Pelican.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestPreparation/src/_000_SANDBOX/_001_Abstract/Bird.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="45" />
         </state>
       </provider>
     </entry>
