@@ -3,7 +3,7 @@ package _010_ArrayFalse;
 public class ArrayFalse {
     public static void main(String[] args){
         int[][] books = new int[3][];
-        int[] numbers = new int[6];
+        int []numbers = new int[6];
 
         int aNumber = 42;
 

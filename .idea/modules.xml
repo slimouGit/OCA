@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/IDE_Chapter_002_ObjectOrientation/IDE_Chapter_002_ObjectOrientation.iml" filepath="$PROJECT_DIR$/IDE_Chapter_002_ObjectOrientation/IDE_Chapter_002_ObjectOrientation.iml" />
       <module fileurl="file://$PROJECT_DIR$/IDE_Chapter_004_Operators/IDE_Chapter_004_Operators.iml" filepath="$PROJECT_DIR$/IDE_Chapter_004_Operators/IDE_Chapter_004_Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IDE_Chapter_005_FlowControlAndExceptions/IDE_Chapter_005_FlowControlAndExceptions.iml" filepath="$PROJECT_DIR$/IDE_Chapter_005_FlowControlAndExceptions/IDE_Chapter_005_FlowControlAndExceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IDE_Chapter_006_StringsArraysArrayListsDatesLambdas/IDE_Chapter_006_StringsArraysArrayListsDatesLambdas.iml" filepath="$PROJECT_DIR$/IDE_Chapter_006_StringsArraysArrayListsDatesLambdas/IDE_Chapter_006_StringsArraysArrayListsDatesLambdas.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/OCA.iml" filepath="$PROJECT_DIR$/.idea/OCA.iml" />
     </modules>
   </component>
