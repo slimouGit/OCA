@@ -19,6 +19,13 @@ public class Main {
                 //CAST LIKE THIS
                 Dog d = (Dog) animal;
                 d.playDead();
+
+
+                //CAST LIKE THIS
+                ((Dog) animal).makeNoise();
+                //CAST LIKE THIS
+                Dog d2 = (Dog) animal;
+                d2.makeNoise();
             }
         }
     }

@@ -1,10 +1,13 @@
 package _002_001_InvokeOrderStaticInitConstructor;
 
 public class Hawk extends Raptor {
+    public Hawk(){
+        System.out.println("Constructor Hawk ");              //7
+    };
     public static void main(String[] args){
-        System.out.println("3. pre ");         //3
+        System.out.println("Sysout after main ");         //3
         new Hawk();
-        System.out.println("8. hawk ");           //8
+        System.out.println("Sysout at the end of main ");           //8
     }
 
     /**

@@ -1,6 +1,7 @@
 package _002_001_InvokeOrderStaticInitConstructor;
 
 public class Bird {
-    {System.out.println("4. b1 ");}                //4
-    public Bird(){System.out.println("5. b2 ");}   //5
+    static { System.out.println("1. static ");}
+    {System.out.println("1. Init ");}                //4
+    public Bird(){System.out.println("Constructor Bird ");}   //5
 }
