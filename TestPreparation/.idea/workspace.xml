@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aef1a376-5670-447e-805c-f9d07a928f0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_006_2_StringArrayNullPointer/Hilltop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_044_MutableImutable/MutandData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_045_Overriding/MyAbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_045_Overriding/MyConcreteClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_046_Overloading/MySubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_046_Overloading/MySuperClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/src/_014_Contructor/UseBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/src/_014_Contructor/UseBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,19 +24,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_006_1_StringAndStringBuilder/Mutant.java">
+        <entry file="file://$PROJECT_DIR$/src/_045_Overriding/MyAbstractClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+            <state relative-caret-position="272">
+              <caret line="16" column="45" lean-forward="true" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_045_Overriding/MyConcreteClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_006_2_StringArrayNullPointer/Hilltop.java">
+        <entry file="file://$PROJECT_DIR$/src/_046_Overloading/MySubClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+            <state relative-caret-position="187">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_046_Overloading/MySuperClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -51,11 +75,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/_002_011_ConstructorInheritance/AubAlpha.java" />
-        <option value="$PROJECT_DIR$/src/_002_011_ConstructorInheritance/Alpha.java" />
-        <option value="$PROJECT_DIR$/src/_002_011_ConstructorInheritance/SubAlpha.java" />
-        <option value="$PROJECT_DIR$/src/_002_011_ConstructorInheritance/SubSubAlpha.java" />
-        <option value="$PROJECT_DIR$/src/_002_13_Polymorphism/Mammal.java" />
         <option value="$PROJECT_DIR$/src/_002_13_Polymorphism/Zebra.java" />
         <option value="$PROJECT_DIR$/src/_002_13_Polymorphism/ZooKeeper.java" />
         <option value="$PROJECT_DIR$/src/_002_14_Interface/FrogBoilable.java" />
@@ -102,14 +121,19 @@
         <option value="$PROJECT_DIR$/src/_005_13_RecursivException/Gotcha.java" />
         <option value="$PROJECT_DIR$/src/_006_1_StringAndStringBuilder/Mutant.java" />
         <option value="$PROJECT_DIR$/src/_006_2_StringArrayNullPointer/Hilltop.java" />
+        <option value="$PROJECT_DIR$/src/_045_Overriding/MyAbstractClass.java" />
+        <option value="$PROJECT_DIR$/src/_045_Overriding/MyConcreteClass.java" />
+        <option value="$PROJECT_DIR$/src/_046_Overloading/MyAbstractClass.java" />
+        <option value="$PROJECT_DIR$/src/_046_Overloading/MySubClass.java" />
+        <option value="$PROJECT_DIR$/src/_046_Overloading/MySuperClass.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="171" />
-    <option name="y" value="43" />
-    <option name="width" value="1545" />
-    <option name="height" value="1043" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="182" />
+    <option name="y" value="71" />
+    <option name="width" value="1597" />
+    <option name="height" value="944" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -117,8 +141,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -135,30 +157,20 @@
               <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_001_003_AccessCompositions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_006_1_StringAndStringBuilder" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_006_2_StringArrayNullPointer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_033_006_IntegerArrayList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_045_Overriding" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -335,17 +347,18 @@
       <workItem from="1588135362102" duration="17083000" />
       <workItem from="1588227271705" duration="15548000" />
       <workItem from="1588311981402" duration="1353000" />
+      <workItem from="1604134126230" duration="3527000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81105000" />
+    <option name="totallyTimeSpent" value="84632000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21641791" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2185501" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1088,34 +1101,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/_002_10_ClassReferences/Singer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="20" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_002_011_ConstructorInheritance/SubAlpha.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="11" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_002_011_ConstructorInheritance/Alpha.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_002_011_ConstructorInheritance/SubSubAlpha.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_002_13_Polymorphism/ZooKeeper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1428,7 +1413,7 @@
     <entry file="file://$PROJECT_DIR$/src/_006_1_StringAndStringBuilder/Mutant.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -1436,6 +1421,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_045_Overriding/MyAbstractClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="45" lean-forward="true" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_045_Overriding/MyConcreteClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_046_Overloading/MySuperClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_046_Overloading/MySubClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>

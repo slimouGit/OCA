@@ -2,19 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a6a57ec-8c92-4d88-99ea-4d1afff1d253" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TestPreparation/src/_035_Increment/Calcs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestPreparation/src/_036_Interfaces/I1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestPreparation/src/_036_Interfaces/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestPreparation/src/_037_StringReference/StringReference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestPreparation/src/_038_LoopContinue/LoopWithContinue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestPreparation/src/_039_LoopBreak/LoopWithBreak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestPreparation/src/_040_DoWhile/DoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestPreparation/src/_041_CastingClasses/CastingClasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestPreparation/src/_041_CastingClasses/Sub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestPreparation/src/_041_CastingClasses/Super.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestPreparation/src/_042_RuntimeException/CatchMeOrNot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestPreparation/src/_043_StringComparing/StringComparing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestPreparation/src/_044_MutableImutable/MutandData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestPreparation/src/_045_Overriding/MyAbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestPreparation/src/_045_Overriding/MyConcreteClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestPreparation/src/_046_Overloading/MySubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestPreparation/src/_046_Overloading/MySuperClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDE_Chapter_002_ObjectOrientation/src/_014_Contructor/UseBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/IDE_Chapter_002_ObjectOrientation/src/_014_Contructor/UseBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestPreparation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestPreparation/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,20 +36,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestPreparation/src/_042_RuntimeException/CatchMeOrNot.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/IDE_Chapter_002_ObjectOrientation/src/_014_Contructor/Bar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            <state relative-caret-position="34">
+              <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/TestPreparation/src/_043_StringComparing/StringComparing.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IDE_Chapter_002_ObjectOrientation/src/_014_Contructor/UseBar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+            <state relative-caret-position="85">
+              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="7" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -86,9 +81,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/TestPreparation/src/_034_Exceptions/StackTrace.java" />
-        <option value="$PROJECT_DIR$/IDE_Chapter_002_ObjectOrientation/src/_000_Sandbox/_016_CompareObjects/UnbekanntesFlugObjekt.java" />
-        <option value="$PROJECT_DIR$/IDE_Chapter_002_ObjectOrientation/src/_006_OverriddenMethods_withPrimitives/Main.java" />
         <option value="$PROJECT_DIR$/IDE_Chapter_004_Operators/src/_000_Sandbox/_009_XOR_Operator/XOR_Operator.java" />
         <option value="$PROJECT_DIR$/IDE_Chapter_004_Operators/src/_000_Sandbox/_010_IncrementDecrement/IncrementDecrement.java" />
         <option value="$PROJECT_DIR$/TestPreparation/src/_000_SANDBOX/_001_Abstract/Pelican.java" />
@@ -137,12 +129,15 @@
         <option value="$PROJECT_DIR$/TestPreparation/src/_037_StringReference/StringReference.java" />
         <option value="$PROJECT_DIR$/TestPreparation/src/_042_RuntimeException/CatchMeOrNot.java" />
         <option value="$PROJECT_DIR$/TestPreparation/src/_043_StringComparing/StringComparing.java" />
+        <option value="$PROJECT_DIR$/TestPreparation/src/_044_MutableImutable/MutandData.java" />
+        <option value="$PROJECT_DIR$/IDE_Chapter_002_ObjectOrientation/src/_014_Contructor/UseBar.java" />
+        <option value="$PROJECT_DIR$/IDE_Chapter_002_ObjectOrientation/src/_014_Contructor/Bar.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="196" />
-    <option name="y" value="27" />
+    <option name="x" value="182" />
+    <option name="y" value="71" />
     <option name="width" value="1597" />
     <option name="height" value="944" />
   </component>
@@ -151,6 +146,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -161,20 +158,50 @@
             <path>
               <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
               <item name="OCA" type="462c0819:PsiDirectoryNode" />
-              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
+              <item name="IDE_Chapter_001__DeclarationAndAccessControl" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
               <item name="OCA" type="462c0819:PsiDirectoryNode" />
-              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
+              <item name="IDE_Chapter_002_ObjectOrientation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OCA" type="462c0819:PsiDirectoryNode" />
+              <item name="IDE_Chapter_002_ObjectOrientation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
               <item name="OCA" type="462c0819:PsiDirectoryNode" />
-              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
+              <item name="IDE_Chapter_002_ObjectOrientation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_043_StringComparing" type="462c0819:PsiDirectoryNode" />
+              <item name="_014_Contructor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OCA" type="462c0819:PsiDirectoryNode" />
+              <item name="IDE_Chapter_002_ObjectOrientation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_015_OverloadedConstructor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OCA" type="462c0819:PsiDirectoryNode" />
+              <item name="IDE_Chapter_002_ObjectOrientation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_016_ConstructorFAIL" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OCA" type="462c0819:PsiDirectoryNode" />
+              <item name="IDE_Chapter_003_Assignments" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OCA" type="462c0819:PsiDirectoryNode" />
+              <item name="IDE_Chapter_003_Assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="OCA" type="b2602c69:ProjectViewProjectNode" />
@@ -202,8 +229,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -256,7 +281,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringComparing">
+  <component name="RunManager" selected="Application.UseBar">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -291,27 +316,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_040_DoWhile.DoWhile" />
+    <configuration name="MutandData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_044_MutableImutable.MutandData" />
       <module name="OCA" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_040_DoWhile.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoopWithBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_039_LoopBreak.LoopWithBreak" />
-      <module name="OCA" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_039_LoopBreak.*" />
+          <option name="PATTERN" value="_044_MutableImutable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -334,6 +345,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="_043_StringComparing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UseBar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_014_Contructor.UseBar" />
+      <module name="IDE_Chapter_002_ObjectOrientation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_014_Contructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -374,19 +399,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.OCA" />
-      <item itemvalue="Application.LoopWithBreak" />
-      <item itemvalue="Application.DoWhile" />
       <item itemvalue="Application.CastingClasses" />
       <item itemvalue="Application.CatchMeOrNot" />
       <item itemvalue="Application.StringComparing" />
+      <item itemvalue="Application.MutandData" />
+      <item itemvalue="Application.UseBar" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UseBar" />
+        <item itemvalue="Application.MutandData" />
         <item itemvalue="Application.StringComparing" />
         <item itemvalue="Application.CatchMeOrNot" />
         <item itemvalue="Application.CastingClasses" />
-        <item itemvalue="Application.DoWhile" />
-        <item itemvalue="Application.LoopWithBreak" />
       </list>
     </recent_temporary>
   </component>
@@ -444,7 +469,10 @@
       <workItem from="1602091273013" duration="2514000" />
       <workItem from="1602170710261" duration="1206000" />
       <workItem from="1602222753946" duration="10971000" />
-      <workItem from="1602314839710" duration="5528000" />
+      <workItem from="1602314839710" duration="7610000" />
+      <workItem from="1602395420909" duration="2632000" />
+      <workItem from="1602520961000" duration="461000" />
+      <workItem from="1604140204355" duration="3116000" />
     </task>
     <task id="LOCAL-00001" summary="TestComm">
       <created>1588317550186</created>
@@ -635,17 +663,24 @@
       <option name="project" value="LOCAL" />
       <updated>1602006239782</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="some new stuff">
+      <created>1602348030728</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1602348030728</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="142586000" />
+    <option name="totallyTimeSpent" value="150877000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="196" y="27" width="1597" height="944" extended-state="0" />
+    <frame x="182" y="71" width="1597" height="944" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.38061157" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3962264" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -655,13 +690,13 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32917964" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31442663" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31442663" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.45499384" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3292232" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.46115905" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32917964" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -746,9 +781,9 @@
     <MESSAGE value="testing Operators" />
     <MESSAGE value="comparing Strings" />
     <MESSAGE value="Instance of" />
-    <MESSAGE value="some new stuff" />
     <MESSAGE value="Init Static order" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init Static order" />
+    <MESSAGE value="some new stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="some new stuff" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -853,28 +888,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/IDE_Chapter_004_Operators/src/_000_Sandbox/_013_ComparingObjects/ComparingObjects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IDE_Chapter_004_Operators/src/_000_Sandbox/_015_InstanceOf/InstanceOf_Tests.java" />
-    <entry file="file://$PROJECT_DIR$/IDE_Chapter_004_Operators/src/_000_Sandbox/_014_ComparingStrings/ComparingStrings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IDE_Chapter_004_Operators/src/_000_Sandbox/_015_InstanceOf/Vehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/IDE_Chapter_004_Operators/src/_000_Sandbox/_015_InstanceOf/Car.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -1193,14 +1206,42 @@
     <entry file="file://$PROJECT_DIR$/TestPreparation/src/_042_RuntimeException/CatchMeOrNot.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TestPreparation/src/_043_StringComparing/StringComparing.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+        <state relative-caret-position="85">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestPreparation/src/_044_MutableImutable/MutandData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_002_ObjectOrientation/src/_016_ConstructorFAIL/ConstructorFail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_002_ObjectOrientation/src/_014_Contructor/UseBar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDE_Chapter_002_ObjectOrientation/src/_014_Contructor/Bar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
         </state>
       </provider>
     </entry>
