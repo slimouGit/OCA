@@ -2,14 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aef1a376-5670-447e-805c-f9d07a928f0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_044_MutableImutable/MutandData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_045_Overriding/MyAbstractClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_045_Overriding/MyConcreteClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_046_Overloading/MySubClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_046_Overloading/MySuperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_047_DefaulConstructorNeeded/Bottom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_047_DefaulConstructorNeeded/Top.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_048_Overridden/Clidder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_048_Overridden/Clidlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_049_InvokeOrder/InvokeOrder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/src/_014_Contructor/UseBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IDE_Chapter_002_ObjectOrientation/src/_014_Contructor/UseBar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TestPreparation/META-INF/TestPreparation.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TestPreparation/_000_OCA_Array_001/Zippy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TestPreparation/_000_OCA_Array_001/Zippy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TestPreparation/_002_001_InvokeOrderStaticInitConstructor/Bird.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TestPreparation/_002_001_InvokeOrderStaticInitConstructor/Bird.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TestPreparation/_002_001_InvokeOrderStaticInitConstructor/Hawk.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TestPreparation/_002_001_InvokeOrderStaticInitConstructor/Hawk.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TestPreparation/_002_001_InvokeOrderStaticInitConstructor/Raptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TestPreparation/_002_001_InvokeOrderStaticInitConstructor/Raptor.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,37 +28,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_045_Overriding/MyAbstractClass.java">
+        <entry file="file://$PROJECT_DIR$/src/_048_Overridden/Clidder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="45" lean-forward="true" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+            <state relative-caret-position="119">
+              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_045_Overriding/MyConcreteClass.java">
+        <entry file="file://$PROJECT_DIR$/src/_048_Overridden/Clidlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+            <state relative-caret-position="204">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_046_Overloading/MySubClass.java">
+        <entry file="file://$PROJECT_DIR$/src/_049_InvokeOrder/InvokeOrder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_046_Overloading/MySuperClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="119">
+              <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -75,11 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/_002_13_Polymorphism/Zebra.java" />
-        <option value="$PROJECT_DIR$/src/_002_13_Polymorphism/ZooKeeper.java" />
-        <option value="$PROJECT_DIR$/src/_002_14_Interface/FrogBoilable.java" />
-        <option value="$PROJECT_DIR$/src/_002_14_Interface/DontBoilFrogs.java" />
-        <option value="$PROJECT_DIR$/src/_002_15_Interfaces/I1.java" />
         <option value="$PROJECT_DIR$/src/_002_15_Interfaces/I2.java" />
         <option value="$PROJECT_DIR$/src/_002_15_Interfaces/MultiInt.java" />
         <option value="$PROJECT_DIR$/src/_002_16_Interfaces/DummyInterface.java" />
@@ -124,12 +114,17 @@
         <option value="$PROJECT_DIR$/src/_045_Overriding/MyAbstractClass.java" />
         <option value="$PROJECT_DIR$/src/_045_Overriding/MyConcreteClass.java" />
         <option value="$PROJECT_DIR$/src/_046_Overloading/MyAbstractClass.java" />
-        <option value="$PROJECT_DIR$/src/_046_Overloading/MySubClass.java" />
         <option value="$PROJECT_DIR$/src/_046_Overloading/MySuperClass.java" />
+        <option value="$PROJECT_DIR$/src/_046_Overloading/MySubClass.java" />
+        <option value="$PROJECT_DIR$/src/_047_DefaulConstructorNeeded/Top.java" />
+        <option value="$PROJECT_DIR$/src/_047_DefaulConstructorNeeded/Bottom.java" />
+        <option value="$PROJECT_DIR$/src/_048_Overridden/Clidder.java" />
+        <option value="$PROJECT_DIR$/src/_048_Overridden/Clidlet.java" />
+        <option value="$PROJECT_DIR$/src/_049_InvokeOrder/InvokeOrder.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="182" />
     <option name="y" value="71" />
     <option name="width" value="1597" />
@@ -141,6 +136,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -157,20 +154,12 @@
               <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_033_006_IntegerArrayList" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_045_Overriding" type="462c0819:PsiDirectoryNode" />
+              <item name="_049_InvokeOrder" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -194,20 +183,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Hilltop">
+  <component name="RunManager" selected="Application.InvokeOrder">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Circles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_005_10_ForLoopWithContinueAndBreak.Circles" />
+    <configuration name="Clidlet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_048_Overridden.Clidlet" />
       <module name="TestPreparation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_005_10_ForLoopWithContinueAndBreak.*" />
+          <option name="PATTERN" value="_048_Overridden.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -243,13 +232,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mutant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_006_1_StringAndStringBuilder.Mutant" />
+    <configuration name="InvokeOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_049_InvokeOrder.InvokeOrder" />
       <module name="TestPreparation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_006_1_StringAndStringBuilder.*" />
+          <option name="PATTERN" value="_049_InvokeOrder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -257,13 +246,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Wind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_005_12_LoopWithLabels.Wind" />
+    <configuration name="Mutant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_006_1_StringAndStringBuilder.Mutant" />
       <module name="TestPreparation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_005_12_LoopWithLabels.*" />
+          <option name="PATTERN" value="_006_1_StringAndStringBuilder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -303,19 +292,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Circles" />
-      <item itemvalue="Application.Wind" />
       <item itemvalue="Application.Gotcha" />
       <item itemvalue="Application.Mutant" />
       <item itemvalue="Application.Hilltop" />
+      <item itemvalue="Application.Clidlet" />
+      <item itemvalue="Application.InvokeOrder" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InvokeOrder" />
+        <item itemvalue="Application.Clidlet" />
         <item itemvalue="Application.Hilltop" />
         <item itemvalue="Application.Mutant" />
         <item itemvalue="Application.Gotcha" />
-        <item itemvalue="Application.Wind" />
-        <item itemvalue="Application.Circles" />
       </list>
     </recent_temporary>
   </component>
@@ -348,17 +337,18 @@
       <workItem from="1588227271705" duration="15548000" />
       <workItem from="1588311981402" duration="1353000" />
       <workItem from="1604134126230" duration="3527000" />
+      <workItem from="1604214260917" duration="2600000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84632000" />
+    <option name="totallyTimeSpent" value="87232000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2185501" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18123667" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1101,41 +1091,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/_002_13_Polymorphism/ZooKeeper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="82" selection-start-line="15" selection-start-column="82" selection-end-line="15" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_002_13_Polymorphism/Zebra.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_002_13_Polymorphism/Mammal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="4" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_002_15_Interfaces/I2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_002_15_Interfaces/I1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_002_15_Interfaces/MultiInt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -1427,14 +1382,21 @@
     <entry file="file://$PROJECT_DIR$/src/_045_Overriding/MyAbstractClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" column="45" lean-forward="true" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_045_Overriding/MyConcreteClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_046_Overloading/MySubClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
@@ -1445,10 +1407,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_046_Overloading/MySubClass.java">
+    <entry file="file://$PROJECT_DIR$/src/_047_DefaulConstructorNeeded/Top.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="85">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_047_DefaulConstructorNeeded/Bottom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_048_Overridden/Clidder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_048_Overridden/Clidlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_049_InvokeOrder/InvokeOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
         </state>
       </provider>
     </entry>
