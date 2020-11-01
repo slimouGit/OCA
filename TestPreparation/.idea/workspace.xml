@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aef1a376-5670-447e-805c-f9d07a928f0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_050_CastingOrder/Sub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_050_CastingOrder/Super.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_050_CastingOrder/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_051_PolymorphismInStaticMethods/Singer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_051_PolymorphismInStaticMethods/Thenor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_052_GarbageCollector_Eligible/CardBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_053_ModifyObjects/Fizz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_054_Substring/Substring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_055_ProtectedMembersInSamePackage/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_055_ProtectedMembersInSamePackage/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_055_ProtectedMembersInSamePackage/StiefKind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_055_ProtectedMembersInSamePackage/StiefMutter/StiefMutter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_056_StringImmutable/ImmutableString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_057_InterfaceBehaviour/I1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_057_InterfaceBehaviour/ITester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_058_InheritanceCastings/Sub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_058_InheritanceCastings/Super.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_058_InheritanceCastings/TestCastings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_059_GarabargeCollector/GC_Eligibility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_060_RandomArrayValue/RandomArrayValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_061_ENUM/Week.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -72,11 +52,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_060_RandomArrayValue/RandomArrayValue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+            <state relative-caret-position="306">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/_061_ENUM/Week.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -97,8 +86,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/_004_7_EnumsLoopsTernary/McGee.java" />
-        <option value="$PROJECT_DIR$/src/_004_9_Operators/Spock.java" />
         <option value="$PROJECT_DIR$/src/_004_10_InstanceOf/Toy.java" />
         <option value="$PROJECT_DIR$/src/_004_10_InstanceOf/Vessel.java" />
         <option value="$PROJECT_DIR$/src/_004_10_InstanceOf/Boat.java" />
@@ -148,6 +135,8 @@
         <option value="$PROJECT_DIR$/src/_059_GarabargeCollector/GC_Eligibility.java" />
         <option value="$PROJECT_DIR$/src/_060_RandomArrayValue/RandomArrayValus.java" />
         <option value="$PROJECT_DIR$/src/_060_RandomArrayValue/RandomArrayValue.java" />
+        <option value="$PROJECT_DIR$/src/_061_ENUM/Weekdays.java" />
+        <option value="$PROJECT_DIR$/src/_061_ENUM/Week.java" />
       </list>
     </option>
   </component>
@@ -181,7 +170,7 @@
               <item name="TestPreparation" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestPreparation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_060_RandomArrayValue" type="462c0819:PsiDirectoryNode" />
+              <item name="_061_ENUM" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -211,7 +200,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RandomArrayValue">
+  <component name="RunManager" selected="Application.Week">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -246,20 +235,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImmutableString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_056_StringImmutable.ImmutableString" />
-      <module name="TestPreparation" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_056_StringImmutable.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="RandomArrayValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_060_RandomArrayValue.RandomArrayValue" />
       <module name="TestPreparation" />
@@ -281,6 +256,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="_058_InheritanceCastings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_061_ENUM.Week" />
+      <module name="TestPreparation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_061_ENUM.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -320,19 +309,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ImmutableString" />
       <item itemvalue="Application.ITester" />
       <item itemvalue="Application.TestCastings" />
       <item itemvalue="Application.GC_Eligibility" />
       <item itemvalue="Application.RandomArrayValue" />
+      <item itemvalue="Application.Week" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Week" />
         <item itemvalue="Application.RandomArrayValue" />
         <item itemvalue="Application.GC_Eligibility" />
         <item itemvalue="Application.TestCastings" />
         <item itemvalue="Application.ITester" />
-        <item itemvalue="Application.ImmutableString" />
       </list>
     </recent_temporary>
   </component>
@@ -365,7 +354,7 @@
       <workItem from="1588227271705" duration="15548000" />
       <workItem from="1588311981402" duration="1353000" />
       <workItem from="1604134126230" duration="3527000" />
-      <workItem from="1604214260917" duration="17235000" />
+      <workItem from="1604214260917" duration="18853000" />
     </task>
     <task id="LOCAL-00001" summary="some new stuff">
       <created>1604217923673</created>
@@ -374,11 +363,18 @@
       <option name="project" value="LOCAL" />
       <updated>1604217923673</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="some new stuff">
+      <created>1604253207275</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604253207275</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101867000" />
+    <option name="totallyTimeSpent" value="103485000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -393,8 +389,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32917964" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.38421598" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.44963655" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.38421598" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.44963655" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -1235,13 +1231,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/_004_4_StringAndMathimaticalOperations/Feline.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_004_6_DownRoundedInts/Cowboys.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -1587,8 +1576,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_060_RandomArrayValue/RandomArrayValue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_061_ENUM/Week.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
         </state>
       </provider>
     </entry>
