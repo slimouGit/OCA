@@ -1,11 +1,15 @@
-package notcert;
-import cert.Roo;
+package Bash_Chapter_001_DeclarationAndAccessControl._014_inherit_public_members_in_different_packages.notcert;
 
-class Cloo extends Roo{
+import Bash_Chapter_001_DeclarationAndAccessControl._014_inherit_public_members_in_different_packages.cert.Roo;
+
+class Cloo extends Roo {
 	public static void main(String[] args){
-	public void testCloo(){
-		Sytem.out.println(doRooThings());
-	}
+//	public void testCloo(){
+//		System.out.println(doRooThings());
+//	}
+
+	Roo roo = new Roo();
+	roo.doRooThings();
 }
 }
 
